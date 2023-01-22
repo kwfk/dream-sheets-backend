@@ -11,6 +11,7 @@ app.get("/", (req, res) => {
   res.redirect(`/${files[rand]}`);
 });
 
-app.listen(3000, () => {
-  console.log("Listen on the port 3000...");
+const port = parseInt(process.env.PORT) || 8080;
+app.listen(port, () => {
+  console.log(`Listen on the port ${port}...`);
 });
