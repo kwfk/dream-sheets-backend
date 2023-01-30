@@ -33,8 +33,40 @@ const serveImage = (filepath: string, res: Response) => {
   });
 };
 
-app.get("/", (req, res) => {
-  const prompt = req.query.prompt;
+app.get("/", async (req, res) => {
+  const { prompt } = req.query;
+  if (typeof prompt !== "string") {
+    res.status(401).send("Need a prompt as a string");
+    return;
+  }
+
+  const hash = md5(prompt);
+  const imgUrl =
+    req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
+  console.log(req.originalUrl);
+
+  // check if image file with hash exists
+  const files = fs.readdirSync(path.join(__dirname, "..", "imgs"));
+  const cachedImage = files.find((f) => f.split(".")[0] === hash);
+  if (cachedImage) {
+    res.send(imgUrl);
+  } else {
+    // generate new image with prompt
+    const { seed, base64Image } = await generateImage(prompt);
+    const img = Buffer.from(base64Image, "base64");
+    fs.writeFile(
+      path.join(__dirname, "..", "imgs", `${hash}.png`),
+      img,
+      (err) => {
+        if (err) throw err;
+        console.log("image has been saved");
+        res.send(imgUrl);
+      }
+    );
+  }
+});
+
+app.get("/random", (req, res) => {
   const files = fs.readdirSync(path.join(__dirname, "/../imgs"));
   if (files.length === 0) {
     res.status(404).end("Not found");
