@@ -36,6 +36,10 @@ const serveImage = (filepath: string, res: Response) => {
 app.get("/", (req, res) => {
   const prompt = req.query.prompt;
   const files = fs.readdirSync(path.join(__dirname, "/../imgs"));
+  if (files.length === 0) {
+    res.status(404).end("Not found");
+    return;
+  }
   const rand = Math.floor(Math.random() * files.length);
 
   const img = path.join(__dirname, "..", "imgs", files[rand]);
