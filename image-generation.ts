@@ -1,5 +1,5 @@
-import GenerationService from "../stabilityai-api-interfaces/gooseai/generation/generation_pb_service";
-import Generation from "../stabilityai-api-interfaces/gooseai/generation/generation_pb";
+import GenerationService from "./stabilityai-api-interfaces/gooseai/generation/generation_pb_service";
+import Generation from "./stabilityai-api-interfaces/gooseai/generation/generation_pb";
 import { grpc } from "@improbable-eng/grpc-web";
 import { NodeHttpTransport } from "@improbable-eng/grpc-web-node-http-transport";
 
@@ -83,12 +83,13 @@ export const generateImage = (prompt: string) => {
           return;
 
         // You can convert the raw binary into a base64 string
-        const base64Image = btoa(
-          new Uint8Array(artifact.getBinary()).reduce(
-            (data, byte) => data + String.fromCodePoint(byte),
-            ""
-          )
-        );
+        // const base64Image = btoa(
+        //   new Uint8Array(artifact.getBinary()).reduce(
+        //     (data, byte) => data + String.fromCodePoint(byte),
+        //     ""
+        //   )
+        // );
+        const base64Image = artifact.getBinary_asB64();
 
         // Here's how you get the seed back if you set it to `0` (random)
         const seed = artifact.getSeed();
