@@ -10,12 +10,12 @@ interface GeneratedImage {
   base64Image: string;
 }
 
-export const generateImage = (prompt: string) => {
+export const generateImage = (prompt: string, seed: number) => {
   // Set up image parameters
   const imageParams = new Generation.ImageParameters();
   imageParams.setWidth(512);
   imageParams.setHeight(512);
-  imageParams.addSeed(1234);
+  imageParams.addSeed(seed);
   imageParams.setSamples(1);
   imageParams.setSteps(50);
 
