@@ -57,17 +57,21 @@ app.get("/", async (req, res) => {
     res.send(imgUrl);
   } else {
     // generate new image with prompt
-    const { base64Image } = await generateImage(prompt, seed);
-    const img = Buffer.from(base64Image, "base64");
-    fs.writeFile(
-      path.join(__dirname, "..", "imgs", `${hash}.png`),
-      img,
-      (err) => {
-        if (err) throw err;
-        console.log("image has been saved");
-        res.send(imgUrl);
-      }
-    );
+    try {
+      const { base64Image } = await generateImage(prompt, seed);
+      const img = Buffer.from(base64Image, "base64");
+      fs.writeFile(
+        path.join(__dirname, "..", "imgs", `${hash}.png`),
+        img,
+        (err) => {
+          if (err) throw err;
+          console.log("image has been saved");
+          res.send(imgUrl);
+        }
+      );
+    } catch (err) {
+      res.status(500).send("Failed to generate image");
+    }
   }
 });
 
