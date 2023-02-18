@@ -122,7 +122,7 @@ app.get("/random", (req, res) => {
 // });
 
 app.get("/gpt", async (req, res) => {
-  const { prompt, n, temperature } = req.query;
+  const { prompt, n, temperature, stop, max_tokens } = req.query;
   console.log(prompt);
   if (typeof prompt !== "string") {
     res.status(401).send("Need a prompt as a string");
@@ -139,8 +139,23 @@ app.get("/gpt", async (req, res) => {
     temp_choice = parseFloat(temperature);
   }
 
+  let stop_choice = undefined;
+  if (stop && typeof stop === "string") {
+    stop_choice = stop;
+  }
+  let token_choice = undefined;
+  if (max_tokens && typeof max_tokens === "string") {
+    token_choice = parseInt(max_tokens);
+  }
+
   try {
-    const result = await GPT(prompt, num_choices, temp_choice);
+    const result = await GPT(
+      prompt,
+      num_choices,
+      temp_choice,
+      token_choice,
+      stop_choice
+    );
     res.status(200).send(result);
   } catch (err) {
     res.status(500).send("Failed to get GPT response");

@@ -1,6 +1,12 @@
 import { Configuration, OpenAIApi } from "openai";
 
-export const GPT = async (prompt: string, n = 1, temperature = 0.5) => {
+export const GPT = async (
+  prompt: string,
+  n = 1,
+  temperature = 0.5,
+  max_tokens = 100,
+  stop: null | string = null
+) => {
   // initialize Open AI API
   const openaiConfig = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
@@ -12,6 +18,8 @@ export const GPT = async (prompt: string, n = 1, temperature = 0.5) => {
     prompt,
     temperature,
     n,
+    max_tokens,
+    stop,
   };
 
   let response = "";
