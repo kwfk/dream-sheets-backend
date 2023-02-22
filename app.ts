@@ -88,39 +88,6 @@ app.get("/random", (req, res) => {
   serveImage(img, res);
 });
 
-// app.get("/generate", async (req, res) => {
-//   const { prompt } = req.query;
-//   if (typeof prompt !== "string") {
-//     res.status(401).send("Need a prompt as a string");
-//     return;
-//   }
-
-//   const hash = md5(prompt);
-
-//   // check if image file with hash exists
-//   const files = fs.readdirSync(path.join(__dirname, "..", "imgs"));
-//   const cachedImage = files.find((f) => f.split(".")[0] === hash);
-//   if (cachedImage) {
-//     const cachedImagePath = path.join(__dirname, "..", "imgs", cachedImage);
-//     serveImage(cachedImagePath, res);
-//     return;
-//   }
-
-//   // generate new image with prompt
-//   const { seed, base64Image } = await generateImage(prompt);
-//   const img = Buffer.from(base64Image, "base64");
-//   fs.writeFile(path.join(__dirname, "/../imgs", `${hash}.png`), img, (err) => {
-//     if (err) throw err;
-//     console.log("image has been saved");
-//   });
-
-//   res.writeHead(200, {
-//     "Content-Type": "image/png",
-//     "Content-Length": img.length,
-//   });
-//   res.end(img);
-// });
-
 app.get("/gpt", async (req, res) => {
   const { prompt, n, temperature, stop, max_tokens } = req.query;
   console.log(prompt);
