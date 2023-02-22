@@ -41,14 +41,14 @@ app.get("/", async (req, res) => {
     return;
   }
   let seed = 1234;
-  if (reqSeed && typeof reqSeed === "number") {
+  if (reqSeed && typeof reqSeed === "string" && parseInt(reqSeed)) {
     seed = parseInt(reqSeed);
   }
 
-  const hash = md5(prompt);
+  const hash = md5(`seed=${seed}&${prompt}`);
   const imgUrl =
     req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
-  console.log(req.originalUrl);
+  console.log(req.originalUrl, hash);
 
   // check if image file with hash exists
   const files = fs.readdirSync(path.join(__dirname, "..", "imgs"));
@@ -65,7 +65,7 @@ app.get("/", async (req, res) => {
         img,
         (err) => {
           if (err) throw err;
-          console.log("image has been saved");
+          console.log(`image ${hash} has been saved with prompt: ${prompt}`);
           res.send(imgUrl);
         }
       );
