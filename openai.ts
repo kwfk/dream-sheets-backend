@@ -1,4 +1,12 @@
-import { Configuration, OpenAIApi } from "openai";
+import {
+  Configuration,
+  OpenAIApi,
+  ChatCompletionRequestMessageRoleEnum,
+} from "openai";
+
+const OPENAI_CONFIG = new Configuration({
+  apiKey: process.env.OPENAI_API_KEY,
+});
 
 export const GPT = async (
   prompt: string,
@@ -8,10 +16,10 @@ export const GPT = async (
   stop: null | string = null
 ) => {
   // initialize Open AI API
-  const openaiConfig = new Configuration({
+  const config = new Configuration({
     apiKey: process.env.OPENAI_API_KEY,
   });
-  const openai = new OpenAIApi(openaiConfig);
+  const openai = new OpenAIApi(config);
 
   const request = {
     model: "text-davinci-003",
@@ -29,6 +37,65 @@ export const GPT = async (
   } catch (err) {
     console.error(err);
     throw err;
+  }
+
+  return response;
+};
+
+export const ListGPT = async (prompt: string, length: number) => {
+  const config = new Configuration({
+    apiKey: process.env.OPENAI_API_KEY,
+  });
+  const openai = new OpenAIApi(config);
+
+  const request = {
+    model: "gpt-3.5-turbo",
+    messages: [
+      {
+        role: ChatCompletionRequestMessageRoleEnum.System,
+        content:
+          "Respond with a Javascript array literal with the given length in parentheses.",
+      },
+      {
+        role: ChatCompletionRequestMessageRoleEnum.User,
+        content: "types of animals (length: 5)",
+      },
+      {
+        role: ChatCompletionRequestMessageRoleEnum.Assistant,
+        content: '["dog", "cat", "frog", "horse", "deer"]',
+      },
+      // {
+      //   role: ChatCompletionRequestMessageRoleEnum.User,
+      //   content: `synonyms of "happy" (length: 1)`,
+      // },
+      // {
+      //   role: ChatCompletionRequestMessageRoleEnum.Assistant,
+      //   content: '["joyful"]',
+      // },
+      {
+        role: ChatCompletionRequestMessageRoleEnum.User,
+        content: `${prompt} (length: ${length})`,
+      },
+    ],
+  };
+
+  let completion;
+  try {
+    completion = await openai.createChatCompletion(request);
+  } catch (err) {
+    console.error(err);
+    throw "Chat GPT failed to complete the request";
+  }
+
+  let response: string[] = [];
+  const message = completion.data.choices[0].message?.content;
+  if (message) {
+    try {
+      response = JSON.parse(message);
+    } catch (err) {
+      console.error(err);
+      throw `Chat GPT failed to generate a proper list.\n${message}`;
+    }
   }
 
   return response;

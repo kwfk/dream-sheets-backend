@@ -4,7 +4,7 @@ import path from "path";
 import fs from "fs";
 import md5 from "md5";
 import { generateImage } from "./stable-diffusion";
-import { GPT } from "./openai";
+import { GPT, ListGPT } from "./openai";
 
 const DEFAULT_SEED = 1234;
 
@@ -121,7 +121,7 @@ app.get("/random", (req, res) => {
 
 app.get("/gpt", async (req, res) => {
   const { prompt, n, temperature, stop, max_tokens } = req.query;
-  console.log(prompt);
+  console.log("gpt:", prompt);
   if (typeof prompt !== "string") {
     res.status(401).send("Need a prompt as a string");
     return;
@@ -157,6 +157,36 @@ app.get("/gpt", async (req, res) => {
     res.status(200).send(result);
   } catch (err) {
     res.status(500).send("Failed to get GPT response");
+  }
+});
+
+app.get("/listgpt", async (req, res) => {
+  const { prompt, length: reqLength } = req.query;
+  console.log("list gpt:", prompt);
+  if (typeof prompt !== "string") {
+    return res.status(401).send("Need a prompt as a string");
+  }
+
+  let length = 5;
+  if (reqLength && typeof reqLength === "string") {
+    const n = parseInt(reqLength);
+    if (!Number.isNaN(n)) length = n;
+  }
+
+  try {
+    let result;
+    let i = 3;
+    do {
+      result = await ListGPT(prompt, length);
+      i -= 1;
+    } while (i > 0 && result.length < length);
+    if (result.length > length) {
+      result = result.slice(0, length);
+    }
+    res.status(200).send(JSON.stringify(result));
+  } catch (err) {
+    console.error(err);
+    res.status(500).send(err);
   }
 });
 
