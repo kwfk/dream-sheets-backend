@@ -4,10 +4,6 @@ import {
   ChatCompletionRequestMessageRoleEnum,
 } from "openai";
 
-const OPENAI_CONFIG = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
-});
-
 export const GPT = async (
   prompt: string,
   n = 1,
@@ -64,14 +60,6 @@ export const ListGPT = async (prompt: string, length: number) => {
         role: ChatCompletionRequestMessageRoleEnum.Assistant,
         content: '["dog", "cat", "frog", "horse", "deer"]',
       },
-      // {
-      //   role: ChatCompletionRequestMessageRoleEnum.User,
-      //   content: `synonyms of "happy" (length: 1)`,
-      // },
-      // {
-      //   role: ChatCompletionRequestMessageRoleEnum.Assistant,
-      //   content: '["joyful"]',
-      // },
       {
         role: ChatCompletionRequestMessageRoleEnum.User,
         content: `${prompt} (length: ${length})`,
