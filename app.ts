@@ -6,6 +6,8 @@ import md5 from "md5";
 import { generateImage } from "./stable-diffusion";
 import { GPT } from "./openai";
 
+const DEFAULT_SEED = 1234;
+
 dotenv.config();
 const app = express();
 
@@ -35,17 +37,24 @@ const serveImage = (filepath: string, res: Response) => {
 };
 
 app.get("/", async (req, res) => {
-  const { prompt, seed: reqSeed } = req.query;
+  const { prompt, seed: reqSeed, cfg: reqCFG } = req.query;
   if (typeof prompt !== "string") {
     res.status(401).send("Need a prompt as a string");
     return;
   }
-  let seed = 1234;
+  let seed = DEFAULT_SEED;
   if (reqSeed && typeof reqSeed === "string" && parseInt(reqSeed)) {
     seed = parseInt(reqSeed);
   }
+  let cfg = 13;
+  if (reqCFG && typeof reqCFG === "string" && parseInt(reqCFG)) {
+    cfg = parseInt(reqCFG);
+  }
+  if (cfg < 0 || cfg > 35) {
+    res.status(401).send("CFG must be between 0 and 35");
+  }
 
-  const hash = md5(`seed=${seed}&${prompt}`);
+  const hash = md5(`seed=${seed}&cfg=${cfg}&${prompt}`);
   const imgUrl =
     req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
   console.log(req.originalUrl, hash);
@@ -58,7 +67,7 @@ app.get("/", async (req, res) => {
   } else {
     // generate new image with prompt
     try {
-      const { base64Image } = await generateImage(prompt, seed);
+      const { base64Image } = await generateImage(prompt, seed, cfg);
       const img = Buffer.from(base64Image, "base64");
       fs.writeFile(
         path.join(__dirname, "..", "imgs", `${hash}.png`),
@@ -70,9 +79,31 @@ app.get("/", async (req, res) => {
         }
       );
     } catch (err) {
+      console.error(err);
+      if (err === "NSFW")
+        return res
+          .status(403)
+          .send("Your image was filtered by the NSFW classifier.");
       res.status(500).send("Failed to generate image");
     }
   }
+});
+
+app.get("/img2img", async (req, res) => {
+  const { prompt, image, seed: reqSeed } = req.query;
+  if (typeof prompt !== "string") {
+    res.status(401).send("Need a prompt as a string");
+    return;
+  }
+  let seed = DEFAULT_SEED;
+  if (reqSeed && typeof reqSeed === "string" && parseInt(reqSeed)) {
+    seed = parseInt(reqSeed);
+  }
+
+  const hash = md5(`seed=${seed}&${prompt}`);
+  const imgUrl =
+    req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
+  console.log(req.originalUrl, hash);
 });
 
 app.get("/random", (req, res) => {

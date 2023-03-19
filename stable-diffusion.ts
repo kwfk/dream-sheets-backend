@@ -10,7 +10,15 @@ interface GeneratedImage {
   base64Image: string;
 }
 
-export const generateImage = (prompt: string, seed: number) => {
+export const generateImage = (
+  prompt: string,
+  seed: number,
+  cfg: number = 13
+) => {
+  if (cfg < 0 || cfg > 35) {
+    throw Error("CFG scale only between 0 and 35 inclusive");
+  }
+
   // Set up image parameters
   const imageParams = new Generation.ImageParameters();
   imageParams.setWidth(512);
@@ -32,7 +40,7 @@ export const generateImage = (prompt: string, seed: number) => {
 
   // Use a CFG scale of `13`
   const samplerParams = new Generation.SamplerParameters();
-  samplerParams.setCfgScale(13);
+  samplerParams.setCfgScale(cfg);
 
   const stepParams = new Generation.StepParameter();
   const scheduleParameters = new Generation.ScheduleParameters();
@@ -73,9 +81,7 @@ export const generateImage = (prompt: string, seed: number) => {
           artifact.getType() === Generation.ArtifactType.ARTIFACT_TEXT &&
           artifact.getFinishReason() === Generation.FinishReason.FILTER
         ) {
-          return console.error(
-            "Your image was filtered by the NSFW classifier."
-          );
+          reject("NSFW");
         }
 
         // Make sure we have an image
