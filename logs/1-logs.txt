@@ -1,0 +1,154 @@
+ts=13:53:10 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=13:53:10 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=13:53:10 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=13:53:10 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=13:53:10 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=13:55:11 | fn=TTI | prompt="person walking through street" | seed=1234 | cfg=13
+ts=13:55:40 | fn=TTI | prompt="horseback riding" | seed=1234 | cfg=13
+ts=13:56:05 | fn=TTI | prompt="horseback riding" | seed=1234 | cfg=13
+ts=13:56:19 | fn=TTI | prompt="horseback riding" | seed=1111 | cfg=13
+ts=13:56:34 | fn=TTI | prompt="horseback riding" | seed=1111 | cfg=20
+ts=13:56:43 | fn=TTI | prompt="horseback riding" | seed=1111 | cfg=13
+ts=14:04:09 | fn=GPT_LIST | prompt="types of animals" | length=5
+ts=14:04:37 | fn=GPT_LIST | prompt="colors" | length=5
+ts=14:06:56 | fn=TTI | prompt="red elephant" | seed=1234 | cfg=13
+ts=14:07:01 | fn=TTI | prompt="red giraffe" | seed=1234 | cfg=13
+ts=14:07:06 | fn=TTI | prompt="yellow elephant" | seed=1234 | cfg=13
+ts=14:07:06 | fn=TTI | prompt="red tiger" | seed=1234 | cfg=13
+ts=14:07:06 | fn=TTI | prompt="green elephant" | seed=1234 | cfg=13
+ts=14:07:07 | fn=TTI | prompt="blue elephant" | seed=1234 | cfg=13
+ts=14:07:07 | fn=TTI | prompt="red lion" | seed=1234 | cfg=13
+ts=14:07:12 | fn=TTI | prompt="yellow giraffe" | seed=1234 | cfg=13
+ts=14:07:12 | fn=TTI | prompt="blue giraffe" | seed=1234 | cfg=13
+ts=14:07:12 | fn=TTI | prompt="green giraffe" | seed=1234 | cfg=13
+ts=14:07:20 | fn=TTI | prompt="red cheetah" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="blue tiger" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="green cheetah" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="orange tiger" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="blue cheetah" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="green tiger" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="orange cheetah" | seed=1234 | cfg=13
+ts=14:07:25 | fn=TTI | prompt="yellow cheetah" | seed=1234 | cfg=13
+ts=14:07:26 | fn=TTI | prompt="yellow tiger" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="green lion" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="orange giraffe" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="orange elephant" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="yellow lion" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="orange lion" | seed=1234 | cfg=13
+ts=14:07:31 | fn=TTI | prompt="blue lion" | seed=1234 | cfg=13
+ts=14:09:30 | fn=ANTONYMS | prompt="divergent words to "hill"" | length=5
+ts=14:09:38 | fn=ANTONYMS | prompt="divergent words to "hill"" | length=5
+ts=14:10:18 | fn=TTI | prompt="red elephant on a valley" | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="yellow elephant on a valley" | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="orange elephant on a valley" | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="red lion on a " | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="blue elephant on a valley" | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="green elephant on a valley" | seed=1234 | cfg=13
+ts=14:10:28 | fn=TTI | prompt="red giraffe on a " | seed=1234 | cfg=13
+ts=14:10:39 | fn=TTI | prompt="red lion on a valley" | seed=1234 | cfg=13
+ts=14:10:39 | fn=TTI | prompt="red giraffe on a valley" | seed=1234 | cfg=13
+ts=14:10:49 | fn=TTI | prompt="green giraffe on a cliff" | seed=1234 | cfg=13
+ts=14:10:49 | fn=TTI | prompt="green elephant on a cliff" | seed=1234 | cfg=13
+ts=14:10:50 | fn=TTI | prompt="orange cheetah on a canyon" | seed=1234 | cfg=13
+ts=14:10:51 | fn=TTI | prompt="orange elephant on a canyon" | seed=1234 | cfg=13
+ts=14:10:51 | fn=TTI | prompt="green cheetah on a cliff" | seed=1234 | cfg=13
+ts=14:10:56 | fn=TTI | prompt="blue lion on a mountain" | seed=1234 | cfg=13
+ts=14:10:58 | fn=TTI | prompt="yellow elephant on a plateau" | seed=1234 | cfg=13
+ts=14:10:58 | fn=TTI | prompt="orange tiger on a canyon" | seed=1234 | cfg=13
+ts=14:10:58 | fn=TTI | prompt="yellow cheetah on a plateau" | seed=1234 | cfg=13
+ts=14:11:01 | fn=TTI | prompt="green lion on a cliff" | seed=1234 | cfg=13
+ts=14:11:07 | fn=TTI | prompt="blue cheetah on a mountain" | seed=1234 | cfg=13
+ts=14:11:07 | fn=TTI | prompt="orange lion on a canyon" | seed=1234 | cfg=13
+ts=14:11:07 | fn=TTI | prompt="green tiger on a cliff" | seed=1234 | cfg=13
+ts=14:11:08 | fn=TTI | prompt="yellow tiger on a plateau" | seed=1234 | cfg=13
+ts=14:11:09 | fn=TTI | prompt="yellow giraffe on a plateau" | seed=1234 | cfg=13
+ts=14:11:11 | fn=TTI | prompt="orange giraffe on a canyon" | seed=1234 | cfg=13
+ts=14:11:14 | fn=TTI | prompt="blue tiger on a mountain" | seed=1234 | cfg=13
+ts=14:11:19 | fn=TTI | prompt="yellow lion on a plateau" | seed=1234 | cfg=13
+ts=14:11:19 | fn=TTI | prompt="blue elephant on a mountain" | seed=1234 | cfg=13
+ts=14:11:21 | fn=TTI | prompt="blue giraffe on a mountain" | seed=1234 | cfg=13
+ts=14:11:21 | fn=TTI | prompt="red tiger on a valley" | seed=1234 | cfg=13
+ts=14:11:26 | fn=TTI | prompt="red cheetah on a valley" | seed=1234 | cfg=13
+ts=14:12:16 | fn=TTI | prompt="green elephant on a cliff" | seed=1234 | cfg=13
+ts=14:12:16 | fn=TTI | prompt="green giraffe on a cliff" | seed=1234 | cfg=13
+ts=14:12:23 | fn=TTI | prompt="orange cheetah on a canyon" | seed=1234 | cfg=13
+ts=14:12:23 | fn=TTI | prompt="orange giraffe on a canyon" | seed=1234 | cfg=13
+ts=14:12:23 | fn=TTI | prompt="orange lion on a canyon" | seed=1234 | cfg=13
+ts=14:12:23 | fn=TTI | prompt="orange tiger on a canyon" | seed=1234 | cfg=13
+ts=14:12:30 | fn=TTI | prompt="green tiger on a cliff" | seed=1234 | cfg=13
+ts=14:12:30 | fn=TTI | prompt="green cheetah on a cliff" | seed=1234 | cfg=13
+ts=14:12:36 | fn=TTI | prompt="blue elephant on a mountain" | seed=1234 | cfg=13
+ts=14:12:36 | fn=TTI | prompt="blue giraffe on a mountain" | seed=1234 | cfg=13
+ts=14:12:42 | fn=TTI | prompt="red giraffe on a valley" | seed=1234 | cfg=13
+ts=14:12:48 | fn=TTI | prompt="yellow tiger on a plateau" | seed=1234 | cfg=13
+ts=14:12:54 | fn=TTI | prompt="red cheetah on a valley" | seed=1234 | cfg=13
+ts=14:19:05 | fn=TTI | prompt="apocalytic rust colored city street view" | seed=1234 | cfg=13
+ts=14:19:44 | fn=ALTERNATIVES | prompt="alternative ways to say "apocalyptic"" | length=5
+ts=14:20:05 | fn=TTI | prompt="apocalytic rust colored city street view" | seed=1234 | cfg=13
+ts=14:20:20 | fn=TTI | prompt="apocalytic rust colored city street" | seed=1234 | cfg=13
+ts=14:20:38 | fn=TTI | prompt="apocalyptic rust colored city street" | seed=1234 | cfg=13
+ts=14:21:20 | fn=SYNONYMS | prompt="synonyms of "rust colored"" | length=5
+ts=14:21:29 | fn=SYNONYMS | prompt="synonyms of "dark rust colored"" | length=5
+ts=14:22:59 | fn=TTI | prompt="cataclysmic maroon city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic rusty city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic burgundy city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic auburn city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="disastrous mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world burgundy city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="doomsday rusty city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="disastrous maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic rusty city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="doomsday maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic auburn city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="catastrophic burgundy city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="end-of-the-world rusty city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="doomsday burgundy city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="end-of-the-world auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous rusty city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="doomsday mahogany city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="doomsday auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous burgundy city street" | seed=1234 | cfg=13
+ts=14:23:17 | fn=TTI | prompt="catastrophic mahogany city street" | seed=1234 | cfg=13
+ts=14:24:12 | fn=TTI | prompt="humans scavenging for food in a wasteland" | seed=1234 | cfg=13
+ts=14:25:14 | fn=EMBELLISH | prompt="Embellish this sentence: humans scavenging for food in a wasteland" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:25:34 | fn=TTI | prompt="
+
+Humans scavenging for food in a desolate wasteland, their spirits undaunted despite the harsh conditions." | seed=1234 | cfg=13
+ts=14:26:12 | fn=ANTONYMS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:31 | fn=ANTONYMS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:46 | fn=ANTONYMS | prompt="divergent words to "polluted"" | length=5
+ts=14:27:02 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:27:32 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:28:15 | fn=TTI | prompt="humans scavenging in a contaminated wasteland" | seed=1234 | cfg=13
+ts=14:28:21 | fn=TTI | prompt="humans scavenging in a dirty wasteland" | seed=1234 | cfg=13
+ts=14:28:21 | fn=TTI | prompt="humans scavenging in a tainted wasteland" | seed=1234 | cfg=13
+ts=14:28:26 | fn=TTI | prompt="humans scavenging in a impure wasteland" | seed=1234 | cfg=13
+ts=14:28:26 | fn=TTI | prompt="humans scavenging in a fouled wasteland" | seed=1234 | cfg=13
+ts=14:28:57 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with orange smog" | seed=1234 | cfg=13
+ts=14:29:02 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a impure wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a tainted wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a dirty wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:14 | fn=TTI | prompt="humans scavenging in a fouled wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:30:25 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:30:30 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:36 | fn=TTI | prompt="humans scavenging in a dirty wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:36 | fn=TTI | prompt="humans scavenging in a tainted wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:42 | fn=TTI | prompt="humans scavenging in a fouled wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:42 | fn=TTI | prompt="humans scavenging in a impure wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:31:17 | fn=TTI | prompt="disastrous rusty city street" | seed=1234 | cfg=13
+ts=14:31:46 | fn=TTI | prompt="gathering of people in a rundown abandoned building" | seed=1234 | cfg=13
+ts=14:32:29 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:33:26 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[rusty,contaminated,polluted]"" | length=3
+ts=14:33:49 | fn=SYNONYMS | prompt="synonyms of "building"" | length=5
+ts=14:35:21 | fn=TTI | prompt="gathering of people in a rusty buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a dirty buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a toxic buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a unhygienic buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a contaminated buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:27 | fn=TTI | prompt="gathering of people in a polluted buildingwith rust-colored smog" | seed=1234 | cfg=13
