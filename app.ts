@@ -59,6 +59,19 @@ app.get("/", async (req, res) => {
     req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
   console.log(req.originalUrl, hash);
 
+  // log
+  if (process.env.PARTICIPANT_ID) {
+    const date = new Date(Date.now());
+    const timestamp = date
+      .toLocaleTimeString("en-US", { hour12: false })
+      .toString();
+
+    const log = `ts=${timestamp} | fn=TTI | prompt="${prompt}" | seed=${seed} | cfg=${cfg}\n`;
+    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+      if (err) console.log("failed to log TTI");
+    });
+  }
+
   // check if image file with hash exists
   const files = fs.readdirSync(path.join(__dirname, "..", "imgs"));
   const cachedImage = files.find((f) => f.split(".")[0] === hash);
@@ -89,35 +102,35 @@ app.get("/", async (req, res) => {
   }
 });
 
-app.get("/img2img", async (req, res) => {
-  const { prompt, image, seed: reqSeed } = req.query;
-  if (typeof prompt !== "string") {
-    res.status(401).send("Need a prompt as a string");
-    return;
-  }
-  let seed = DEFAULT_SEED;
-  if (reqSeed && typeof reqSeed === "string" && parseInt(reqSeed)) {
-    seed = parseInt(reqSeed);
-  }
+// app.get("/img2img", async (req, res) => {
+//   const { prompt, image, seed: reqSeed } = req.query;
+//   if (typeof prompt !== "string") {
+//     res.status(401).send("Need a prompt as a string");
+//     return;
+//   }
+//   let seed = DEFAULT_SEED;
+//   if (reqSeed && typeof reqSeed === "string" && parseInt(reqSeed)) {
+//     seed = parseInt(reqSeed);
+//   }
 
-  const hash = md5(`seed=${seed}&${prompt}`);
-  const imgUrl =
-    req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
-  console.log(req.originalUrl, hash);
-});
+//   const hash = md5(`seed=${seed}&${prompt}`);
+//   const imgUrl =
+//     req.protocol + "://" + req.get("host") + "/ftp/" + hash + ".png";
+//   console.log(req.originalUrl, hash);
+// });
 
-app.get("/random", (req, res) => {
-  const files = fs.readdirSync(path.join(__dirname, "/../imgs"));
-  if (files.length === 0) {
-    res.status(404).end("Not found");
-    return;
-  }
-  const rand = Math.floor(Math.random() * files.length);
+// app.get("/random", (req, res) => {
+//   const files = fs.readdirSync(path.join(__dirname, "/../imgs"));
+//   if (files.length === 0) {
+//     res.status(404).end("Not found");
+//     return;
+//   }
+//   const rand = Math.floor(Math.random() * files.length);
 
-  const img = path.join(__dirname, "..", "imgs", files[rand]);
+//   const img = path.join(__dirname, "..", "imgs", files[rand]);
 
-  serveImage(img, res);
-});
+//   serveImage(img, res);
+// });
 
 app.get("/gpt", async (req, res) => {
   const { prompt, n, temperature, stop, max_tokens } = req.query;
@@ -146,6 +159,25 @@ app.get("/gpt", async (req, res) => {
     token_choice = parseInt(max_tokens);
   }
 
+  // log
+  if (process.env.PARTICIPANT_ID) {
+    const date = new Date(Date.now());
+    const timestamp = date
+      .toLocaleTimeString("en-US", { hour12: false })
+      .toString();
+
+    let log;
+    if (/^Embellish this sentence:/.test(prompt)) {
+      log = `ts=${timestamp} | fn=EMBELLISH | prompt="${prompt}" | n=${num_choices} | temp=${temp_choice} | stop=${stop_choice} | max_tokens=${token_choice}\n`;
+    } else {
+      log = `ts=${timestamp} | fn=GPT | prompt="${prompt}" | n=${num_choices} | temp=${temp_choice} | stop=${stop_choice} | max_tokens=${token_choice}\n`;
+    }
+
+    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+      if (err) console.log("failed to log GPT");
+    });
+  }
+
   try {
     const result = await GPT(
       prompt,
@@ -171,6 +203,33 @@ app.get("/listgpt", async (req, res) => {
   if (reqLength && typeof reqLength === "string") {
     const n = parseInt(reqLength);
     if (!Number.isNaN(n)) length = n;
+  }
+
+  // log
+  if (process.env.PARTICIPANT_ID) {
+    const date = new Date(Date.now());
+    const timestamp = date
+      .toLocaleTimeString("en-US", { hour12: false })
+      .toString();
+
+    let log;
+    if (/^similar items to this list without repeating/.test(prompt)) {
+      log = `ts=${timestamp} | fn=LIST_COMPLETION | prompt="${prompt}" | length=${length}\n`;
+    } else if (/^synonyms of/.test(prompt)) {
+      log = `ts=${timestamp} | fn=SYNONYMS | prompt="${prompt}" | length=${length}\n`;
+    } else if (/^antonyms of/.test(prompt)) {
+      log = `ts=${timestamp} | fn=ANTONYMS | prompt="${prompt}" | length=${length}\n`;
+    } else if (/^divergent words to/.test(prompt)) {
+      log = `ts=${timestamp} | fn=DIVERGENTS | prompt="${prompt}" | length=${length}\n`;
+    } else if (/^alternative ways to say/.test(prompt)) {
+      log = `ts=${timestamp} | fn=ALTERNATIVES | prompt="${prompt}" | length=${length}\n`;
+    } else {
+      log = `ts=${timestamp} | fn=GPT_LIST | prompt="${prompt}" | length=${length}\n`;
+    }
+
+    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+      if (err) console.log("failed to log LIST_GPT");
+    });
   }
 
   try {
