@@ -1,0 +1,39 @@
+ts=11:19:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=11:19:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=11:19:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=11:19:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=11:19:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=11:20:54 | fn=TTI | prompt="man eating chocolate" | seed=1234 | cfg=13
+ts=11:22:40 | fn=TTI | prompt="San Francisco sunset" | seed=1111 | cfg=13
+ts=11:30:15 | fn=TTI | prompt="Penguins on a iceberg" | seed=1234 | cfg=13
+ts=11:30:21 | fn=TTI | prompt="Penguins on a ocean" | seed=1234 | cfg=13
+ts=11:30:21 | fn=TTI | prompt="Penguins on a valley" | seed=1234 | cfg=13
+ts=11:30:26 | fn=TTI | prompt="Penguins on a forest" | seed=1234 | cfg=13
+ts=11:30:26 | fn=TTI | prompt="Penguins on a desert" | seed=1234 | cfg=13
+ts=11:35:55 | fn=TTI | prompt="New York with orange skies with a spaceship, cyberpunk render, 8k, high resolution, detailed" | seed=1234 | cfg=13
+ts=11:36:00 | fn=TTI | prompt="Bangalore in the day, rocket in the sky taking off, cyberpunk render, detailed, high resolution, 8k" | seed=1234 | cfg=13
+ts=11:36:00 | fn=TTI | prompt="San Francisco in the night, a streak of blue in the sky, cyberpunk render, detailed, high resolution, 8k" | seed=1234 | cfg=13
+ts=11:40:10 | fn=TTI | prompt="New York Manhattan with brooklyn bridge with orange skies , alien spaceship top right corner, cyberpunk render, 16k, high resolution, detailed, used for video games" | seed=1234 | cfg=13
+ts=11:41:12 | fn=TTI | prompt="New York Manhattan with brooklyn bridge with orange skies , alien spaceship in sky, cyberpunk render, 16k, high resolution, detailed, used for video games" | seed=1234 | cfg=13
+ts=11:43:21 | fn=TTI | prompt="Bangalore Vidhana Soudha during day, small rocket in sky, cyberpunk render, detailed, high resoltion 16K" | seed=1234 | cfg=13
+ts=11:44:07 | fn=TTI | prompt="San Francisco Golden Gate at night, sail boats, cyberpunk render, detailed, high resolution, 16K" | seed=1234 | cfg=13
+ts=11:45:05 | fn=EMBELLISH | prompt="Embellish this sentence: Bangalore Vidhana Soudha during day, small rocket in sky, cyberpunk render, detailed, high resoltion 16K" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:45:15 | fn=TTI | prompt="
+
+The Bangalore Vidhana Soudha stands majestically during the day, with a small rocket soaring through the sky and a cyberpunk render in vivid detail, all in high resolution 16K." | seed=1234 | cfg=13
+ts=11:45:22 | fn=TTI | prompt="San Francisco Golden Gate at night, sail boats, cyberpunk render, detailed, high resolution, 16K" | seed=1234 | cfg=13
+ts=11:46:04 | fn=EMBELLISH | prompt="Embellish this sentence: San Francisco Golden Gate at night, sail boats, cyberpunk render, detailed, high resolution, 16K" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:46:29 | fn=TTI | prompt="
+
+San Francisco Golden Gate at night, sail boats glistening in the moonlight, a cyberpunk render of breathtaking detail and high resolution, all captured in glorious 16K." | seed=1234 | cfg=13
+ts=11:49:06 | fn=TTI | prompt="New York view from New Jersey exchange place, 16k, high resolution, detailed, used for video games" | seed=1234 | cfg=13
+ts=11:49:27 | fn=EMBELLISH | prompt="Embellish this sentence: New York view from New Jersey exchange place, 16k, high resolution, detailed, used for video games" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:49:34 | fn=TTI | prompt=".
+
+The stunning 16k high resolution view of New York from the New Jersey exchange place is so detailed that it can be used for video games." | seed=1234 | cfg=13
+ts=11:50:06 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+San Francisco Golden Gate at night, sail boats glistening in the moonlight, a cyberpunk render of breathtaking detail and high resolution, all captured in glorious 16K." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:50:29 | fn=TTI | prompt="
+
+San Francisco Golden Gate at night, sail boats glistening in the moonlight, a cyberpunk render of breathtaking detail and high resolution, no half buildings, all captured in glorious 16K." | seed=1234 | cfg=13
