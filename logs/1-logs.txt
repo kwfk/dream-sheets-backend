@@ -36,8 +36,8 @@ ts=14:07:31 | fn=TTI | prompt="orange elephant" | seed=1234 | cfg=13
 ts=14:07:31 | fn=TTI | prompt="yellow lion" | seed=1234 | cfg=13
 ts=14:07:31 | fn=TTI | prompt="orange lion" | seed=1234 | cfg=13
 ts=14:07:31 | fn=TTI | prompt="blue lion" | seed=1234 | cfg=13
-ts=14:09:30 | fn=ANTONYMS | prompt="divergent words to "hill"" | length=5
-ts=14:09:38 | fn=ANTONYMS | prompt="divergent words to "hill"" | length=5
+ts=14:09:30 | fn=DIVERGENTS | prompt="divergent words to "hill"" | length=5
+ts=14:09:38 | fn=DIVERGENTS | prompt="divergent words to "hill"" | length=5
 ts=14:10:18 | fn=TTI | prompt="red elephant on a valley" | seed=1234 | cfg=13
 ts=14:10:28 | fn=TTI | prompt="yellow elephant on a valley" | seed=1234 | cfg=13
 ts=14:10:28 | fn=TTI | prompt="orange elephant on a valley" | seed=1234 | cfg=13
@@ -119,9 +119,9 @@ ts=14:25:14 | fn=EMBELLISH | prompt="Embellish this sentence: humans scavenging 
 ts=14:25:34 | fn=TTI | prompt="
 
 Humans scavenging for food in a desolate wasteland, their spirits undaunted despite the harsh conditions." | seed=1234 | cfg=13
-ts=14:26:12 | fn=ANTONYMS | prompt="divergent words to "foggy"" | length=5
-ts=14:26:31 | fn=ANTONYMS | prompt="divergent words to "foggy"" | length=5
-ts=14:26:46 | fn=ANTONYMS | prompt="divergent words to "polluted"" | length=5
+ts=14:26:12 | fn=DIVERGENTS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:31 | fn=DIVERGENTS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:46 | fn=DIVERGENTS | prompt="divergent words to "polluted"" | length=5
 ts=14:27:02 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
 ts=14:27:32 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
 ts=14:28:15 | fn=TTI | prompt="humans scavenging in a contaminated wasteland" | seed=1234 | cfg=13
