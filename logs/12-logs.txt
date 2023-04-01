@@ -1,0 +1,622 @@
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=1
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=17
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=5
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=17
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=9
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=9
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=17
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=17
+ts=20:24:25 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:24:26 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=1
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=1
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=9
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=13
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=5
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=21
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=5
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=21
+ts=20:24:30 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=13
+ts=20:24:31 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=17
+ts=20:24:32 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=9
+ts=20:24:35 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=5
+ts=20:24:35 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=21
+ts=20:24:35 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=5
+ts=20:24:35 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=21
+ts=20:24:36 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:24:36 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=17
+ts=20:24:36 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=9
+ts=20:24:39 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=21
+ts=20:24:39 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=21
+ts=20:24:39 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=1
+ts=20:24:41 | fn=TTI | prompt="dog sleeping on a hill" | seed=5555 | cfg=5
+ts=20:24:42 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=1
+ts=20:24:42 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=13
+ts=20:24:43 | fn=TTI | prompt="dog sleeping on a hill" | seed=4444 | cfg=13
+ts=20:24:43 | fn=TTI | prompt="dog sleeping on a hill" | seed=1111 | cfg=13
+ts=20:24:43 | fn=TTI | prompt="dog sleeping on a hill" | seed=2222 | cfg=9
+ts=20:24:44 | fn=TTI | prompt="dog sleeping on a hill" | seed=3333 | cfg=1
+ts=20:24:46 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=17
+ts=20:24:47 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=1
+ts=20:24:47 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:24:47 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=5
+ts=20:24:48 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=9
+ts=20:24:48 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=21
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=21
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=17
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=9
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=5
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:24:57 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=1
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=17
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=1
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=9
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=21
+ts=20:25:02 | fn=TTI | prompt="dog sleeping on a hill" | seed=1234 | cfg=5
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=21
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=9
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=1
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=1
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=1
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=17
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=13
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=13
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=21
+ts=20:26:01 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=5
+ts=20:26:07 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=5
+ts=20:26:07 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=17
+ts=20:26:08 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=17
+ts=20:26:08 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=9
+ts=20:26:08 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=17
+ts=20:26:08 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=1
+ts=20:26:08 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=21
+ts=20:26:09 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=5
+ts=20:26:09 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=5
+ts=20:26:10 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=9
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=21
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=9
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=21
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=17
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=21
+ts=20:26:15 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1111 | cfg=13
+ts=20:26:16 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=9
+ts=20:26:16 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=17
+ts=20:26:17 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=13
+ts=20:26:17 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=9
+ts=20:26:21 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:26:22 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=4444 | cfg=5
+ts=20:26:22 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=5555 | cfg=5
+ts=20:26:22 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=1234 | cfg=13
+ts=20:26:22 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=13
+ts=20:26:23 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=3333 | cfg=1
+ts=20:26:23 | fn=TTI | prompt="cartoon dog sleeping on a hill" | seed=2222 | cfg=1
+ts=20:34:00 | fn=TTI | prompt="dog running on water" | seed=1234 | cfg=13
+ts=20:34:15 | fn=TTI | prompt="dog running on water" | seed=1234 | cfg=13
+ts=20:34:19 | fn=TTI | prompt="dog running on water" | seed=1234 | cfg=13
+ts=20:34:19 | fn=TTI | prompt="dog running on water" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt="DIVERGENTS on a desert" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt="DIVERGENTS on a river" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt="DIVERGENTS on a mountain" | seed=1234 | cfg=13
+ts=20:36:30 | fn=TTI | prompt="DIVERGENTS on a valley" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt="DIVERGENTS on a ocean" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:36:31 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:36:53 | fn=DIVERGENTS | prompt="divergent words to "#REF!"" | length=4
+ts=20:36:55 | fn=TTI | prompt="#N/A on a ocean" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#N/A on a river" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#N/A on a desert" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#NUM! on a ocean" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#NAME? on a valley" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#NAME? on a desert" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#VALUE! on a river" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#NAME? on a river" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#N/A on a mountain" | seed=1234 | cfg=13
+ts=20:36:55 | fn=TTI | prompt="#NUM! on a mountain" | seed=1234 | cfg=13
+ts=20:36:59 | fn=TTI | prompt="#NAME? on a mountain" | seed=1234 | cfg=13
+ts=20:36:59 | fn=TTI | prompt="#VALUE! on a desert" | seed=1234 | cfg=13
+ts=20:36:59 | fn=TTI | prompt="#NAME? on a ocean" | seed=1234 | cfg=13
+ts=20:36:59 | fn=TTI | prompt="#NUM! on a desert" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#VALUE! on a mountain" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#N/A on a valley" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#VALUE! on a valley" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#NUM! on a valley" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#VALUE! on a ocean" | seed=1234 | cfg=13
+ts=20:37:00 | fn=TTI | prompt="#NUM! on a river" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt="horse on a valley" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt="horse on a ocean" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt="horse on a mountain" | seed=1234 | cfg=13
+ts=20:37:05 | fn=DIVERGENTS | prompt="divergent words to "horse"" | length=4
+ts=20:37:05 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=20:37:05 | fn=TTI | prompt="horse on a desert" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a river" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a ocean" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt="horse on a river" | seed=1234 | cfg=13
+ts=20:37:06 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=13
+ts=20:37:12 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=13
+ts=20:37:16 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=13
+ts=20:37:16 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:37:16 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=13
+ts=20:37:16 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=13
+ts=20:37:17 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:39:22 | fn=TTI | prompt="horse on a mountain" | seed=1234 | cfg=10
+ts=20:39:27 | fn=TTI | prompt="horse on a valley" | seed=1234 | cfg=10
+ts=20:39:27 | fn=TTI | prompt="horse on a desert" | seed=1234 | cfg=10
+ts=20:39:27 | fn=TTI | prompt="horse on a river" | seed=1234 | cfg=10
+ts=20:39:27 | fn=TTI | prompt="horse on a ocean" | seed=1234 | cfg=10
+ts=20:39:36 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=13
+ts=20:39:36 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=13
+ts=20:39:37 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=13
+ts=20:39:37 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=13
+ts=20:39:37 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=13
+ts=20:39:41 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=13
+ts=20:39:41 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=13
+ts=20:39:41 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=13
+ts=20:39:41 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=13
+ts=20:39:42 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=13
+ts=20:39:42 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=13
+ts=20:39:42 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=13
+ts=20:39:42 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=13
+ts=20:39:42 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=13
+ts=20:39:43 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=13
+ts=20:39:44 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:39:44 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:39:44 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:39:44 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:39:44 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:40:02 | fn=TTI | prompt="horse on a desert" | seed=1234 | cfg=20
+ts=20:40:02 | fn=TTI | prompt="horse on a mountain" | seed=1234 | cfg=20
+ts=20:40:02 | fn=TTI | prompt="horse on a valley" | seed=1234 | cfg=20
+ts=20:40:02 | fn=TTI | prompt="horse on a river" | seed=1234 | cfg=20
+ts=20:40:03 | fn=TTI | prompt="horse on a ocean" | seed=1234 | cfg=20
+ts=20:40:08 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=13
+ts=20:40:08 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=13
+ts=20:40:08 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=13
+ts=20:40:08 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=13
+ts=20:40:08 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=13
+ts=20:40:09 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=13
+ts=20:40:10 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:40:10 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:40:10 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:40:10 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:40:10 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:40:15 | fn=TTI | prompt="horse on a desert" | seed=1234 | cfg=1
+ts=20:40:15 | fn=TTI | prompt="horse on a valley" | seed=1234 | cfg=1
+ts=20:40:15 | fn=TTI | prompt="horse on a mountain" | seed=1234 | cfg=1
+ts=20:40:15 | fn=TTI | prompt="horse on a river" | seed=1234 | cfg=1
+ts=20:40:16 | fn=TTI | prompt="horse on a ocean" | seed=1234 | cfg=1
+ts=20:40:21 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=13
+ts=20:40:21 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=13
+ts=20:40:21 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=13
+ts=20:40:21 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=13
+ts=20:40:22 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:40:23 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:41:23 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=1
+ts=20:41:23 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=1
+ts=20:41:23 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=1
+ts=20:41:23 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=1
+ts=20:41:23 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=1
+ts=20:41:28 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=13
+ts=20:41:28 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=13
+ts=20:41:28 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=13
+ts=20:41:28 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=13
+ts=20:41:28 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:41:29 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:41:30 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:41:30 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:41:33 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=1
+ts=20:41:33 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=1
+ts=20:41:33 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=1
+ts=20:41:33 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=1
+ts=20:41:33 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=1
+ts=20:41:39 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=1
+ts=20:41:39 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=1
+ts=20:41:39 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=1
+ts=20:41:39 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=1
+ts=20:41:39 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=1
+ts=20:41:45 | fn=TTI | prompt="horse on a desert" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="zebra on a river" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="camel on a desert" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="zebra on a desert" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="camel on a ocean" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="zebra on a valley" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="horse on a mountain" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="horse on a ocean" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="horse on a valley" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="llama on a mountain" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="llama on a ocean" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="camel on a valley" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="llama on a valley" | seed=1234 | cfg=10
+ts=20:41:45 | fn=TTI | prompt="llama on a river" | seed=1234 | cfg=10
+ts=20:41:49 | fn=TTI | prompt="camel on a river" | seed=1234 | cfg=10
+ts=20:41:49 | fn=TTI | prompt="zebra on a mountain" | seed=1234 | cfg=10
+ts=20:41:49 | fn=TTI | prompt="zebra on a ocean" | seed=1234 | cfg=10
+ts=20:41:49 | fn=TTI | prompt="llama on a desert" | seed=1234 | cfg=10
+ts=20:41:50 | fn=TTI | prompt="horse on a river" | seed=1234 | cfg=10
+ts=20:41:50 | fn=TTI | prompt="camel on a mountain" | seed=1234 | cfg=10
+ts=20:41:56 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=13
+ts=20:41:56 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=13
+ts=20:41:56 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=13
+ts=20:41:56 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=13
+ts=20:41:56 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=13
+ts=20:41:57 | fn=TTI | prompt="giraffe on a desert" | seed=1234 | cfg=10
+ts=20:41:57 | fn=TTI | prompt="giraffe on a mountain" | seed=1234 | cfg=10
+ts=20:41:57 | fn=TTI | prompt="giraffe on a valley" | seed=1234 | cfg=10
+ts=20:41:57 | fn=TTI | prompt="giraffe on a ocean" | seed=1234 | cfg=10
+ts=20:41:58 | fn=TTI | prompt="giraffe on a river" | seed=1234 | cfg=10
+ts=20:51:01 | fn=TTI | prompt="horse" | seed=1234 | cfg=10
+ts=20:52:06 | fn=TTI | prompt="View out of the observation deck of the needle tower. Framed by steel bars of the large window pane." | seed=1234 | cfg=13
+ts=20:52:51 | fn=TTI | prompt="View out of the observation deck of the needle tower. Framed by steel bars of the large window pane." | seed=1234 | cfg=13
+ts=20:56:51 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. City scape" | seed=1234 | cfg=13
+ts=20:56:57 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. City scape" | seed=1234 | cfg=20
+ts=20:57:02 | fn=TTI | prompt=". City scape" | seed=1234 | cfg=20
+ts=20:57:02 | fn=TTI | prompt=". City scape" | seed=1234 | cfg=20
+ts=20:57:02 | fn=TTI | prompt=". City scape" | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:08 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:57:13 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:13 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:14 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:14 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:57:14 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:57:14 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:58:02 | fn=EMBELLISH | prompt="Embellish this sentence: City scape" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=20:58:04 | fn=TTI | prompt=". 
+
+The city scape was a breathtaking sight, with tall buildings soaring into the sky and a kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:04 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. 
+
+The city scape was a breathtaking sight, with tall buildings soaring into the sky and a kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:04 | fn=TTI | prompt=". 
+
+The city scape was a breathtaking sight, with tall buildings soaring into the sky and a kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:04 | fn=TTI | prompt=". 
+
+The city scape was a breathtaking sight, with tall buildings soaring into the sky and a kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:25 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+The city scape was a breathtaking sight, with tall buildings soaring into the sky and a kaleidoscope of vibrant lights reflecting off the waters of the harbor." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=20:58:27 | fn=TTI | prompt=". 
+
+As I gazed upon the magnificent city scape, I was awe-struck by the sheer beauty of the tall buildings soaring into the sky and the dazzling kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:27 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+As I gazed upon the magnificent city scape, I was awe-struck by the sheer beauty of the tall buildings soaring into the sky and the dazzling kaleidoscope of vibrant lights reflecting off the waters of the harbor." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=20:58:27 | fn=TTI | prompt=". 
+
+As I gazed upon the magnificent city scape, I was awe-struck by the sheer beauty of the tall buildings soaring into the sky and the dazzling kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:27 | fn=TTI | prompt=". 
+
+As I gazed upon the magnificent city scape, I was awe-struck by the sheer beauty of the tall buildings soaring into the sky and the dazzling kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:27 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. 
+
+As I gazed upon the magnificent city scape, I was awe-struck by the sheer beauty of the tall buildings soaring into the sky and the dazzling kaleidoscope of vibrant lights reflecting off the waters of the harbor." | seed=1234 | cfg=20
+ts=20:58:33 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:58:33 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:58:33 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:58:33 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:59:45 | fn=ALTERNATIVES | prompt="alternative ways to say "City scape"" | length=4
+ts=20:59:49 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:49 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:49 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:49 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". " | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". urban view" | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. municipal skyline" | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. downtown panorama" | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". municipal skyline" | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". metropolitan scene" | seed=1234 | cfg=20
+ts=20:59:50 | fn=TTI | prompt=". municipal skyline" | seed=1234 | cfg=20
+ts=20:59:51 | fn=TTI | prompt=". urban view" | seed=1234 | cfg=20
+ts=20:59:51 | fn=TTI | prompt=". downtown panorama" | seed=1234 | cfg=20
+ts=20:59:51 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. metropolitan scene" | seed=1234 | cfg=20
+ts=20:59:51 | fn=TTI | prompt=". downtown panorama" | seed=1234 | cfg=20
+ts=20:59:55 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. urban view" | seed=1234 | cfg=20
+ts=20:59:55 | fn=TTI | prompt=". metropolitan scene" | seed=1234 | cfg=20
+ts=20:59:55 | fn=TTI | prompt=". metropolitan scene" | seed=1234 | cfg=20
+ts=20:59:55 | fn=TTI | prompt=". urban view" | seed=1234 | cfg=20
+ts=20:59:56 | fn=TTI | prompt=". downtown panorama" | seed=1234 | cfg=20
+ts=20:59:56 | fn=TTI | prompt=". municipal skyline" | seed=1234 | cfg=20
+ts=21:00:01 | fn=ALTERNATIVES | prompt="alternative ways to say "City scape"" | length=4
+ts=21:00:13 | fn=ALTERNATIVES | prompt="alternative ways to say "Orange sky. Concept art for sci-fi movie"" | length=4
+ts=21:00:16 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. municipal skyline" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="An orange sky in sci-fi concept art. metropolitan scene" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. downtown panorama" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. urban view" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. City scape" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="An orange sky in sci-fi concept art. downtown panorama" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. municipal skyline" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. downtown panorama" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="An orange sky in sci-fi concept art. urban view" | seed=1234 | cfg=20
+ts=21:00:16 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. urban view" | seed=1234 | cfg=20
+ts=21:00:21 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. metropolitan scene" | seed=1234 | cfg=20
+ts=21:00:21 | fn=TTI | prompt="An orange sky in sci-fi concept art. municipal skyline" | seed=1234 | cfg=20
+ts=21:00:21 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. metropolitan scene" | seed=1234 | cfg=20
+ts=21:00:21 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. City scape" | seed=1234 | cfg=20
+ts=21:00:21 | fn=TTI | prompt="An orange sky in sci-fi concept art. City scape" | seed=1234 | cfg=20
+ts=21:00:51 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. downtown panorama" | seed=1234 | cfg=20
+ts=21:00:51 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. urban view" | seed=1234 | cfg=20
+ts=21:00:51 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. municipal skyline" | seed=1234 | cfg=20
+ts=21:00:51 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. metropolitan scene" | seed=1234 | cfg=20
+ts=21:00:51 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. City scape" | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. View through a large window pane, from out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. View through a large window pane, from out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:01:43 | fn=ALTERNATIVES | prompt="alternative ways to say "View through a large window pane, from out of an observation deck. Large alien spaceship in sky."" | length=4
+ts=21:01:43 | fn=TTI | prompt="An orange sky in sci-fi concept art. View through a large window pane, from out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:01:43 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:01:47 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:01:48 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:01:48 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. View through a large window pane, from out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:01:48 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:01:48 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. View through a large window pane, from out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:01:48 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:01:49 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:01:49 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Observing through a vast glass panel, surveying from a lookout deck. Enormous foreign vessel in the air." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="An orange sky in sci-fi concept art. Gazing through a grand window, peering out from an overlook. Massive extraterrestrial craft in the heavens." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="An orange sky in sci-fi concept art. Observing through a vast glass panel, surveying from a lookout deck. Enormous foreign vessel in the air." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Observing through a vast glass panel, surveying from a lookout deck. Enormous foreign vessel in the air." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Watching through an expansive window, looking out from an observation platform. Gigantic otherworldly object in the firmament." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="An orange sky in sci-fi concept art. Surveying through a huge pane of glass, glimpsing from an observation station. Colossal alien spacecraft in the atmosphere." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Surveying through a huge pane of glass, glimpsing from an observation station. Colossal alien spacecraft in the atmosphere." | seed=1234 | cfg=20
+ts=21:01:53 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Observing through a vast glass panel, surveying from a lookout deck. Enormous foreign vessel in the air." | seed=1234 | cfg=20
+ts=21:01:54 | fn=TTI | prompt="An orange sky in sci-fi concept art. Watching through an expansive window, looking out from an observation platform. Gigantic otherworldly object in the firmament." | seed=1234 | cfg=20
+ts=21:01:54 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Observing through a vast glass panel, surveying from a lookout deck. Enormous foreign vessel in the air." | seed=1234 | cfg=20
+ts=21:01:57 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Watching through an expansive window, looking out from an observation platform. Gigantic otherworldly object in the firmament." | seed=1234 | cfg=20
+ts=21:01:57 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Surveying through a huge pane of glass, glimpsing from an observation station. Colossal alien spacecraft in the atmosphere." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Watching through an expansive window, looking out from an observation platform. Gigantic otherworldly object in the firmament." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Gazing through a grand window, peering out from an overlook. Massive extraterrestrial craft in the heavens." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Surveying through a huge pane of glass, glimpsing from an observation station. Colossal alien spacecraft in the atmosphere." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Gazing through a grand window, peering out from an overlook. Massive extraterrestrial craft in the heavens." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Gazing through a grand window, peering out from an overlook. Massive extraterrestrial craft in the heavens." | seed=1234 | cfg=20
+ts=21:01:58 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Gazing through a grand window, peering out from an overlook. Massive extraterrestrial craft in the heavens." | seed=1234 | cfg=20
+ts=21:01:59 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Surveying through a huge pane of glass, glimpsing from an observation station. Colossal alien spacecraft in the atmosphere." | seed=1234 | cfg=20
+ts=21:01:59 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Watching through an expansive window, looking out from an observation platform. Gigantic otherworldly object in the firmament." | seed=1234 | cfg=20
+ts=21:03:20 | fn=ALTERNATIVES | prompt="alternative ways to say "View out of an observation deck. Large alien spaceship in sky."" | length=4
+ts=21:03:20 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. " | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:03:20 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="An orange sky in sci-fi concept art. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="An orange sky in sci-fi concept art. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. " | seed=1234 | cfg=20
+ts=21:03:21 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:03:22 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. " | seed=1234 | cfg=20
+ts=21:03:22 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. " | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="An orange sky in sci-fi concept art. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="An orange sky in sci-fi concept art. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:03:26 | fn=TTI | prompt="A depiction of an orange sky in concept art for a sci-fi film. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:03:30 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="An orange sky in sci-fi concept art. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Orange sky. Concept art for sci-fi movie. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:03:31 | fn=TTI | prompt="Conceptual art for a sci-fi movie with an orange sky. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:03:32 | fn=TTI | prompt="Science fiction movie concept art featuring an orange sky. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:03:32 | fn=TTI | prompt="An orange sky in sci-fi concept art. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:20 | fn=ALTERNATIVES | prompt="alternative ways to say "Orange sky with orange clouds. Concept art for sci-fi movie"" | length=4
+ts=21:04:20 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt="Orange sky with orange clouds. Concept art for sci-fi movie. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:20 | fn=TTI | prompt="Orange sky with orange clouds. Concept art for sci-fi movie. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:23 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt="Orange sky with orange clouds. Concept art for sci-fi movie. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt="Orange sky with orange clouds. Concept art for sci-fi movie. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:25 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:26 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:26 | fn=TTI | prompt="Orange sky with orange clouds. Concept art for sci-fi movie. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:26 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Artistic representation of orange sky and clouds for a sci-fi movie. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Sci-fi film concept art featuring orange clouds in the sky. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Sci-fi film concept art featuring orange clouds in the sky. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Visual concept of orange clouds in the sky for a sci-fi film. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Sci-fi movie art showcasing an orange sky with cloud formations. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Sci-fi film concept art featuring orange clouds in the sky. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Artistic representation of orange sky and clouds for a sci-fi movie. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:30 | fn=TTI | prompt="Visual concept of orange clouds in the sky for a sci-fi film. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:31 | fn=TTI | prompt="Visual concept of orange clouds in the sky for a sci-fi film. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:31 | fn=TTI | prompt="Sci-fi film concept art featuring orange clouds in the sky. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:35 | fn=TTI | prompt="Sci-fi movie art showcasing an orange sky with cloud formations. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:35 | fn=TTI | prompt="Artistic representation of orange sky and clouds for a sci-fi movie. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:35 | fn=TTI | prompt="Artistic representation of orange sky and clouds for a sci-fi movie. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:36 | fn=TTI | prompt="Sci-fi movie art showcasing an orange sky with cloud formations. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:36 | fn=TTI | prompt="Sci-fi movie art showcasing an orange sky with cloud formations. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:04:36 | fn=TTI | prompt="Artistic representation of orange sky and clouds for a sci-fi movie. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:04:37 | fn=TTI | prompt="Sci-fi film concept art featuring orange clouds in the sky. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:04:38 | fn=TTI | prompt="Sci-fi movie art showcasing an orange sky with cloud formations. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:04:38 | fn=TTI | prompt="Visual concept of orange clouds in the sky for a sci-fi film. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:04:39 | fn=TTI | prompt="Visual concept of orange clouds in the sky for a sci-fi film. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:14 | fn=ALTERNATIVES | prompt="alternative ways to say "Orange sky with orange clouds. Movie concept art."" | length=4
+ts=21:05:14 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt="Orange sky with orange clouds. Movie concept art.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:14 | fn=TTI | prompt="Orange sky with orange clouds. Movie concept art.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt="Orange sky with orange clouds. Movie concept art.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt="Orange sky with orange clouds. Movie concept art.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt="Orange sky with orange clouds. Movie concept art.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:15 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Captivating movie concept art of orange sky with orange clouds.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Concept art for a movie: Orange clouds and sky.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Captivating movie concept art of orange sky with orange clouds.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Orange clouds over an orange tinted sky in movie concept art.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Movie concept art: Sky and clouds in shades of orange.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Movie concept art: Sky and clouds in shades of orange.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Movie concept art: Sky and clouds in shades of orange.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Movie concept art: Sky and clouds in shades of orange.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Orange clouds over an orange tinted sky in movie concept art.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:20 | fn=TTI | prompt="Concept art for a movie: Orange clouds and sky.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:25 | fn=TTI | prompt="Captivating movie concept art of orange sky with orange clouds.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:25 | fn=TTI | prompt="Captivating movie concept art of orange sky with orange clouds.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:25 | fn=TTI | prompt="Movie concept art: Sky and clouds in shades of orange.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:25 | fn=TTI | prompt="Concept art for a movie: Orange clouds and sky.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:25 | fn=TTI | prompt="Concept art for a movie: Orange clouds and sky.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:26 | fn=TTI | prompt="Orange clouds over an orange tinted sky in movie concept art.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:26 | fn=TTI | prompt="Orange clouds over an orange tinted sky in movie concept art.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:26 | fn=TTI | prompt="Captivating movie concept art of orange sky with orange clouds.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:27 | fn=TTI | prompt="Orange clouds over an orange tinted sky in movie concept art.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:27 | fn=TTI | prompt="Concept art for a movie: Orange clouds and sky.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:51 | fn=ALTERNATIVES | prompt="alternative ways to say "Cloudy sky. Movie concept art."" | length=4
+ts=21:05:51 | fn=TTI | prompt="Cloudy sky. Movie concept art.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt="Cloudy sky. Movie concept art.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:51 | fn=TTI | prompt="Cloudy sky. Movie concept art.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt="Cloudy sky. Movie concept art.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt="Cloudy sky. Movie concept art.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:52 | fn=TTI | prompt=". Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:53 | fn=TTI | prompt=". Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:53 | fn=TTI | prompt=". Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Overcast atmosphere. Artistic representation of a film scene.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Overcast atmosphere. Artistic representation of a film scene.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Gloomy skies. Visual depiction for a movie idea.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Overcast atmosphere. Artistic representation of a film scene.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Hazy overhead. Design concept for a film.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Gloomy skies. Visual depiction for a movie idea.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Hazy overhead. Design concept for a film.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Overcast atmosphere. Artistic representation of a film scene.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Overcast atmosphere. Artistic representation of a film scene.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:05:58 | fn=TTI | prompt="Grey clouds. Illustration for a cinematic concept.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:06:03 | fn=TTI | prompt="Grey clouds. Illustration for a cinematic concept.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:06:03 | fn=TTI | prompt="Hazy overhead. Design concept for a film.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:06:03 | fn=TTI | prompt="Hazy overhead. Design concept for a film.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Gloomy skies. Visual depiction for a movie idea.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Gloomy skies. Visual depiction for a movie idea.. Panoramic sight of massive flying saucer from viewing platform" | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Hazy overhead. Design concept for a film.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Grey clouds. Illustration for a cinematic concept.. Bird's eye view of massive UFO from observatory" | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Gloomy skies. Visual depiction for a movie idea.. View out of an observation deck. Large alien spaceship in sky." | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Grey clouds. Illustration for a cinematic concept.. Observation deck overlooking gigantic extraterrestrial craft" | seed=1234 | cfg=20
+ts=21:06:04 | fn=TTI | prompt="Grey clouds. Illustration for a cinematic concept.. Spectacular view of enormous alien vessel from lookout point" | seed=1234 | cfg=20
+ts=21:06:52 | fn=TTI | prompt="View from the ground, elevation angle around 50 degrees. The spaceship is partly occluded by buildings like looking up from a valley of buildings." | seed=1234 | cfg=13
