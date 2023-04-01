@@ -1,0 +1,400 @@
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=21
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=21
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=1
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=9
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=17
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=9
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=9
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=21
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=9
+ts=13:45:30 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=5
+ts=13:45:35 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=13
+ts=13:45:35 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=1
+ts=13:45:36 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=13
+ts=13:45:36 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=21
+ts=13:45:36 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=1
+ts=13:45:36 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=1
+ts=13:45:37 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=9
+ts=13:45:37 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=17
+ts=13:45:37 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=17
+ts=13:45:37 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=5
+ts=13:45:40 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=5
+ts=13:45:41 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=9
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=17
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=17
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=21
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=17
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=5
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=21
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=1
+ts=13:45:42 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=1
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=1111 | cfg=13
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=5
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=3333 | cfg=5
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=4444 | cfg=13
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=5555 | cfg=13
+ts=13:45:47 | fn=TTI | prompt="cat running on a hill" | seed=2222 | cfg=13
+ts=13:45:48 | fn=TTI | prompt="cat running on a hill" | seed=1234 | cfg=13
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=17
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=17
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=9
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=1
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=5
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=17
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=9
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=5
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=21
+ts=13:46:39 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=1
+ts=13:46:44 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=1
+ts=13:46:44 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=13
+ts=13:46:44 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=5
+ts=13:46:44 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=17
+ts=13:46:45 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=21
+ts=13:46:45 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=21
+ts=13:46:45 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=9
+ts=13:46:45 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=21
+ts=13:46:45 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=5
+ts=13:46:46 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=9
+ts=13:46:49 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=13
+ts=13:46:50 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=13
+ts=13:46:50 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=13
+ts=13:46:50 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=1
+ts=13:46:50 | fn=TTI | prompt="cat running in the water" | seed=3333 | cfg=1
+ts=13:46:51 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=17
+ts=13:46:51 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=21
+ts=13:46:52 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=13
+ts=13:46:52 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=21
+ts=13:46:52 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=13
+ts=13:46:55 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=13
+ts=13:46:56 | fn=TTI | prompt="cat running in the water" | seed=1234 | cfg=5
+ts=13:46:56 | fn=TTI | prompt="cat running in the water" | seed=1111 | cfg=9
+ts=13:46:56 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=1
+ts=13:46:56 | fn=TTI | prompt="cat running in the water" | seed=2222 | cfg=5
+ts=13:46:56 | fn=TTI | prompt="cat running in the water" | seed=4444 | cfg=17
+ts=13:46:57 | fn=TTI | prompt="cat running in the water" | seed=5555 | cfg=9
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=13
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=5
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=1
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=17
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=21
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=13
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=9
+ts=13:47:27 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=17
+ts=13:47:28 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=13
+ts=13:47:28 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=13
+ts=13:47:32 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=5
+ts=13:47:33 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=5
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=17
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=9
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=13
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=9
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=21
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=17
+ts=13:47:34 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=21
+ts=13:47:35 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=5
+ts=13:47:38 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=1
+ts=13:47:39 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=13
+ts=13:47:39 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=9
+ts=13:47:39 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=21
+ts=13:47:39 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=5
+ts=13:47:39 | fn=TTI | prompt="bird running in the water" | seed=2222 | cfg=1
+ts=13:47:40 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=9
+ts=13:47:40 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=5
+ts=13:47:40 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=21
+ts=13:47:40 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=1
+ts=13:47:41 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=17
+ts=13:47:44 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=1
+ts=13:47:45 | fn=TTI | prompt="bird running in the water" | seed=1111 | cfg=1
+ts=13:47:45 | fn=TTI | prompt="bird running in the water" | seed=5555 | cfg=9
+ts=13:47:45 | fn=TTI | prompt="bird running in the water" | seed=4444 | cfg=17
+ts=13:47:45 | fn=TTI | prompt="bird running in the water" | seed=3333 | cfg=13
+ts=13:47:46 | fn=TTI | prompt="bird running in the water" | seed=1234 | cfg=21
+ts=13:55:48 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a forest" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=13:55:48 | fn=TTI | prompt=" on a forest" | seed=1234 | cfg=13
+ts=13:55:49 | fn=GPT_LIST | prompt="types of plants plural" | length=5
+ts=13:55:49 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a forest" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a desert" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a forest" | seed=1234 | cfg=13
+ts=13:55:49 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="sunflowers on a mountain" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="roses on a valley" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="tulips on a desert" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="roses on a desert" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="sunflowers on a ocean" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="tulips on a forest" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="roses on a forest" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="daffodils on a desert" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="daffodils on a mountain" | seed=1234 | cfg=13
+ts=13:55:51 | fn=TTI | prompt="daisies on a desert" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="sunflowers on a forest" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="daisies on a mountain" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="tulips on a ocean" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="daffodils on a ocean" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="sunflowers on a desert" | seed=1234 | cfg=13
+ts=13:55:56 | fn=TTI | prompt="tulips on a valley" | seed=1234 | cfg=13
+ts=13:55:57 | fn=TTI | prompt="roses on a ocean" | seed=1234 | cfg=13
+ts=13:55:58 | fn=TTI | prompt="tulips on a mountain" | seed=1234 | cfg=13
+ts=13:55:58 | fn=TTI | prompt="sunflowers on a valley" | seed=1234 | cfg=13
+ts=13:55:59 | fn=TTI | prompt="daffodils on a valley" | seed=1234 | cfg=13
+ts=13:56:01 | fn=TTI | prompt="daisies on a forest" | seed=1234 | cfg=13
+ts=13:56:01 | fn=TTI | prompt="daisies on a valley" | seed=1234 | cfg=13
+ts=13:56:01 | fn=TTI | prompt="daisies on a ocean" | seed=1234 | cfg=13
+ts=13:56:01 | fn=TTI | prompt="roses on a mountain" | seed=1234 | cfg=13
+ts=13:56:01 | fn=TTI | prompt="daffodils on a forest" | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="daisies on a city" | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="daffodils on a city" | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:56:40 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:56:44 | fn=TTI | prompt="roses on a city" | seed=1234 | cfg=13
+ts=13:56:45 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:56:45 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:56:45 | fn=TTI | prompt="tulips on a city" | seed=1234 | cfg=13
+ts=13:56:46 | fn=TTI | prompt="sunflowers on a city" | seed=1234 | cfg=13
+ts=13:56:46 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:56:46 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:56:46 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:56:46 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:56:46 | fn=DIVERGENTS | prompt="divergent words to "city"" | length=4
+ts=13:56:46 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:56:50 | fn=TTI | prompt="daisies on a hamlet" | seed=1234 | cfg=13
+ts=13:56:50 | fn=TTI | prompt="tulips on a village" | seed=1234 | cfg=13
+ts=13:56:50 | fn=TTI | prompt="daffodils on a rural" | seed=1234 | cfg=13
+ts=13:56:50 | fn=TTI | prompt="daisies on a town" | seed=1234 | cfg=13
+ts=13:56:50 | fn=TTI | prompt="roses on a village" | seed=1234 | cfg=13
+ts=13:56:51 | fn=TTI | prompt="tulips on a town" | seed=1234 | cfg=13
+ts=13:56:51 | fn=TTI | prompt="daisies on a village" | seed=1234 | cfg=13
+ts=13:56:51 | fn=TTI | prompt="tulips on a hamlet" | seed=1234 | cfg=13
+ts=13:56:52 | fn=TTI | prompt="roses on a town" | seed=1234 | cfg=13
+ts=13:56:52 | fn=TTI | prompt="roses on a hamlet" | seed=1234 | cfg=13
+ts=13:56:54 | fn=TTI | prompt="sunflowers on a hamlet" | seed=1234 | cfg=13
+ts=13:56:55 | fn=TTI | prompt="daffodils on a village" | seed=1234 | cfg=13
+ts=13:56:55 | fn=TTI | prompt="sunflowers on a town" | seed=1234 | cfg=13
+ts=13:56:55 | fn=TTI | prompt="roses on a rural" | seed=1234 | cfg=13
+ts=13:56:56 | fn=TTI | prompt="daffodils on a hamlet" | seed=1234 | cfg=13
+ts=13:56:56 | fn=TTI | prompt="sunflowers on a rural" | seed=1234 | cfg=13
+ts=13:56:56 | fn=TTI | prompt="tulips on a rural" | seed=1234 | cfg=13
+ts=13:56:57 | fn=TTI | prompt="daffodils on a town" | seed=1234 | cfg=13
+ts=13:56:57 | fn=TTI | prompt="daisies on a rural" | seed=1234 | cfg=13
+ts=13:56:58 | fn=TTI | prompt="sunflowers on a village" | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="sunflowers on a ground" | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:57:52 | fn=TTI | prompt="daisies on a ground" | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="sunflowers on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="daffodils on a ground" | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="tulips on a ground" | seed=1234 | cfg=13
+ts=13:57:53 | fn=DIVERGENTS | prompt="divergent words to "ground"" | length=4
+ts=13:57:53 | fn=TTI | prompt="roses on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="daisies on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="daffodils on a " | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="roses on a ground" | seed=1234 | cfg=13
+ts=13:57:53 | fn=TTI | prompt="tulips on a " | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="roses on a sea" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="daffodils on a sea" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="roses on a fire" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="tulips on a tree" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="daffodils on a tree" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="sunflowers on a sky" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="sunflowers on a tree" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="daffodils on a sky" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="daisies on a sky" | seed=1234 | cfg=13
+ts=13:57:59 | fn=TTI | prompt="daisies on a tree" | seed=1234 | cfg=13
+ts=13:58:03 | fn=TTI | prompt="daisies on a sea" | seed=1234 | cfg=13
+ts=13:58:03 | fn=TTI | prompt="daffodils on a fire" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="tulips on a sea" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="roses on a tree" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="roses on a sky" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="daisies on a fire" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="tulips on a sky" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="sunflowers on a sea" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="tulips on a fire" | seed=1234 | cfg=13
+ts=13:58:04 | fn=TTI | prompt="sunflowers on a fire" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a ground" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a tree" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a sea" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a ground" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a sky" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a sea" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a fire" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a sky" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a fire" | seed=1234 | cfg=13
+ts=13:58:47 | fn=TTI | prompt=" on a ground" | seed=1234 | cfg=13
+ts=13:58:52 | fn=TTI | prompt=" on a sea" | seed=1234 | cfg=13
+ts=13:58:52 | fn=TTI | prompt=" on a fire" | seed=1234 | cfg=13
+ts=13:58:52 | fn=TTI | prompt=" on a tree" | seed=1234 | cfg=13
+ts=13:58:53 | fn=TTI | prompt=" on a sky" | seed=1234 | cfg=13
+ts=13:58:53 | fn=TTI | prompt=" on a sea" | seed=1234 | cfg=13
+ts=13:58:54 | fn=GPT_LIST | prompt="types of transportation methods" | length=5
+ts=13:58:54 | fn=TTI | prompt=" on a fire" | seed=1234 | cfg=13
+ts=13:58:55 | fn=TTI | prompt=" on a tree" | seed=1234 | cfg=13
+ts=13:58:55 | fn=TTI | prompt=" on a tree" | seed=1234 | cfg=13
+ts=13:58:55 | fn=TTI | prompt=" on a sky" | seed=1234 | cfg=13
+ts=13:58:55 | fn=TTI | prompt=" on a ground" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="bicycle on a ground" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="bicycle on a tree" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="bus on a ground" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="train on a sea" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="train on a ground" | seed=1234 | cfg=13
+ts=13:58:57 | fn=TTI | prompt="bus on a tree" | seed=1234 | cfg=13
+ts=13:59:01 | fn=TTI | prompt="bus on a fire" | seed=1234 | cfg=13
+ts=13:59:01 | fn=TTI | prompt="car on a sky" | seed=1234 | cfg=13
+ts=13:59:02 | fn=TTI | prompt="car on a tree" | seed=1234 | cfg=13
+ts=13:59:03 | fn=TTI | prompt="train on a sky" | seed=1234 | cfg=13
+ts=13:59:05 | fn=TTI | prompt="car on a ground" | seed=1234 | cfg=13
+ts=13:59:05 | fn=TTI | prompt="car on a sea" | seed=1234 | cfg=13
+ts=13:59:06 | fn=TTI | prompt="plane on a tree" | seed=1234 | cfg=13
+ts=13:59:06 | fn=TTI | prompt="bicycle on a sea" | seed=1234 | cfg=13
+ts=13:59:06 | fn=TTI | prompt="car on a fire" | seed=1234 | cfg=13
+ts=13:59:06 | fn=TTI | prompt="bus on a sky" | seed=1234 | cfg=13
+ts=13:59:10 | fn=TTI | prompt="bicycle on a sky" | seed=1234 | cfg=13
+ts=13:59:10 | fn=TTI | prompt="plane on a ground" | seed=1234 | cfg=13
+ts=13:59:10 | fn=TTI | prompt="train on a fire" | seed=1234 | cfg=13
+ts=13:59:12 | fn=TTI | prompt="plane on a sky" | seed=1234 | cfg=13
+ts=13:59:14 | fn=TTI | prompt="train on a tree" | seed=1234 | cfg=13
+ts=13:59:15 | fn=TTI | prompt="plane on a sea" | seed=1234 | cfg=13
+ts=13:59:15 | fn=TTI | prompt="bicycle on a fire" | seed=1234 | cfg=13
+ts=13:59:15 | fn=TTI | prompt="plane on a fire" | seed=1234 | cfg=13
+ts=13:59:16 | fn=TTI | prompt="bus on a sea" | seed=1234 | cfg=13
+ts=14:01:18 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=5
+ts=14:01:27 | fn=TTI | prompt="plane on a " | seed=1234 | cfg=13
+ts=14:01:27 | fn=TTI | prompt="bicycle on a " | seed=1234 | cfg=13
+ts=14:01:27 | fn=TTI | prompt="train on a " | seed=1234 | cfg=13
+ts=14:01:27 | fn=TTI | prompt="bus on a " | seed=1234 | cfg=13
+ts=14:01:27 | fn=TTI | prompt="car on a " | seed=1234 | cfg=13
+ts=14:01:33 | fn=DIVERGENTS | prompt="divergent words to "Antarctica"" | length=4
+ts=14:01:35 | fn=TTI | prompt="car on a Glacier" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="bicycle on a Tundra" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="car on a Tundra" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="bus on a Tundra" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="car on a Icicle" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="car on a Arctic" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="bus on a Arctic" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="plane on a Tundra" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="bicycle on a Glacier" | seed=1234 | cfg=13
+ts=14:01:35 | fn=TTI | prompt="bicycle on a Icicle" | seed=1234 | cfg=13
+ts=14:01:40 | fn=TTI | prompt="bus on a Glacier" | seed=1234 | cfg=13
+ts=14:01:41 | fn=TTI | prompt="bicycle on a Arctic" | seed=1234 | cfg=13
+ts=14:01:41 | fn=TTI | prompt="train on a Glacier" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="train on a Icicle" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="plane on a Icicle" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="plane on a Glacier" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="train on a Tundra" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="train on a Arctic" | seed=1234 | cfg=13
+ts=14:01:42 | fn=TTI | prompt="plane on a Arctic" | seed=1234 | cfg=13
+ts=14:01:43 | fn=TTI | prompt="bus on a Icicle" | seed=1234 | cfg=13
+ts=14:01:58 | fn=TTI | prompt="train on a Antarctica" | seed=1234 | cfg=13
+ts=14:01:58 | fn=TTI | prompt="bicycle on a Antarctica" | seed=1234 | cfg=13
+ts=14:01:58 | fn=TTI | prompt="car on a Antarctica" | seed=1234 | cfg=13
+ts=14:01:58 | fn=TTI | prompt="bus on a Antarctica" | seed=1234 | cfg=13
+ts=14:01:58 | fn=TTI | prompt="plane on a Antarctica" | seed=1234 | cfg=13
+ts=14:20:48 | fn=TTI | prompt="Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:21:00 | fn=TTI | prompt="Floods are destroying the city. Lower buildings are disappearing in the fire and the flood. Some of the tall buildings are still visible and becomes the only place people and animals can rest." | seed=1234 | cfg=13
+ts=14:21:00 | fn=TTI | prompt="Aliens come from the sky in a huge plane, they hang over the top of the city and rescue the people and animals in the city." | seed=1234 | cfg=13
+ts=14:22:39 | fn=ALTERNATIVES | prompt="alternative ways to say "Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown"" | length=5
+ts=14:23:15 | fn=ALTERNATIVES | prompt="alternative ways to say "Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown"" | length=5
+ts=14:23:15 | fn=TTI | prompt="Floods are destroying the city. Lower buildings are disappearing in the fire and the flood. Some of the tall buildings are still visible and becomes the only place people and animals can rest." | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="Aliens come from the sky in a huge plane, they hang over the top of the city and rescue the people and animals in the city." | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:23:42 | fn=TTI | prompt="Avian creatures soaring in the heavens, enormous boulders levitating mid-air, dust particles dispersed all around, metropolitan vistas showcasing high-rise buildings" | seed=1234 | cfg=13
+ts=14:23:42 | fn=TTI | prompt="Feathered creatures gliding in the sky, mammoth rocks hovering overhead, dust particles scattered throughout the air, cityscapes with towering skyscrapers on display" | seed=1234 | cfg=13
+ts=14:23:43 | fn=TTI | prompt="Flocks of birds take flight in the sky, massive stones suspended in the air, dust swirling around, urban landscapes featuring towering skyscrapers" | seed=1234 | cfg=13
+ts=14:23:43 | fn=TTI | prompt="Sky filled with flying birds, air carrying floating rocks, dust spread all over, views of city with tall skyscrapers" | seed=1234 | cfg=13
+ts=14:23:43 | fn=TTI | prompt="Birds in flight across the sky, large boulders suspended in the air, dust covering the ground, urban panoramas featuring tall skyscrapers" | seed=1234 | cfg=13
+ts=14:24:20 | fn=EMBELLISH | prompt="Embellish this sentence: Floods are destroying the city. Lower buildings are disappearing in the fire and the flood. Some of the tall buildings are still visible and becomes the only place people and animals can rest." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:23 | fn=TTI | prompt="
+
+Floods are ravaging the city, leaving behind a trail of destruction. Lower buildings have been swallowed up by the raging floodwaters, while the taller buildings remain as the only safe havens for people and animals alike. As the waters continue to rise, these tall structures serve as a grim reminder of the devastation that has been wrought." | seed=1234 | cfg=13
+ts=14:24:28 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+Floods are ravaging the city, leaving behind a trail of destruction. Lower buildings have been swallowed up by the raging floodwaters, while the taller buildings remain as the only safe havens for people and animals alike. As the waters continue to rise, these tall structures serve as a grim reminder of the devastation that has been wrought." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:33 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+The floodwaters have been relentless, wreaking havoc on the city with no sign of relenting. Buildings have been submerged and homes have been destroyed, leaving behind a landscape of despair. The only safe oasis amidst the chaos are the tall buildings, standing tall and proud as a beacon of hope in this time of tragedy. As the waters continue to rise, these tall structures serve as a reminder of the strength of the human spirit in the face of adversity." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:33 | fn=TTI | prompt="
+
+The floodwaters have been relentless, wreaking havoc on the city with no sign of relenting. Buildings have been submerged and homes have been destroyed, leaving behind a landscape of despair. The only safe oasis amidst the chaos are the tall buildings, standing tall and proud as a beacon of hope in this time of tragedy. As the waters continue to rise, these tall structures serve as a reminder of the strength of the human spirit in the face of adversity." | seed=1234 | cfg=13
+ts=14:24:38 | fn=EMBELLISH | prompt="Embellish this sentence:  
+
+The relentless floodwaters have brought a torrent of destruction, leaving behind a heartbreaking scene of devastation. Yet, amidst the chaos, there is a glimmer of hope. The tall buildings stand tall and proud, providing a safe haven from the storm and a reminder of the courage and resilience of the human spirit. Despite the rising waters, these towering structures remain a symbol of hope in this time of tragedy." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:38 | fn=EMBELLISH | prompt="Embellish this sentence: Aliens come from the sky in a huge plane, they hang over the top of the city and rescue the people and animals in the city." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:38 | fn=TTI | prompt=" 
+
+The relentless floodwaters have brought a torrent of destruction, leaving behind a heartbreaking scene of devastation. Yet, amidst the chaos, there is a glimmer of hope. The tall buildings stand tall and proud, providing a safe haven from the storm and a reminder of the courage and resilience of the human spirit. Despite the rising waters, these towering structures remain a symbol of hope in this time of tragedy." | seed=1234 | cfg=13
+ts=14:24:44 | fn=EMBELLISH | prompt="Embellish this sentence:  
+
+The relentless floodwaters have brought a torrent of destruction, leaving behind a heartbreaking scene of devastation. Yet, amidst the chaos, there is a glimmer of hope. The tall buildings stand tall and proud, like a beacon of light in the darkness, providing a safe haven from the storm and a reminder of the courage and resilience of the human spirit. Despite the rising waters, these towering structures remain a symbol of strength and courage, offering a ray of hope in this time of tragedy." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:44 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In a moment of great courage, they swoop in and bravely rescue the people and animals in the city, providing them with a safe haven from the chaos below." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:44 | fn=TTI | prompt=" 
+
+The relentless floodwaters have brought a torrent of destruction, leaving behind a heartbreaking scene of devastation. Yet, amidst the chaos, there is a glimmer of hope. The tall buildings stand tall and proud, like a beacon of light in the darkness, providing a safe haven from the storm and a reminder of the courage and resilience of the human spirit. Despite the rising waters, these towering structures remain a symbol of strength and courage, offering a ray of hope in this time of tragedy." | seed=1234 | cfg=13
+ts=14:24:45 | fn=TTI | prompt="
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In a moment of great courage, they swoop in and bravely rescue the people and animals in the city, providing them with a safe haven from the chaos below." | seed=1234 | cfg=13
+ts=14:24:54 | fn=EMBELLISH | prompt="Embellish this sentence: 
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. With a brilliant flash of light and a mighty roar, they swoop in and bravely rescue the people and animals in the city, providing them with a safe haven from the chaos below." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:24:54 | fn=TTI | prompt=" 
+
+The relentless floodwaters have brought a torrent of destruction, leaving behind a heartbreaking scene of devastation. Yet, amidst the chaos, there is a glimmer of hope. The tall buildings stand tall and proud, like a beacon of light in the darkness, providing a safe haven from the storm and a reminder of the courage and resilience of the human spirit. Despite the rising waters, these towering structures remain a symbol of strength and courage, offering a ray of hope in this time of tragedy." | seed=1234 | cfg=13
+ts=14:24:54 | fn=TTI | prompt="
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. With a brilliant flash of light and a mighty roar, they swoop in and bravely rescue the people and animals in the city, providing them with a safe haven from the chaos below." | seed=1234 | cfg=13
+ts=14:25:03 | fn=EMBELLISH | prompt="Embellish this sentence:  
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In an awe-inspiring display of strength and might, they swoop in with a brilliant flash of light and a thunderous roar, heroically rescuing the people and animals in the city from the perilous chaos below and providing them with a safe haven from the danger." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:25:03 | fn=TTI | prompt=" 
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In an awe-inspiring display of strength and might, they swoop in with a brilliant flash of light and a thunderous roar, heroically rescuing the people and animals in the city from the perilous chaos below and providing them with a safe haven from the danger." | seed=1234 | cfg=13
+ts=14:25:21 | fn=EMBELLISH | prompt="Embellish this sentence:  
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In an awe-inspiring display of strength and might, they swoop in with a brilliant flash of light and a thunderous roar, heroically rescuing the people and animals in the city from the perilous chaos below and providing them with a safe haven from the danger." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:26:10 | fn=ALTERNATIVES | prompt="alternative ways to say "Birdsflying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown"" | length=5
+ts=14:26:10 | fn=TTI | prompt="Birdsflying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:26:17 | fn=ALTERNATIVES | prompt="alternative ways to say "Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown"" | length=5
+ts=14:26:17 | fn=TTI | prompt="Birds flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:26:29 | fn=TTI | prompt="The sky is alive with birds in flight and floating rocks shimmering in the air, as dust blankets the scene. The towering buildings of the city form a magnificent backdrop." | seed=1234 | cfg=13
+ts=14:26:29 | fn=TTI | prompt="In the air, birds are soaring; floating rocks are seen everywhere around them, while dust swirls on the ground. The cityscape is visible, dotted with skyscrapers." | seed=1234 | cfg=13
+ts=14:26:29 | fn=TTI | prompt="A stunning image of birds soaring in the sky, boulders hovering in the air, and dust enveloping everything in sight. The urban landscape looms in the distance, with towering skyscrapers punctuating the skyline." | seed=1234 | cfg=13
+ts=14:26:29 | fn=TTI | prompt="Up in the sky, birds glide effortlessly while enormous stones float by. On the ground, clouds of dust are kicked up, and the urban skyline looms in the distance, complete with towering skyscrapers." | seed=1234 | cfg=13
+ts=14:26:29 | fn=TTI | prompt="A view of birds in the sky, rocks floating in mid-air and dust being blown around is captured in this scene. The concrete jungle of the city is also visible, with skyscrapers dominating the skyline." | seed=1234 | cfg=13
+ts=14:26:38 | fn=EMBELLISH | prompt="Embellish this sentence:  
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In an awe-inspiring display of strength and might, they swoop in with a brilliant flash of light and a thunderous roar, heroically rescuing the people and animals in the city from the perilous chaos below and providing them with a safe haven from the danger." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:26:47 | fn=DIVERGENTS | prompt="divergent words to """ | length=5
+ts=14:26:58 | fn=DIVERGENTS | prompt="divergent words to "Birds"" | length=5
+ts=14:27:21 | fn=TTI | prompt="Insects flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:27:21 | fn=TTI | prompt="Beasts flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:27:21 | fn=TTI | prompt="Critters flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:27:21 | fn=TTI | prompt="Reptiles flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:27:21 | fn=TTI | prompt="Mammals flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:32:19 | fn=TTI | prompt="Reptiles flying in the sky, huge stones floating in the air, dust spread all around, city scenes with skycrapers are shown" | seed=1234 | cfg=13
+ts=14:32:24 | fn=TTI | prompt="Floods are destroying the city. Lower buildings are disappearing in the fire and the flood. Some of the tall buildings are still visible and becomes the only place people and animals can rest." | seed=1234 | cfg=13
+ts=14:32:29 | fn=TTI | prompt=" 
+
+The aliens arrive in a massive spaceship, hovering ominously above the city, its powerful engines emitting a deafening roar. In an awe-inspiring display of strength and might, they swoop in with a brilliant flash of light and a thunderous roar, heroically rescuing the people and animals in the city from the perilous chaos below and providing them with a safe haven from the danger." | seed=1234 | cfg=13
