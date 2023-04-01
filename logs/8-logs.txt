@@ -1,0 +1,819 @@
+ts=11:16:57 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=25
+ts=11:16:57 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=29
+ts=11:16:57 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=33
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=29
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=33
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=33
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=25
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=29
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=33
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=29
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=29
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=25
+ts=11:17:32 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=33
+ts=11:17:37 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=25
+ts=11:17:37 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=33
+ts=11:17:38 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=25
+ts=11:17:38 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=29
+ts=11:17:38 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=25
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=25
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=1
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=25
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=5
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=29
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=33
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=13
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=13
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=29
+ts=11:18:28 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=21
+ts=11:18:33 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=17
+ts=11:18:34 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=17
+ts=11:18:34 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=13
+ts=11:18:34 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=9
+ts=11:18:34 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=5
+ts=11:18:39 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=9
+ts=11:18:39 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=29
+ts=11:18:44 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=13
+ts=11:18:45 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=5
+ts=11:18:48 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=25
+ts=11:18:48 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=33
+ts=11:18:49 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=1
+ts=11:18:49 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=25
+ts=11:18:49 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=17
+ts=11:18:50 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=33
+ts=11:18:53 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=25
+ts=11:18:54 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=21
+ts=11:18:54 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=29
+ts=11:18:54 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=13
+ts=11:18:54 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=1
+ts=11:18:56 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=21
+ts=11:18:59 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=17
+ts=11:19:00 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=33
+ts=11:19:02 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=33
+ts=11:19:02 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=13
+ts=11:19:03 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=33
+ts=11:19:04 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=9
+ts=11:19:06 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=1
+ts=11:19:08 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=5
+ts=11:19:08 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=1
+ts=11:19:11 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=9
+ts=11:19:12 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=5
+ts=11:19:13 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=1
+ts=11:19:17 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=25
+ts=11:19:20 | fn=TTI | prompt="human running on a hill" | seed=5555 | cfg=21
+ts=11:19:21 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=9
+ts=11:19:21 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=29
+ts=11:19:22 | fn=TTI | prompt="human running on a hill" | seed=2222 | cfg=17
+ts=11:19:24 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=5
+ts=11:19:25 | fn=TTI | prompt="human running on a hill" | seed=3333 | cfg=9
+ts=11:19:26 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=29
+ts=11:19:26 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=13
+ts=11:19:28 | fn=TTI | prompt="human running on a hill" | seed=4444 | cfg=17
+ts=11:19:29 | fn=TTI | prompt="human running on a hill" | seed=1234 | cfg=21
+ts=11:19:29 | fn=TTI | prompt="human running on a hill" | seed=1111 | cfg=21
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=13
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=25
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=21
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=25
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=13
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=5
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=33
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=33
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=9
+ts=11:20:00 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=33
+ts=11:20:05 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=17
+ts=11:20:05 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=33
+ts=11:20:05 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=17
+ts=11:20:06 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=29
+ts=11:20:06 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=1
+ts=11:20:06 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=13
+ts=11:20:10 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=1
+ts=11:20:10 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=5
+ts=11:20:10 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=5
+ts=11:20:10 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=1
+ts=11:20:10 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=29
+ts=11:20:11 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=29
+ts=11:20:11 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=33
+ts=11:20:12 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=9
+ts=11:20:15 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=21
+ts=11:20:15 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=1
+ts=11:20:16 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=25
+ts=11:20:16 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=17
+ts=11:20:16 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=13
+ts=11:20:18 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=1
+ts=11:20:18 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=17
+ts=11:20:20 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=1
+ts=11:20:22 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=13
+ts=11:20:23 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=5
+ts=11:20:23 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=9
+ts=11:20:24 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=21
+ts=11:20:25 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=33
+ts=11:20:26 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=5
+ts=11:20:27 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=25
+ts=11:20:28 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=29
+ts=11:20:29 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=13
+ts=11:20:29 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=25
+ts=11:20:31 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=21
+ts=11:20:31 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=17
+ts=11:20:34 | fn=TTI | prompt="human running on a house" | seed=4444 | cfg=9
+ts=11:20:34 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=21
+ts=11:20:37 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=9
+ts=11:20:38 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=9
+ts=11:20:40 | fn=TTI | prompt="human running on a house" | seed=1111 | cfg=29
+ts=11:20:42 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=25
+ts=11:20:43 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=29
+ts=11:20:45 | fn=TTI | prompt="human running on a house" | seed=5555 | cfg=5
+ts=11:20:46 | fn=TTI | prompt="human running on a house" | seed=2222 | cfg=17
+ts=11:20:46 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=21
+ts=11:20:49 | fn=TTI | prompt="human running on a house" | seed=1234 | cfg=13
+ts=11:21:26 | fn=TTI | prompt="human running on a house" | seed=3333 | cfg=25
+ts=11:29:06 | fn=SYNONYMS | prompt="synonyms of "sports"" | length=5
+ts=11:29:54 | fn=ANTONYMS | prompt="antonyms of "friends"" | length=5
+ts=11:31:32 | fn=TTI | prompt="foes playing athletics" | seed=1234 | cfg=13
+ts=11:31:42 | fn=TTI | prompt="foes playing games" | seed=1234 | cfg=13
+ts=11:31:42 | fn=TTI | prompt="foes playing recreation" | seed=1234 | cfg=13
+ts=11:31:42 | fn=TTI | prompt="foes playing physical activity" | seed=1234 | cfg=13
+ts=11:31:42 | fn=TTI | prompt="foes playing exercise" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="adversaries playing athletics" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="antagonists playing games" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="opponents playing physical activity" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="opponents playing recreation" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="adversaries playing physical activity" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="enemies playing games" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="antagonists playing athletics" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="opponents playing exercise" | seed=1234 | cfg=13
+ts=11:31:52 | fn=TTI | prompt="adversaries playing recreation" | seed=1234 | cfg=13
+ts=11:31:53 | fn=TTI | prompt="antagonists playing recreation" | seed=1234 | cfg=13
+ts=11:31:58 | fn=TTI | prompt="antagonists playing physical activity" | seed=1234 | cfg=13
+ts=11:31:58 | fn=TTI | prompt="enemies playing exercise" | seed=1234 | cfg=13
+ts=11:31:58 | fn=TTI | prompt="adversaries playing games" | seed=1234 | cfg=13
+ts=11:31:58 | fn=TTI | prompt="opponents playing games" | seed=1234 | cfg=13
+ts=11:31:58 | fn=TTI | prompt="enemies playing physical activity" | seed=1234 | cfg=13
+ts=11:31:59 | fn=TTI | prompt="enemies playing athletics" | seed=1234 | cfg=13
+ts=11:32:02 | fn=TTI | prompt="antagonists playing exercise" | seed=1234 | cfg=13
+ts=11:32:03 | fn=TTI | prompt="opponents playing athletics" | seed=1234 | cfg=13
+ts=11:32:04 | fn=TTI | prompt="enemies playing recreation" | seed=1234 | cfg=13
+ts=11:32:04 | fn=TTI | prompt="adversaries playing exercise" | seed=1234 | cfg=13
+ts=11:41:24 | fn=TTI | prompt="PROMPT HERE" | seed=81 | cfg=13
+ts=11:41:33 | fn=TTI | prompt="PROMPT HERE" | seed=81 | cfg=35
+ts=11:41:33 | fn=TTI | prompt="PROMPT HERE" | seed=81 | cfg=20
+ts=11:41:33 | fn=TTI | prompt="PROMPT HERE" | seed=81 | cfg=10
+ts=11:41:33 | fn=TTI | prompt="PROMPT HERE" | seed=81 | cfg=30
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=52 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=1234 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=69 | cfg=10
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=52 | cfg=20
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=69 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=77 | cfg=13
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=48 | cfg=35
+ts=11:41:40 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=30
+ts=11:41:44 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=13
+ts=11:41:44 | fn=TTI | prompt="PROMPT HERE" | seed=1234 | cfg=20
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=77 | cfg=10
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=48 | cfg=20
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=52 | cfg=10
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=77 | cfg=20
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=10
+ts=11:41:45 | fn=TTI | prompt="PROMPT HERE" | seed=52 | cfg=13
+ts=11:41:48 | fn=TTI | prompt="PROMPT HERE" | seed=77 | cfg=35
+ts=11:41:49 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=20
+ts=11:41:49 | fn=TTI | prompt="PROMPT HERE" | seed=48 | cfg=13
+ts=11:41:50 | fn=TTI | prompt="PROMPT HERE" | seed=48 | cfg=30
+ts=11:41:50 | fn=TTI | prompt="PROMPT HERE" | seed=52 | cfg=30
+ts=11:41:50 | fn=TTI | prompt="PROMPT HERE" | seed=69 | cfg=13
+ts=11:41:50 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=20
+ts=11:41:50 | fn=TTI | prompt="PROMPT HERE" | seed=48 | cfg=10
+ts=11:41:51 | fn=TTI | prompt="PROMPT HERE" | seed=1234 | cfg=10
+ts=11:41:53 | fn=TTI | prompt="PROMPT HERE" | seed=69 | cfg=30
+ts=11:41:53 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=30
+ts=11:41:54 | fn=TTI | prompt="PROMPT HERE" | seed=69 | cfg=20
+ts=11:41:54 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=13
+ts=11:41:55 | fn=TTI | prompt="PROMPT HERE" | seed=1234 | cfg=30
+ts=11:41:55 | fn=TTI | prompt="PROMPT HERE" | seed=16 | cfg=10
+ts=11:41:55 | fn=TTI | prompt="PROMPT HERE" | seed=77 | cfg=30
+ts=11:41:56 | fn=TTI | prompt="PROMPT HERE" | seed=1234 | cfg=13
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=10
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=35
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=20
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=10
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=13
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=35
+ts=11:42:36 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=10
+ts=11:42:40 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=30
+ts=11:42:40 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=30
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=20
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=10
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=13
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=13
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=13
+ts=11:42:41 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=20
+ts=11:42:42 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:42:42 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=10
+ts=11:42:44 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=35
+ts=11:42:45 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:42:46 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=30
+ts=11:42:46 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=13
+ts=11:42:46 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=35
+ts=11:42:46 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:42:46 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:42:47 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:42:48 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=20
+ts=11:42:50 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:42:50 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=30
+ts=11:42:50 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=20
+ts=11:42:50 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=35
+ts=11:42:50 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=10
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=13
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=10
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=20
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=35
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=35
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=13
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=20
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=10
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=13
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=30
+ts=11:42:59 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=20
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=10
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=13
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=13
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=10
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=20
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=20
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=35
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=35
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:43:00 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=35
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=35
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=10
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=10
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=20
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=30
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=10
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=30
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=13
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=13
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=20
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=13
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=35
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=30
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=20
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=35
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=13
+ts=11:43:01 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=81 | cfg=20
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=30
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=30
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=20
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=69 | cfg=10
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=13
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=10
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=35
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=77 | cfg=35
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=20
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=52 | cfg=13
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=48 | cfg=30
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=35
+ts=11:43:02 | fn=TTI | prompt="PROMPT 1" | seed=16 | cfg=10
+ts=11:43:07 | fn=TTI | prompt="PROMPT 2" | seed=81 | cfg=13
+ts=11:43:14 | fn=TTI | prompt="PROMPT 2" | seed=81 | cfg=35
+ts=11:43:14 | fn=TTI | prompt="PROMPT 2" | seed=81 | cfg=30
+ts=11:43:14 | fn=TTI | prompt="PROMPT 2" | seed=81 | cfg=10
+ts=11:43:14 | fn=TTI | prompt="PROMPT 2" | seed=81 | cfg=20
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=48 | cfg=30
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=77 | cfg=20
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=52 | cfg=10
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=69 | cfg=30
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=69 | cfg=20
+ts=11:43:21 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=13
+ts=11:43:22 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=20
+ts=11:43:22 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=30
+ts=11:43:22 | fn=TTI | prompt="PROMPT 2" | seed=69 | cfg=10
+ts=11:43:22 | fn=TTI | prompt="PROMPT 2" | seed=48 | cfg=10
+ts=11:43:26 | fn=TTI | prompt="PROMPT 2" | seed=52 | cfg=13
+ts=11:43:26 | fn=TTI | prompt="PROMPT 2" | seed=77 | cfg=10
+ts=11:43:26 | fn=TTI | prompt="PROMPT 2" | seed=48 | cfg=20
+ts=11:43:27 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=35
+ts=11:43:27 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=10
+ts=11:43:27 | fn=TTI | prompt="PROMPT 2" | seed=77 | cfg=13
+ts=11:43:29 | fn=TTI | prompt="PROMPT 2" | seed=69 | cfg=35
+ts=11:43:30 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=35
+ts=11:43:30 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=20
+ts=11:43:30 | fn=TTI | prompt="PROMPT 2" | seed=52 | cfg=35
+ts=11:43:30 | fn=TTI | prompt="PROMPT 2" | seed=52 | cfg=20
+ts=11:43:31 | fn=TTI | prompt="PROMPT 2" | seed=48 | cfg=13
+ts=11:43:31 | fn=TTI | prompt="PROMPT 2" | seed=69 | cfg=13
+ts=11:43:31 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=13
+ts=11:43:31 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=30
+ts=11:43:32 | fn=TTI | prompt="PROMPT 2" | seed=52 | cfg=30
+ts=11:43:32 | fn=TTI | prompt="PROMPT 2" | seed=77 | cfg=30
+ts=11:43:32 | fn=TTI | prompt="PROMPT 2" | seed=16 | cfg=10
+ts=11:43:32 | fn=TTI | prompt="PROMPT 2" | seed=48 | cfg=35
+ts=11:43:32 | fn=TTI | prompt="PROMPT 2" | seed=77 | cfg=35
+ts=11:43:35 | fn=TTI | prompt="PROMPT 3" | seed=81 | cfg=13
+ts=11:43:40 | fn=TTI | prompt="PROMPT 3" | seed=69 | cfg=30
+ts=11:43:40 | fn=TTI | prompt="PROMPT 3" | seed=69 | cfg=20
+ts=11:43:40 | fn=TTI | prompt="PROMPT 3" | seed=48 | cfg=20
+ts=11:43:40 | fn=TTI | prompt="PROMPT 3" | seed=69 | cfg=35
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=30
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=81 | cfg=20
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=77 | cfg=35
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=48 | cfg=13
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=20
+ts=11:43:41 | fn=TTI | prompt="PROMPT 3" | seed=77 | cfg=30
+ts=11:43:45 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=20
+ts=11:43:45 | fn=TTI | prompt="PROMPT 3" | seed=48 | cfg=30
+ts=11:43:45 | fn=TTI | prompt="PROMPT 3" | seed=69 | cfg=10
+ts=11:43:45 | fn=TTI | prompt="PROMPT 3" | seed=52 | cfg=10
+ts=11:43:46 | fn=TTI | prompt="PROMPT 3" | seed=52 | cfg=20
+ts=11:43:46 | fn=TTI | prompt="PROMPT 3" | seed=52 | cfg=30
+ts=11:43:46 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=13
+ts=11:43:47 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=35
+ts=11:43:49 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=10
+ts=11:43:50 | fn=TTI | prompt="PROMPT 3" | seed=81 | cfg=30
+ts=11:43:50 | fn=TTI | prompt="PROMPT 3" | seed=52 | cfg=13
+ts=11:43:50 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=10
+ts=11:43:50 | fn=TTI | prompt="PROMPT 3" | seed=77 | cfg=13
+ts=11:43:51 | fn=TTI | prompt="PROMPT 3" | seed=52 | cfg=35
+ts=11:43:51 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=13
+ts=11:43:51 | fn=TTI | prompt="PROMPT 3" | seed=48 | cfg=35
+ts=11:43:51 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=30
+ts=11:43:52 | fn=TTI | prompt="PROMPT 3" | seed=77 | cfg=20
+ts=11:43:54 | fn=TTI | prompt="PROMPT 3" | seed=48 | cfg=10
+ts=11:43:55 | fn=TTI | prompt="PROMPT 3" | seed=81 | cfg=10
+ts=11:43:55 | fn=TTI | prompt="PROMPT 3" | seed=69 | cfg=13
+ts=11:43:56 | fn=TTI | prompt="PROMPT 3" | seed=16 | cfg=35
+ts=11:43:56 | fn=TTI | prompt="PROMPT 3" | seed=81 | cfg=35
+ts=11:43:58 | fn=TTI | prompt="PROMPT 3" | seed=77 | cfg=10
+ts=11:45:03 | fn=EMBELLISH | prompt="Embellish this sentence: A vibrant futuristic Seattle cityscape lush with many happy people" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:45:22 | fn=EMBELLISH | prompt="Embellish this sentence: A vibrant futuristic Seattle cityscape lush with many happy people. Things seem almost too perfect..." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:46:29 | fn=EMBELLISH | prompt="Embellish this sentence: Aliens invade the vibrant futuristic Seattle cityscape, the sky turns a dark orange, rubble fills the streets, people are abducted" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:30 | fn=EMBELLISH | prompt="Embellish this sentence: The aliens find that invading the futuristic cityscape is too much effort, as the people's will to protect their city is too much to overcome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:36 | fn=EMBELLISH | prompt="Embellish this sentence: Aliens invade the futuristic Seattle cityscape, the sky turns a dark orange, rubble fills the streets, people are abducted" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:42 | fn=EMBELLISH | prompt="Embellish this sentence: The aliens find that invading the futuristic Seattle cityscape is too much effort, as the people's will to protect their city is too much to overcome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=35
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=20
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=10
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=10
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=30
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=10
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=20
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=35
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=30
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=10
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=10
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=13
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=35
+ts=11:48:14 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=20
+ts=11:48:15 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=13
+ts=11:48:16 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=35
+ts=11:48:18 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=20
+ts=11:48:20 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=35
+ts=11:48:20 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=35
+ts=11:48:21 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:48:21 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=20
+ts=11:48:23 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=35
+ts=11:48:24 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=30
+ts=11:48:27 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=30
+ts=11:48:27 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=13
+ts=11:48:28 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:48:29 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:48:31 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=13
+ts=11:48:32 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:48:36 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:48:39 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=13
+ts=11:48:45 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=35
+ts=11:48:50 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=30
+ts=11:48:51 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=13
+ts=11:48:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=20
+ts=11:48:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=13
+ts=11:48:54 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=35
+ts=11:48:55 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=10
+ts=11:48:58 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=10
+ts=11:48:58 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=30
+ts=11:48:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=20
+ts=11:49:01 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=20
+ts=11:49:02 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=20
+ts=11:49:04 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=30
+ts=11:49:04 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=35
+ts=11:49:06 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=35
+ts=11:49:06 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=10
+ts=11:49:08 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:49:09 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=20
+ts=11:49:09 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=20
+ts=11:49:10 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=13
+ts=11:49:14 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=10
+ts=11:49:15 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=35
+ts=11:49:15 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=20
+ts=11:49:17 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=20
+ts=11:49:20 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=20
+ts=11:49:21 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=20
+ts=11:49:21 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=20
+ts=11:49:22 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=10
+ts=11:49:22 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=30
+ts=11:49:22 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=10
+ts=11:49:24 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=13
+ts=11:49:26 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=13
+ts=11:49:27 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=10
+ts=11:49:28 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=30
+ts=11:49:29 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=10
+ts=11:49:32 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=13
+ts=11:49:33 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=13
+ts=11:49:33 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=30
+ts=11:49:34 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=30
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=30
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=35
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=10
+ts=11:49:39 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=10
+ts=11:49:40 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=13
+ts=11:49:40 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=35
+ts=11:49:43 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=13
+ts=11:49:43 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=30
+ts=11:49:45 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=35
+ts=11:49:45 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=30
+ts=11:49:45 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=35
+ts=11:49:47 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=13
+ts=11:49:48 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=35
+ts=11:49:50 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=10
+ts=11:49:52 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=35
+ts=11:49:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=10
+ts=11:49:53 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=30
+ts=11:49:53 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=30
+ts=11:49:56 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=13
+ts=11:49:56 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=35
+ts=11:49:57 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=10
+ts=11:49:57 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=30
+ts=11:49:58 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=10
+ts=11:49:58 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=30
+ts=11:49:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=35
+ts=11:49:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=35
+ts=11:50:01 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:50:01 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:50:12 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:50:12 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:50:19 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=35
+ts=11:50:24 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:51:38 | fn=EMBELLISH | prompt="Embellish this sentence: People fill the streets of the Seattle cityscape as they overcome the aliens, who walk away in shame and disappointment as their ufo flies away" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=20
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=13
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=13
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=13
+ts=11:51:45 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=13
+ts=11:51:45 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=13
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=30
+ts=11:51:49 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=20
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=20
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=35
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=13
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=20
+ts=11:51:51 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=20
+ts=11:51:51 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=30
+ts=11:51:53 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=35
+ts=11:51:53 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=35
+ts=11:51:55 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=35
+ts=11:51:55 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=30
+ts=11:51:56 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=20
+ts=11:51:56 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=35
+ts=11:51:58 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=30
+ts=11:51:58 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=35
+ts=11:51:59 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=20
+ts=11:52:00 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=35
+ts=11:52:01 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=13
+ts=11:52:01 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=10
+ts=11:52:12 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=1234 | cfg=10
