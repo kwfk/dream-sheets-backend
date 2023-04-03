@@ -1,0 +1,885 @@
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=21
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=21
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=17
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=5
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=9
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=9
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=17
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=5
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=17
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=18:57:38 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=9
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=5
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=17
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=17
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=9
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=21
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=5
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=21
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=5
+ts=18:57:39 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=18:57:40 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=9
+ts=18:57:40 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=21
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=1
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=1
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=1
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=1
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=1
+ts=18:57:45 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=1
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=18:57:48 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=18:57:55 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=35
+ts=18:57:55 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=35
+ts=18:57:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=35
+ts=18:57:56 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=35
+ts=18:57:56 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=35
+ts=18:57:56 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=35
+ts=18:58:17 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=35
+ts=18:59:13 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=35
+ts=18:59:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=35
+ts=18:59:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=35
+ts=18:59:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=35
+ts=18:59:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=35
+ts=18:59:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=35
+ts=18:59:43 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=35
+ts=18:59:43 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=35
+ts=18:59:43 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=35
+ts=18:59:44 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=35
+ts=18:59:44 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=35
+ts=18:59:44 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=35
+ts=19:00:13 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=4444 | cfg=35
+ts=19:00:14 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=3333 | cfg=35
+ts=19:00:14 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1111 | cfg=35
+ts=19:00:14 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=5555 | cfg=35
+ts=19:00:14 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1234 | cfg=35
+ts=19:00:14 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=2222 | cfg=35
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=1
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=1
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=1
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=1
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=1
+ts=19:00:24 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=1
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=20
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=20
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=20
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=20
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=20
+ts=19:00:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=20
+ts=19:00:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1234 | cfg=35
+ts=19:00:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=4444 | cfg=35
+ts=19:00:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=3333 | cfg=35
+ts=19:00:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=2222 | cfg=35
+ts=19:00:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=5555 | cfg=35
+ts=19:00:52 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1111 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=3333 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1111 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=5555 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=4444 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=2222 | cfg=35
+ts=19:01:17 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1234 | cfg=35
+ts=19:01:41 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=3333 | cfg=35
+ts=19:01:41 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=4444 | cfg=35
+ts=19:01:41 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=5555 | cfg=35
+ts=19:01:42 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1234 | cfg=35
+ts=19:01:42 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=2222 | cfg=35
+ts=19:01:42 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1111 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=3333 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1234 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=2222 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1111 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=4444 | cfg=35
+ts=19:02:54 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=5555 | cfg=35
+ts=19:11:16 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=19:11:24 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=19:11:31 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=19:12:16 | fn=GPT_LIST | prompt="Popular vacation destinations" | length=4
+ts=19:12:22 | fn=GPT_LIST | prompt="Popular vacation destinations" | length=8
+ts=19:12:57 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=19:13:08 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=19:14:11 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=19:14:15 | fn=TTI | prompt="dragons having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:14:34 | fn=TTI | prompt="dragons having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:14:35 | fn=TTI | prompt="dragons having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:14:42 | fn=TTI | prompt="unicorns having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:14:42 | fn=TTI | prompt="griffins having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:14:42 | fn=TTI | prompt="griffins having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:14:42 | fn=TTI | prompt="unicorns having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:14:42 | fn=TTI | prompt="centaurs having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:14:43 | fn=TTI | prompt="unicorns having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:14:43 | fn=TTI | prompt="griffins having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:14:43 | fn=TTI | prompt="centaurs having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:14:43 | fn=TTI | prompt="mermaids having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:14:43 | fn=TTI | prompt="griffins having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="centaurs having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="unicorns having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="mermaids having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="mermaids having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="centaurs having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="griffins having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="centaurs having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:14:48 | fn=TTI | prompt="griffins having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:14:49 | fn=TTI | prompt="mermaids having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:14:49 | fn=TTI | prompt="mermaids having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:14:53 | fn=TTI | prompt="griffins having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:14:53 | fn=TTI | prompt="centaurs having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:14:53 | fn=TTI | prompt="mermaids having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:14:54 | fn=TTI | prompt="griffins having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:14:54 | fn=TTI | prompt="centaurs having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:14:54 | fn=TTI | prompt="mermaids having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:14:54 | fn=TTI | prompt="mermaids having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:14:54 | fn=TTI | prompt="unicorns having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:14:55 | fn=TTI | prompt="unicorns having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:14:56 | fn=TTI | prompt="centaurs having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:00 | fn=TTI | prompt="unicorns having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:00 | fn=TTI | prompt="unicorns having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:17 | fn=TTI | prompt="griffins having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:15:17 | fn=TTI | prompt="mermaids having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:15:17 | fn=TTI | prompt="centaurs having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:15:17 | fn=TTI | prompt="unicorns having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="centaurs having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="centaurs having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="griffins having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="dogs on a river" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="griffins having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="dragons having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="dragons having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="centaurs having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="unicorns having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="griffins having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="griffins having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="mermaids having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="griffins having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="centaurs having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="centaurs having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="dragons having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="mermaids having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="frogs on a river" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="unicorns having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:18 | fn=TTI | prompt="unicorns having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="dragons having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="mermaids having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="griffins having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="unicorns having a water balloon fight in Rome" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="centaurs having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="unicorns having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="dragons having a water balloon fight in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="dragons having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="cats on a river" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="centaurs having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="mermaids having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="mermaids having a water balloon fight in Phuket" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="unicorns having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="griffins having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="horses on a river" | seed=1234 | cfg=13
+ts=19:15:19 | fn=TTI | prompt="mermaids having a water balloon fight in Paris" | seed=1234 | cfg=13
+ts=19:15:20 | fn=TTI | prompt="unicorns having a water balloon fight in Tokyo" | seed=1234 | cfg=13
+ts=19:15:20 | fn=TTI | prompt="dragons having a water balloon fight in Hawaii" | seed=1234 | cfg=13
+ts=19:15:20 | fn=TTI | prompt="dragons having a water balloon fight in Bali" | seed=1234 | cfg=13
+ts=19:15:20 | fn=TTI | prompt="mermaids having a water balloon fight in New York" | seed=1234 | cfg=13
+ts=19:15:20 | fn=TTI | prompt="deer on a river" | seed=1234 | cfg=13
+ts=19:16:38 | fn=TTI | prompt="dragons lining up to order sandwiches in Hawaii" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Rome" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Tokyo" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Phuket" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Paris" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in Bali" | seed=1234 | cfg=13
+ts=19:16:43 | fn=TTI | prompt="dragons lining up to order sandwiches in New York" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="griffins lining up to order sandwiches in Phuket" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="centaurs lining up to order sandwiches in Rome" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="griffins lining up to order sandwiches in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="unicorns lining up to order sandwiches in Bali" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="griffins lining up to order sandwiches in Paris" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="centaurs lining up to order sandwiches in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="unicorns lining up to order sandwiches in New York" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="centaurs lining up to order sandwiches in Paris" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="unicorns lining up to order sandwiches in Phuket" | seed=1234 | cfg=13
+ts=19:16:49 | fn=TTI | prompt="griffins lining up to order sandwiches in Hawaii" | seed=1234 | cfg=13
+ts=19:16:54 | fn=TTI | prompt="unicorns lining up to order sandwiches in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:16:54 | fn=TTI | prompt="centaurs lining up to order sandwiches in Hawaii" | seed=1234 | cfg=13
+ts=19:16:54 | fn=TTI | prompt="mermaids lining up to order sandwiches in New York" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="mermaids lining up to order sandwiches in Rome" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="unicorns lining up to order sandwiches in Tokyo" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="unicorns lining up to order sandwiches in Rome" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="mermaids lining up to order sandwiches in Bali" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="griffins lining up to order sandwiches in Bali" | seed=1234 | cfg=13
+ts=19:16:55 | fn=TTI | prompt="mermaids lining up to order sandwiches in Rio de Janeiro" | seed=1234 | cfg=13
+ts=19:16:56 | fn=TTI | prompt="mermaids lining up to order sandwiches in Phuket" | seed=1234 | cfg=13
+ts=19:16:59 | fn=TTI | prompt="mermaids lining up to order sandwiches in Tokyo" | seed=1234 | cfg=13
+ts=19:16:59 | fn=TTI | prompt="centaurs lining up to order sandwiches in New York" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="centaurs lining up to order sandwiches in Tokyo" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="mermaids lining up to order sandwiches in Paris" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="unicorns lining up to order sandwiches in Paris" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="mermaids lining up to order sandwiches in Hawaii" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="centaurs lining up to order sandwiches in Phuket" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="unicorns lining up to order sandwiches in Hawaii" | seed=1234 | cfg=13
+ts=19:17:00 | fn=TTI | prompt="griffins lining up to order sandwiches in New York" | seed=1234 | cfg=13
+ts=19:17:02 | fn=TTI | prompt="griffins lining up to order sandwiches in Tokyo" | seed=1234 | cfg=13
+ts=19:17:04 | fn=TTI | prompt="centaurs lining up to order sandwiches in Bali" | seed=1234 | cfg=13
+ts=19:17:04 | fn=TTI | prompt="griffins lining up to order sandwiches in Rome" | seed=1234 | cfg=13
+ts=19:17:34 | fn=EMBELLISH | prompt="Embellish this sentence: dogs on a mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:36 | fn=TTI | prompt="
+
+Dogs bounding joyfully across a majestic mountain, their fur glinting in the sunlight." | seed=1234 | cfg=13
+ts=19:17:41 | fn=EMBELLISH | prompt="Embellish this sentence: dogs on a desert" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:41 | fn=EMBELLISH | prompt="Embellish this sentence: dogs on a ocean" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:41 | fn=EMBELLISH | prompt="Embellish this sentence: dogs on a river" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:41 | fn=EMBELLISH | prompt="Embellish this sentence: dogs on a valley" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:43 | fn=TTI | prompt="
+
+Dogs frolicking in a lush, green valley, their tails wagging joyfully in the sunshine." | seed=1234 | cfg=13
+ts=19:17:43 | fn=TTI | prompt="
+
+Dogs on a glistening ocean, their tails wagging in the salty breeze." | seed=1234 | cfg=13
+ts=19:17:43 | fn=TTI | prompt="bank
+
+The sun glinted off the river, creating a sparkle that seemed to dance across the rippling water, as the dogs on the riverbank joyfully played." | seed=1234 | cfg=13
+ts=19:17:43 | fn=TTI | prompt=" island
+
+Dogs on a desert island, stranded in a seemingly-endless expanse of sand and sea, barked forlornly in search of companionship." | seed=1234 | cfg=13
+ts=19:17:49 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=19:17:49 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=19:17:49 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=19:17:49 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=19:17:49 | fn=TTI | prompt="dogs on a river" | seed=1234 | cfg=13
+ts=19:17:52 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:53 | fn=TTI | prompt="
+
+Embellished: On a sunny day in Hawaii, a line of majestic dragons could be seen queuing up to purchase delicious sandwiches from the local sandwich shop." | seed=1234 | cfg=13
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Phuket" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Bali" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Rome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Rio de Janeiro" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Tokyo" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:17:59 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in New York" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:01 | fn=TTI | prompt="
+
+The majestic sight of dragons lining up to order sandwiches in the bustling streets of Phuket was a sight to behold." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+The air was filled with the sound of excited chatter as the majestic dragons lined up to order delicious sandwiches in the vibrant city of Rio de Janeiro." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+Dragons, with their scaly hides glinting in the sun, lined up to order sandwiches in the bustling streets of New York City." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+Dragons, in their scaly glory, lined up to order sandwiches in the bustling streets of Tokyo, their claws clacking against the pavement as they made their way to the sandwich shop." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+The ancient streets of Rome were filled with the awe-inspiring sight of dragons lining up to order sandwiches from the local vendors." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+Dragons, with their shimmering scales and fiery breath, lined up to order exotic sandwiches in the tropical paradise of Bali." | seed=1234 | cfg=13
+ts=19:18:01 | fn=TTI | prompt="
+
+The fantastical sight of dragons lining up to order sandwiches in Paris was a truly magical experience." | seed=1234 | cfg=13
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in New York" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Rio de Janeiro" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in New York" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Rome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:06 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Tokyo" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:07 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Phuket" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:07 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Phuket" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:07 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in New York" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Tokyo" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Tokyo" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Rio de Janeiro" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Bali" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:08 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Rome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Rome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Rome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Bali" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Phuket" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:09 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Bali" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: centaurs lining up to order sandwiches in Phuket" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Bali" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in New York" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Rio de Janeiro" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Tokyo" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:10 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:11 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Rio de Janeiro" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:18:12 | fn=TTI | prompt="
+
+Rainbow-hued unicorns lined up in the streets of Phuket, eagerly awaiting their custom-made sandwiches made with the freshest ingredients." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+The sight of griffins lining up to order sandwiches in the bustling streets of Tokyo was truly a magical one." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+The sun sparkled off the glistening scales of the mermaids as they lined up to order delicious sandwiches in the vibrant city of Rio de Janeiro." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+The whimsical sight of unicorns lining up to order sandwiches in the bustling streets of New York was a magical sight to behold." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+The majestic griffins lined up in the streets of Paris, their eyes gleaming with anticipation as they waited to order their favorite sandwiches." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+The fantastical sight of unicorns lining up to order sandwiches in the ancient city of Rome was a truly magical experience." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+Centaurs, their majestic manes flowing in the Parisian breeze, lined up to order sandwiches from a quaint cafe tucked away in a cobblestoned alley." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+Embellished, the sentence reads: In a fantastical scene, mermaids lined up to order sandwiches in the bustling city of Tokyo, their shimmering tails swaying in time with the rhythm of the city." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+Mesmerized by the hustle and bustle of the city, a bevy of beautiful mermaids lined up to order sandwiches in New York." | seed=1234 | cfg=13
+ts=19:18:12 | fn=TTI | prompt="
+
+Enchanting mermaids were gracefully lining up to order delicious sandwiches at a beachside cafe in beautiful Bali." | seed=1234 | cfg=13
+ts=19:18:17 | fn=TTI | prompt="
+
+Unicorns, with their glittering horns and pastel-colored manes, lined up to order exotic sandwiches in the vibrant streets of Bali." | seed=1234 | cfg=13
+ts=19:18:17 | fn=TTI | prompt="
+
+Enchanting unicorns lining up to order delectable sandwiches in the romantic city of Paris is a sight to behold." | seed=1234 | cfg=13
+ts=19:18:17 | fn=TTI | prompt="
+
+The majestic griffins lined up in the bustling streets of New York, ready to order their favorite sandwiches." | seed=1234 | cfg=13
+ts=19:18:17 | fn=TTI | prompt="
+
+Griffins, with their majestic wings spread wide, lined up to order delicious tropical sandwiches in Hawaii's balmy air." | seed=1234 | cfg=13
+ts=19:18:17 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order colorful, tropical sandwiches in Hawaii was truly breathtaking." | seed=1234 | cfg=13
+ts=19:18:18 | fn=TTI | prompt="
+
+The majestic sight of centaurs lining up to order sandwiches in the sun-drenched streets of Rome was truly awe-inspiring." | seed=1234 | cfg=13
+ts=19:18:18 | fn=TTI | prompt="
+
+Mesmerized by the glimmer of the sun on the ocean, a line of enchanting mermaids gathered in Hawaii to order their favorite sandwiches." | seed=1234 | cfg=13
+ts=19:18:18 | fn=TTI | prompt="
+
+The mythical mermaids, with their shimmering tails glistening in the sun, lined up to order their favorite sandwiches in the bustling streets of Phuket." | seed=1234 | cfg=13
+ts=19:18:18 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order sandwiches in the vibrant city of Rio de Janeiro was enough to take anyone's breath away." | seed=1234 | cfg=13
+ts=19:18:19 | fn=TTI | prompt="
+
+The fantastical scene of centaurs lining up to order sandwiches in the bustling streets of Tokyo was a sight to behold." | seed=1234 | cfg=13
+ts=19:18:22 | fn=TTI | prompt="
+
+The fantastical sight of centaurs lining up to order sandwiches in Rio de Janeiro was a sight unlike any other." | seed=1234 | cfg=13
+ts=19:18:22 | fn=TTI | prompt="
+
+The colorful griffins of Rio de Janeiro were seen eagerly lining up to order their favorite sandwiches from the local vendors." | seed=1234 | cfg=13
+ts=19:18:22 | fn=TTI | prompt="
+
+The majestic griffins lined up in an orderly fashion outside a quaint cafe in Rome, eagerly awaiting their freshly-made sandwiches." | seed=1234 | cfg=13
+ts=19:18:22 | fn=TTI | prompt="
+
+Mesmerized by the beauty of the Seine, mermaids lined up in Paris to order delicious sandwiches, their tails shimmering in the glimmer of the Eiffel Tower." | seed=1234 | cfg=13
+ts=19:18:22 | fn=TTI | prompt="
+
+The surreal sight of centaurs lining up to order sandwiches in the bustling streets of Phuket was a sight to behold!" | seed=1234 | cfg=13
+ts=19:18:23 | fn=TTI | prompt="
+
+The majestic griffins were seen lining up to order delicious sandwiches at a quaint cafe in the bustling city of Phuket." | seed=1234 | cfg=13
+ts=19:18:25 | fn=TTI | prompt="
+
+The majestic griffins gracefully lined up to order their favorite sandwiches in the exotic streets of Bali." | seed=1234 | cfg=13
+ts=19:18:25 | fn=TTI | prompt="
+
+A magical scene unfolded in Tokyo as glittering unicorns lined up to order their favorite sandwiches from the local cafe." | seed=1234 | cfg=13
+ts=19:18:25 | fn=TTI | prompt="
+
+The sun glinted off the scales of the mermaids as they lined up to order their favorite sandwiches in the bustling streets of Rome." | seed=1234 | cfg=13
+ts=19:18:26 | fn=TTI | prompt="
+
+The sight of centaurs lining up to order sandwiches in the bustling streets of New York was an enchanting sight to behold." | seed=1234 | cfg=13
+ts=19:18:28 | fn=TTI | prompt="
+
+The magical sight of centaurs lining up to order sandwiches in the balmy streets of Bali was a sight to behold." | seed=1234 | cfg=13
+ts=19:18:28 | fn=TTI | prompt="
+
+The fantastical scene of centaurs lining up to order sandwiches in Hawaii was something truly magical to behold." | seed=1234 | cfg=13
+ts=19:30:05 | fn=GPT_LIST | prompt="Species of dinosaurs" | length=3
+ts=19:30:54 | fn=GPT_LIST | prompt="Species of dinosaurs" | length=3
+ts=19:31:43 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=5
+ts=19:31:55 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=3
+ts=19:32:30 | fn=EMBELLISH | prompt="Embellish this sentence: Hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:32:33 | fn=EMBELLISH | prompt="Embellish this sentence: Rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:32:33 | fn=EMBELLISH | prompt="Embellish this sentence: Humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:33:08 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=5
+ts=19:33:17 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=19:37:36 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:38:15 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest" | length=3
+ts=19:39:31 | fn=GPT_LIST | prompt="Species of dinosaurs plural" | length=3
+ts=19:39:44 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest plural" | length=3
+ts=19:40:00 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:40:05 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:40:05 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:42:29 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:35 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:42:40 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=58437543 | cfg=13
+ts=19:42:40 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=58437543 | cfg=13
+ts=19:42:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:42:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=567372 | cfg=13
+ts=19:42:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=567372 | cfg=13
+ts=19:42:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=19:43:58 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:44:26 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:45:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=19:45:59 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=21:18:45 | fn=GPT_LIST | prompt="types of animals" | length=3
+ts=21:18:45 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=20
+ts=21:18:45 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=21:18:45 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:45 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:45 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=35
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=5
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=1
+ts=21:18:46 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=4444 | cfg=35
+ts=21:18:46 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=5555 | cfg=35
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=21:18:46 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=5
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=58437543 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=5555 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=21:18:47 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=3333 | cfg=35
+ts=21:18:47 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=2222 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=35
+ts=21:18:47 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:48 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=1
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=1
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=5
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=20
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=5
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=4444 | cfg=35
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=5555 | cfg=35
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=21
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:49 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=17
+ts=21:18:50 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[#ERROR!,,]"" | length=5
+ts=21:18:50 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=21
+ts=21:18:50 | fn=SYNONYMS | prompt="synonyms of "happy"" | length=5
+ts=21:18:50 | fn=GPT_LIST | prompt="Popular vacation destinations" | length=8
+ts=21:18:50 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=17
+ts=21:18:51 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1234 | cfg=35
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=21
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=17
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=1
+ts=21:18:51 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:51 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=3
+ts=21:18:51 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:51 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=20
+ts=21:18:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1234 | cfg=35
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=17
+ts=21:18:52 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=21:18:52 | fn=ANTONYMS | prompt="antonyms of "happy"" | length=5
+ts=21:18:52 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=2222 | cfg=35
+ts=21:18:52 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=21:18:52 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=3333 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=21:18:52 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:52 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1111 | cfg=35
+ts=21:18:52 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:52 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1111 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1111 | cfg=35
+ts=21:18:52 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest plural" | length=3
+ts=21:18:53 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=20
+ts=21:18:53 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=21:18:53 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=1234 | cfg=13
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=3333 | cfg=35
+ts=21:18:53 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=2222 | cfg=35
+ts=21:18:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=5
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=9
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=58437543 | cfg=13
+ts=21:18:54 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=20
+ts=21:18:54 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:55 | fn=ALTERNATIVES | prompt="alternative ways to say "dog running on a hill"" | length=5
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=1
+ts=21:18:55 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:55 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=20
+ts=21:18:55 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:55 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=9
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=17
+ts=21:18:55 | fn=EMBELLISH | prompt="Embellish this sentence: dog running on a hill" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1234 | cfg=35
+ts=21:18:56 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=21:18:56 | fn=GPT_LIST | prompt="Species of dinosaurs plural" | length=3
+ts=21:18:56 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=567372 | cfg=13
+ts=21:18:56 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=21
+ts=21:18:57 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=9
+ts=21:18:57 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=567372 | cfg=13
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=5
+ts=21:18:57 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=35
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=21
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=9
+ts=21:18:58 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=4444 | cfg=35
+ts=21:18:58 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:58 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=1
+ts=21:18:58 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=9
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=21:18:59 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=21:18:59 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence: rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="frogs on a plain" | seed=1234 | cfg=13
+ts=21:19:00 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[lion,tiger,bear]"" | length=5
+ts=21:19:00 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="deer on a plain" | seed=1234 | cfg=13
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=TTI | prompt="horses on a plain" | seed=1234 | cfg=13
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=21:19:02 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=567372 | cfg=13
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=TTI | prompt="cats on a plain" | seed=1234 | cfg=13
+ts=21:19:02 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence: humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=567372 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=TTI | prompt="dogs on a plain" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=58437543 | cfg=13
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=21:19:04 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=21:19:06 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence: hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=58437543 | cfg=13
+ts=21:19:07 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:08 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=21:19:08 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=1234 | cfg=13
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=58437543 | cfg=13
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=58437543 | cfg=13
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:13 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:13 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=567372 | cfg=13
+ts=21:19:13 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=1234 | cfg=13
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=567372 | cfg=13
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=567372 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Enchanting phoenixes were lining up to order delicious sandwiches in sunny California." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The crystal-clear waters of the Bahamas were abuzz with excitement as the mermaids lined up to order their favorite sandwiches from the beachside café." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The sight of dragons queuing up to purchase succulent sandwiches in the bustling streets of Thailand was a magical one." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Enchanting dragons lined up to order delicious sandwiches in the sunshine of California." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Dragons, with their shimmering scales and majestic wings, lined up to order sandwiches in the sunny state of Florida." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The sun shone brightly on the griffins as they lined up to order their favorite sandwiches in the bustling streets of Jamaica." | seed=1234 | cfg=13
+ts=21:19:19 | fn=TTI | prompt="
+
+The sun-kissed sky was alive with a kaleidoscope of colors as the majestic phoenixes lined up to order their favorite sandwiches in the vibrant streets of Mexico." | seed=1234 | cfg=13
+ts=21:19:19 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order sandwiches in the streets of Paris was truly enchanting." | seed=1234 | cfg=13
+ts=21:19:21 | fn=TTI | prompt="
+
+The sun shone brightly as the majestic unicorns lined up to order their favorite sandwiches in the bustling streets of California." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+Dragons, with their vibrant scales shimmering in the Mexican sun, lined up to order tantalizing sandwiches at the local café." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+The sun glinted off the majestic wings of the griffins as they lined up to order their favorite sandwiches in the tropical paradise of Hawaii." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order their favorite sandwiches in the sunny streets of Jamaica was truly breathtaking." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+Enchanting phoenixes, their feathers glimmering in the sun, lined up to order delicious sandwiches in the beautiful Bahamas." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+On a sunny day in Florida, the sapphire-blue waters glittered as the mermaids lined up to order their favorite sandwiches from the beachside cafe." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+A kaleidoscope of vibrant phoenixes were joyfully lining up to order their favorite sandwiches in Jamaica, each one more delicious than the last." | seed=1234 | cfg=13
+ts=21:19:24 | fn=TTI | prompt="
+
+The sight of majestic phoenixes lining up to order sandwiches in the bustling streets of Paris was truly a magical one." | seed=1234 | cfg=13
+ts=21:19:25 | fn=TTI | prompt="
+
+The enchanting sight of mermaids queuing up to purchase sandwiches in the romantic city of Paris was truly a magical experience." | seed=1234 | cfg=13
+ts=21:19:26 | fn=TTI | prompt="
+
+The brilliant phoenixes lined up in the Florida sunshine to order their favorite sandwiches." | seed=1234 | cfg=13
+ts=21:19:27 | fn=TTI | prompt="
+
+Mesmerized by the sight, the beachgoers watched in awe as the shimmering mermaids lined up to order their beloved sandwiches in sunny California." | seed=1234 | cfg=13
+ts=21:19:27 | fn=TTI | prompt="
+
+Mesmerizing mermaids, glistening in the Hawaiian sun, lined up to order their favorite sandwiches at the beach shack." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+The sun glinting off the scales of the mermaids as they queued up to order sandwiches in Mexico was a sight to behold." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+In a magical scene, a line of majestic unicorns could be seen queuing up for sandwiches in the Florida sunshine." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+The sun glinted off the majestic phoenixes as they lined up to order their tropical sandwiches in the balmy Hawaiian air." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+Enchanting mermaids were seen lining up to order delicious Jamaican sandwiches along the sun-kissed beaches of Jamaica." | seed=1234 | cfg=13
+ts=21:19:29 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=58437543 | cfg=13
+ts=21:19:29 | fn=TTI | prompt="
+
+A magical scene unfolded in the Bahamas, with unicorns lining up to order sandwiches from the local café, their colorful manes shimmering in the sunlight." | seed=1234 | cfg=13
+ts=21:19:30 | fn=TTI | prompt="
+
+Dragons, with their scaly hides glistening in the Bahamian sun, lined up to order delicious sandwiches at the local cafe." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+Enchanting dragons lining up to order colorful Hawaiian sandwiches in the warm, sunny paradise of Hawaii was a truly magical sight." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The majestic sight of griffins lining up to order sandwiches in Mexico was truly a sight to behold." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The sight of griffins lining up to order sandwiches in sunny California was truly a magical one." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The fantastical sight of mermaids lining up to order exotic sandwiches in the bustling streets of Thailand was a sight to behold." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The majestic griffins were seen lining up to order their favorite sandwiches in the charming streets of Paris." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The sight of dragons lining up to order sandwiches in Paris was truly a magical one, with the colorful scales of the dragons glistening in the afternoon sun." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The majestic griffins lined up in the Bahamas, their wings shimmering in the bright sunlight, as they eagerly awaited their orders of succulent sandwiches." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+It was a surreal sight to behold - unicorns lining up to order sandwiches in Hawaii, their colorful manes blowing in the balmy ocean breeze." | seed=1234 | cfg=13
+ts=21:19:35 | fn=TTI | prompt="
+
+It was a magical sight to behold - rainbow-maned unicorns lining up to order delicious Thai sandwiches in the bustling streets of Bangkok." | seed=1234 | cfg=13
+ts=21:19:35 | fn=TTI | prompt="
+
+The majestic griffins lined up to order exotic sandwiches in the bustling streets of Thailand." | seed=1234 | cfg=13
+ts=21:19:36 | fn=TTI | prompt="
+
+The fantastical sight of unicorns lining up to order colorful sandwiches in Mexico was truly a sight to behold!" | seed=1234 | cfg=13
+ts=21:19:36 | fn=TTI | prompt="
+
+The sun was shining brightly on the griffins lining up to order sandwiches in Florida, their multicolored feathers shimmering in the light." | seed=1234 | cfg=13
+ts=21:19:37 | fn=TTI | prompt="
+
+Embellished, the sentence reads: On a sunny day in Jamaica, it was a sight to behold as the majestic dragons lined up to order their favorite sandwiches from the local shop." | seed=1234 | cfg=13
+ts=21:19:37 | fn=TTI | prompt="
+
+Hundreds of majestic phoenixes, their feathers glimmering in the Thai sun, lined up to order delicious sandwiches at the local market." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=58437543 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=567372 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=567372 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=58437543 | cfg=13
