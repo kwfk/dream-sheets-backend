@@ -1,0 +1,1272 @@
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=1
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=9
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=13
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=5
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=5
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=17
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=17
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=13
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=17
+ts=18:15:31 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=13
+ts=18:15:36 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=17
+ts=18:15:36 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=1
+ts=18:15:36 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=13
+ts=18:15:36 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=1
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=21
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=5
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=21
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=21
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=21
+ts=18:15:37 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=5
+ts=18:15:40 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=17
+ts=18:15:41 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=9
+ts=18:15:41 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=21
+ts=18:15:41 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=5
+ts=18:15:42 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=1
+ts=18:15:42 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=5
+ts=18:15:42 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=9
+ts=18:15:42 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=13
+ts=18:15:42 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=13
+ts=18:15:43 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=9
+ts=18:15:48 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=17
+ts=18:15:48 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=1
+ts=18:15:48 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=13
+ts=18:15:48 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=9
+ts=18:15:49 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=21
+ts=18:15:49 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=1
+ts=18:15:49 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=9
+ts=18:15:51 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=3333 | cfg=35
+ts=18:15:51 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=2222 | cfg=35
+ts=18:15:51 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=4444 | cfg=35
+ts=18:15:53 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=5555 | cfg=35
+ts=18:15:53 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1111 | cfg=35
+ts=18:15:53 | fn=TTI | prompt="dog running on a hill unreal engine" | seed=1234 | cfg=35
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=9
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=5
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=35
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=9
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=5
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=35
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=13
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=21
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=35
+ts=18:16:20 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=13
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=13
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=1
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=5
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=17
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=13
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=17
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=9
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=1
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=21
+ts=18:16:25 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=35
+ts=18:16:31 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=5
+ts=18:16:32 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=17
+ts=18:16:32 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=21
+ts=18:16:33 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=1
+ts=18:16:33 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=17
+ts=18:16:33 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=21
+ts=18:16:33 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=21
+ts=18:16:33 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=35
+ts=18:16:34 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=9
+ts=18:16:34 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=13
+ts=18:16:40 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=1
+ts=18:16:40 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=5
+ts=18:16:40 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=17
+ts=18:16:42 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=5
+ts=18:16:43 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=21
+ts=18:16:43 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=1
+ts=18:16:44 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=9
+ts=18:16:44 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=9
+ts=18:16:44 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=13
+ts=18:16:45 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=1
+ts=18:16:46 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=13
+ts=18:16:48 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=17
+ts=18:16:48 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=35
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=3333 | cfg=1
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1111 | cfg=1
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=4444 | cfg=1
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=5555 | cfg=1
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=1234 | cfg=1
+ts=18:17:28 | fn=TTI | prompt="dog running on a hill photorealistic" | seed=2222 | cfg=1
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=5
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=21
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=17
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=21
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=13
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=21
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=17
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=9
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=13
+ts=18:17:51 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=5
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=35
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=21
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=9
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=21
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=1
+ts=18:17:56 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=35
+ts=18:17:57 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=35
+ts=18:17:57 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=35
+ts=18:17:57 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=9
+ts=18:17:57 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=13
+ts=18:18:01 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=9
+ts=18:18:01 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=17
+ts=18:18:01 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=1
+ts=18:18:01 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=1
+ts=18:18:02 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=5
+ts=18:18:02 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=5
+ts=18:18:03 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=35
+ts=18:18:03 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=13
+ts=18:18:03 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=9
+ts=18:18:03 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=17
+ts=18:18:06 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=13
+ts=18:18:07 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=9
+ts=18:18:07 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=35
+ts=18:18:08 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=13
+ts=18:18:08 | fn=TTI | prompt="bender from futurama" | seed=2222 | cfg=21
+ts=18:18:08 | fn=TTI | prompt="bender from futurama" | seed=4444 | cfg=13
+ts=18:18:08 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=17
+ts=18:18:09 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=1
+ts=18:18:09 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=5
+ts=18:18:10 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=1
+ts=18:18:13 | fn=TTI | prompt="bender from futurama" | seed=5555 | cfg=1
+ts=18:18:14 | fn=TTI | prompt="bender from futurama" | seed=1111 | cfg=17
+ts=18:18:14 | fn=TTI | prompt="bender from futurama" | seed=3333 | cfg=5
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=13
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=21
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=21
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=17
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=5
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=21
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=1
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=9
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=17
+ts=18:19:17 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=35
+ts=18:19:23 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=1
+ts=18:19:23 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=35
+ts=18:19:23 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=9
+ts=18:19:25 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=9
+ts=18:19:25 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=35
+ts=18:19:25 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=13
+ts=18:19:25 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=17
+ts=18:19:26 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=13
+ts=18:19:26 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=1
+ts=18:19:27 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=5
+ts=18:19:27 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=5
+ts=18:19:28 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=13
+ts=18:19:29 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=17
+ts=18:19:31 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=5
+ts=18:19:31 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=21
+ts=18:19:31 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=35
+ts=18:19:32 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=13
+ts=18:19:32 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=5
+ts=18:19:33 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=1
+ts=18:19:33 | fn=TTI | prompt="triforce made from △" | seed=2222 | cfg=35
+ts=18:19:35 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=1
+ts=18:19:37 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=9
+ts=18:19:39 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=1
+ts=18:19:40 | fn=TTI | prompt="triforce made from △" | seed=4444 | cfg=17
+ts=18:19:40 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=13
+ts=18:19:40 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=9
+ts=18:19:40 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=21
+ts=18:19:41 | fn=TTI | prompt="triforce made from △" | seed=1111 | cfg=35
+ts=18:19:41 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=17
+ts=18:19:42 | fn=TTI | prompt="triforce made from △" | seed=5555 | cfg=21
+ts=18:19:44 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=9
+ts=18:19:45 | fn=TTI | prompt="triforce made from △" | seed=1234 | cfg=13
+ts=18:19:45 | fn=TTI | prompt="triforce made from △" | seed=3333 | cfg=5
+ts=18:19:46 | fn=TTI | prompt="bender from futurama" | seed=1234 | cfg=9
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=4444 | cfg=9
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=3333 | cfg=9
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=1111 | cfg=17
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=3333 | cfg=1
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=3333 | cfg=17
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=2222 | cfg=9
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=2222 | cfg=5
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=5555 | cfg=17
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=1234 | cfg=17
+ts=18:20:06 | fn=TTI | prompt="\"" | seed=4444 | cfg=35
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=3333 | cfg=35
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=1111 | cfg=21
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=1234 | cfg=13
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=2222 | cfg=1
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=1111 | cfg=13
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=5555 | cfg=9
+ts=18:20:11 | fn=TTI | prompt="\"" | seed=1111 | cfg=35
+ts=18:20:12 | fn=TTI | prompt="\"" | seed=3333 | cfg=13
+ts=18:20:12 | fn=TTI | prompt="\"" | seed=5555 | cfg=13
+ts=18:20:12 | fn=TTI | prompt="\"" | seed=1234 | cfg=5
+ts=18:20:17 | fn=TTI | prompt="\"" | seed=1234 | cfg=13
+ts=18:20:17 | fn=TTI | prompt="\"" | seed=3333 | cfg=5
+ts=18:20:18 | fn=TTI | prompt="\"" | seed=5555 | cfg=5
+ts=18:20:18 | fn=TTI | prompt="\"" | seed=4444 | cfg=13
+ts=18:20:18 | fn=TTI | prompt="\"" | seed=2222 | cfg=35
+ts=18:20:18 | fn=TTI | prompt="\"" | seed=4444 | cfg=5
+ts=18:20:18 | fn=TTI | prompt="\"" | seed=1234 | cfg=1
+ts=18:20:19 | fn=TTI | prompt="\"" | seed=1234 | cfg=21
+ts=18:20:19 | fn=TTI | prompt="\"" | seed=1111 | cfg=1
+ts=18:20:19 | fn=TTI | prompt="\"" | seed=4444 | cfg=1
+ts=18:20:22 | fn=TTI | prompt="\"" | seed=2222 | cfg=13
+ts=18:20:23 | fn=TTI | prompt="\"" | seed=3333 | cfg=21
+ts=18:20:23 | fn=TTI | prompt="\"" | seed=4444 | cfg=21
+ts=18:20:24 | fn=TTI | prompt="\"" | seed=1234 | cfg=35
+ts=18:20:24 | fn=TTI | prompt="\"" | seed=4444 | cfg=17
+ts=18:20:25 | fn=TTI | prompt="\"" | seed=1111 | cfg=5
+ts=18:20:26 | fn=TTI | prompt="\"" | seed=1111 | cfg=9
+ts=18:20:26 | fn=TTI | prompt="\"" | seed=5555 | cfg=21
+ts=18:20:26 | fn=TTI | prompt="\"" | seed=2222 | cfg=17
+ts=18:20:27 | fn=TTI | prompt="\"" | seed=5555 | cfg=1
+ts=18:20:28 | fn=TTI | prompt="\"" | seed=1234 | cfg=9
+ts=18:20:28 | fn=TTI | prompt="\"" | seed=5555 | cfg=35
+ts=18:20:29 | fn=TTI | prompt="\"" | seed=2222 | cfg=21
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=1
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=13
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=13
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=35
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=17
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=35
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=9
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=9
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=13
+ts=18:21:37 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=35
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=21
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=35
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=9
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=9
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=17
+ts=18:21:41 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=17
+ts=18:21:42 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=5
+ts=18:21:42 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=9
+ts=18:21:42 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=35
+ts=18:21:42 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=5
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=13
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=35
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=1
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=1111 | cfg=21
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=1
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=1
+ts=18:21:46 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=17
+ts=18:21:47 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=21
+ts=18:21:48 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=21
+ts=18:21:48 | fn=TTI | prompt="狗在奔跑" | seed=1234 | cfg=5
+ts=18:21:51 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=5
+ts=18:21:51 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=17
+ts=18:21:51 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=9
+ts=18:21:51 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=17
+ts=18:21:52 | fn=TTI | prompt="狗在奔跑" | seed=5555 | cfg=1
+ts=18:21:52 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=13
+ts=18:21:53 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=1
+ts=18:21:53 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=5
+ts=18:21:53 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=5
+ts=18:21:53 | fn=TTI | prompt="狗在奔跑" | seed=2222 | cfg=21
+ts=18:21:56 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=13
+ts=18:21:56 | fn=TTI | prompt="狗在奔跑" | seed=3333 | cfg=13
+ts=18:21:56 | fn=TTI | prompt="狗在奔跑" | seed=4444 | cfg=21
+ts=18:26:12 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:12 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:13 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:31 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=18:26:32 | fn=TTI | prompt="frogs on a island" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="cats on a island" | seed=1234 | cfg=13
+ts=18:26:32 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="horses on a island" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="deer on a island" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="dogs on a island" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=18:26:33 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=18:26:45 | fn=EMBELLISH | prompt="Embellish this sentence: mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:26:45 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:45 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:26:46 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:26:46 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:26:46 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:26:46 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:26:47 | fn=TTI | prompt="frogs on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience!" | seed=1234 | cfg=13
+ts=18:26:47 | fn=TTI | prompt="dogs on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience!" | seed=1234 | cfg=13
+ts=18:26:47 | fn=TTI | prompt="cats on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience!" | seed=1234 | cfg=13
+ts=18:26:47 | fn=TTI | prompt="deer on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience!" | seed=1234 | cfg=13
+ts=18:26:47 | fn=TTI | prompt="horses on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience!" | seed=1234 | cfg=13
+ts=18:26:52 | fn=EMBELLISH | prompt="Embellish this sentence: mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:26:52 | fn=EMBELLISH | prompt="Embellish this sentence: mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:26:53 | fn=EMBELLISH | prompt="Embellish this sentence: mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:26:55 | fn=TTI | prompt="deer on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="dogs on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience that can provide breathtaking views and a sense of accomplishment." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="cats on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience that can provide breathtaking views and a sense of accomplishment." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="horses on a  climbing
+
+Mountain climbing is an exhilarating experience that tests one's physical and mental strength." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="frogs on a  climbing
+
+Mountain climbing is an exhilarating experience that tests one's physical and mental strength." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="cats on a  climbing
+
+Mountain climbing is an exhilarating experience that tests one's physical and mental strength." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="cats on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="frogs on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience that can provide breathtaking views and a sense of accomplishment." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="deer on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience that can provide breathtaking views and a sense of accomplishment." | seed=1234 | cfg=13
+ts=18:26:55 | fn=TTI | prompt="dogs on a  climbing
+
+Mountain climbing is an exhilarating experience that tests one's physical and mental strength." | seed=1234 | cfg=13
+ts=18:26:59 | fn=TTI | prompt="dogs on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:27:00 | fn=TTI | prompt="horses on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:27:00 | fn=TTI | prompt="deer on a  climbing
+
+Mountain climbing is an exhilarating experience that tests one's physical and mental strength." | seed=1234 | cfg=13
+ts=18:27:00 | fn=TTI | prompt="horses on a  climbing
+
+Mountain climbing is an exhilarating and rewarding experience that can provide breathtaking views and a sense of accomplishment." | seed=1234 | cfg=13
+ts=18:27:00 | fn=TTI | prompt="frogs on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:12 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:13 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:14 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=18:28:15 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="horses on a canyon" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="frogs on a canyon" | seed=1234 | cfg=13
+ts=18:28:15 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="cats on a canyon" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="dogs on a canyon" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="deer on a canyon" | seed=1234 | cfg=13
+ts=18:28:16 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=18:28:18 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=18:28:34 | fn=DIVERGENTS | prompt="divergent words to "#ERROR!"" | length=4
+ts=18:28:34 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:34 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:34 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:34 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:28:35 | fn=EMBELLISH | prompt="Embellish this sentence: mountain" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:28:35 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:36 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:37 | fn=TTI | prompt="dogs on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:37 | fn=TTI | prompt="horses on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:37 | fn=DIVERGENTS | prompt="divergent words to " biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!"" | length=4
+ts=18:28:37 | fn=TTI | prompt="cats on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:37 | fn=TTI | prompt="deer on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:37 | fn=TTI | prompt="frogs on a  biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!" | seed=1234 | cfg=13
+ts=18:28:58 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:28:58 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:28:58 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:28:58 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:28:59 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:29:00 | fn=DIVERGENTS | prompt="divergent words to " biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!"" | length=4
+ts=18:29:09 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:29:09 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:29:09 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:29:09 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:29:09 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:29:10 | fn=DIVERGENTS | prompt="divergent words to " biking
+
+Mountain biking is an exhilarating way to explore the great outdoors!"" | length=4
+ts=18:29:14 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=18:29:15 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=18:29:15 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=18:29:15 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=18:29:15 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=18:29:15 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="deer on a forest" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="horses on a forest" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="dogs on a forest" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=18:29:16 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="cats on a forest" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="frogs on a forest" | seed=1234 | cfg=13
+ts=18:29:17 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=18:30:00 | fn=DIVERGENTS | prompt="divergent words to "test"" | length=4
+ts=18:30:00 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="deer on a test" | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="frogs on a test" | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:00 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="cats on a test" | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="dogs on a test" | seed=1234 | cfg=13
+ts=18:30:01 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:02 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:02 | fn=TTI | prompt="horses on a test" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="frogs on a probe" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="cats on a quiz" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="frogs on a exam" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="cats on a exam" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="cats on a trial" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="dogs on a quiz" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="cats on a probe" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="deer on a exam" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="dogs on a probe" | seed=1234 | cfg=13
+ts=18:30:07 | fn=TTI | prompt="dogs on a exam" | seed=1234 | cfg=13
+ts=18:30:11 | fn=TTI | prompt="deer on a probe" | seed=1234 | cfg=13
+ts=18:30:11 | fn=TTI | prompt="dogs on a trial" | seed=1234 | cfg=13
+ts=18:30:11 | fn=TTI | prompt="horses on a trial" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="horses on a exam" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="deer on a trial" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="horses on a quiz" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="frogs on a quiz" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="deer on a quiz" | seed=1234 | cfg=13
+ts=18:30:12 | fn=TTI | prompt="horses on a probe" | seed=1234 | cfg=13
+ts=18:30:13 | fn=TTI | prompt="frogs on a trial" | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=18:30:17 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=18:30:17 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=18:30:17 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="frogs on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="horses on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="dogs on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="cats on a " | seed=1234 | cfg=13
+ts=18:30:18 | fn=TTI | prompt="deer on a " | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="frogs on a river" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="dogs on a forest" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="deer on a forest" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="cats on a forest" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="horses on a river" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="horses on a forest" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="deer on a river" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="frogs on a forest" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=18:30:19 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=18:30:20 | fn=TTI | prompt="dogs on a river" | seed=1234 | cfg=13
+ts=18:30:20 | fn=TTI | prompt="cats on a river" | seed=1234 | cfg=13
+ts=18:33:50 | fn=EMBELLISH | prompt="Embellish this sentence: Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:33:55 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:33:55 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:34:04 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=13
+ts=18:34:09 | fn=TTI | prompt="
+
+The victory was celebrated with great fanfare after the enemy was conquered." | seed=1234 | cfg=13
+ts=18:34:09 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:34:50 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=1
+ts=18:34:59 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:34:59 | fn=TTI | prompt="
+
+The victory was celebrated with great fanfare after the enemy was conquered." | seed=1234 | cfg=13
+ts=18:35:15 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy alients" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:35:17 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, filled with music, dancing, and fireworks that lit up the night sky." | seed=1234 | cfg=13
+ts=18:35:23 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:35:25 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=13
+ts=18:35:43 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=1
+ts=18:35:43 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=1
+ts=18:36:00 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=1
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=21
+ts=18:36:08 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=5
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=5
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=13
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=17
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=21
+ts=18:36:08 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=35
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=35
+ts=18:36:12 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=17
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=5
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=21
+ts=18:36:13 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=35
+ts=18:36:13 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=17
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=13
+ts=18:37:24 | fn=EMBELLISH | prompt="Embellish this sentence: Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:25 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:25 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=17
+ts=18:37:27 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=13
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=5
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=9
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=21
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=13
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=9
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=35
+ts=18:37:27 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=21
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=35
+ts=18:37:31 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=21
+ts=18:37:31 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=5
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=13
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=5
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=17
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=1
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=17
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=35
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=1
+ts=18:37:32 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=1
+ts=18:37:37 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=9
+ts=18:38:06 | fn=EMBELLISH | prompt="Embellish this sentence: dogHeros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=13
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=5
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=35
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=9
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=1
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=21
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=17
+ts=18:38:14 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=35
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=9
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=5
+ts=18:38:15 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=13
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=17
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=1
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=21
+ts=18:38:22 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:22 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=13
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=21
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=9
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=17
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=35
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=21
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=9
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=1
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=1
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=35
+ts=18:38:28 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=5
+ts=18:38:28 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=13
+ts=18:38:29 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=17
+ts=18:38:31 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=5
+ts=18:38:33 | fn=EMBELLISH | prompt="Embellish this sentence: dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:38:39 | fn=EMBELLISH | prompt="Embellish this sentence: dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=17
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=35
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=5
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=21
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=9
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=1
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=13
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=21
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=13
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=35
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=9
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=35
+ts=18:39:18 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=1
+ts=18:39:18 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=9
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=1
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:39:19 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=21
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=13
+ts=18:39:23 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:40 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=13
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=17
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=1
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:39:44 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=13
+ts=18:39:44 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=35
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=1
+ts=18:39:45 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=17
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=5
+ts=18:39:45 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=21
+ts=18:39:45 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=5
+ts=18:39:47 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=21
+ts=18:39:49 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=35
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=35
+ts=18:39:57 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=17
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=13
+ts=18:39:57 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=5
+ts=18:39:57 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=9
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=17
+ts=18:40:02 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=5
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=35
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=35
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=17
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=9
+ts=18:40:03 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=21
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=13
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=13
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=9
+ts=18:40:05 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=21
+ts=18:40:08 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=5
+ts=18:40:08 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=21
+ts=18:43:05 | fn=ALTERNATIVES | prompt="alternative ways to say "dog"" | length=5
+ts=18:43:55 | fn=ANTONYMS | prompt="antonyms of "dog"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "mutt"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "canine"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "fido"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "pooch"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "hound"" | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[dog]"" | length=5
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of "#ERROR!"" | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "hamster"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "horse"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "rabbit"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "parrot"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "cat"" | length=1
+ts=18:44:46 | fn=ANTONYMS | prompt="antonyms of "horse"" | length=1
+ts=18:45:06 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[farm]"" | length=5
+ts=18:45:17 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[the movies]"" | length=5
+ts=18:45:27 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[places like the movies]"" | length=5
+ts=18:45:43 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[settings such as the movies]"" | length=5
+ts=18:45:50 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[settings such as the park]"" | length=5
+ts=18:46:29 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[tax evasion]"" | length=5
+ts=18:46:37 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[high crimes]"" | length=5
+ts=18:47:20 | fn=EMBELLISH | prompt="Embellish this sentence: a dog vs a cat at the " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:52 | fn=EMBELLISH | prompt="Embellish this sentence: the hero dog vs a cat at the settings such as the park to save the world from high crimes" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero hamster vs a predator at the playground to save the world from felonies" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero horse vs a donkey at the botanical garden to save the world from violations" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero rabbit vs a predator at the zoo to save the world from infractions" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero cat vs a dog at the garden to save the world from misdemeanors" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero parrot vs a predator at the picnic area to save the world from offences" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:48:46 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:29 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:30 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:48 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:00 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:04 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:04 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=19:01:06 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=19:01:13 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=19:01:26 | fn=TTI | prompt="End of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=19:01:40 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
