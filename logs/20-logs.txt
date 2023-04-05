@@ -1,0 +1,292 @@
+ts=18:56:52 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=17
+ts=18:56:52 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=1
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=9
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=1
+ts=18:56:52 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=1
+ts=18:56:52 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=9
+ts=18:56:52 | fn=ANTONYMS | prompt="antonyms of "happy"" | length=5
+ts=18:56:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=9
+ts=18:56:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=17
+ts=18:56:53 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=5
+ts=18:56:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=21
+ts=18:56:53 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=17
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=18:56:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:53 | fn=SYNONYMS | prompt="synonyms of "happy"" | length=5
+ts=18:56:53 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=5
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=21
+ts=18:56:54 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=17
+ts=18:56:54 | fn=GPT_LIST | prompt="types of animals" | length=3
+ts=18:56:54 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=21
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=18:56:54 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[#ERROR!,,]"" | length=5
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=5
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=1
+ts=18:56:54 | fn=EMBELLISH | prompt="Embellish this sentence: dog running on a hill" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:56:54 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:54 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=5
+ts=18:56:55 | fn=ALTERNATIVES | prompt="alternative ways to say "dog running on a hill"" | length=5
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=18:56:55 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=5
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=18:56:55 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:55 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=5
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=21
+ts=18:56:55 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=18:56:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=18:56:56 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=17
+ts=18:56:56 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=9
+ts=18:56:56 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=18:56:56 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=21
+ts=18:56:56 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=1
+ts=18:56:56 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=1
+ts=18:56:57 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=18:56:57 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=9
+ts=18:56:58 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="deer on a river" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="frogs on a river" | seed=1234 | cfg=13
+ts=18:56:58 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[lion,tiger,leopard]"" | length=5
+ts=18:56:58 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=18:56:58 | fn=TTI | prompt="cats on a river" | seed=1234 | cfg=13
+ts=18:56:59 | fn=TTI | prompt="horses on a river" | seed=1234 | cfg=13
+ts=18:56:59 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=18:56:59 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=18:56:59 | fn=TTI | prompt="dogs on a river" | seed=1234 | cfg=13
+ts=19:14:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=19:14:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=19:14:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=19:14:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=19:14:55 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=17
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=1
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=17
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=21
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=21
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=5
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=9
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=9
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=17
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=1
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=5
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=9
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=9
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=19:14:57 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=1
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=5
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=1
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=17
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=21
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=21
+ts=19:14:58 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=5
+ts=19:19:17 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=8
+ts=19:19:17 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=8
+ts=19:19:17 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=8
+ts=19:19:17 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=8
+ts=19:19:17 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=8
+ts=19:20:29 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=13
+ts=19:21:28 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=8
+ts=19:21:33 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1111 | cfg=13
+ts=19:21:38 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=2222 | cfg=13
+ts=19:21:42 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=3333 | cfg=13
+ts=19:21:47 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=4444 | cfg=13
+ts=19:21:47 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=8
+ts=19:21:47 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=8
+ts=19:21:52 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=5555 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1111 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1111 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=2222 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=3333 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=4444 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=2222 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=5555 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=4444 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=3333 | cfg=13
+ts=19:21:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=5555 | cfg=13
+ts=19:22:45 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=8
+ts=19:22:45 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=8
+ts=19:22:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=11
+ts=19:22:58 | fn=TTI | prompt="portrait, side profile of a woman with green hair" | seed=1234 | cfg=15
+ts=19:28:37 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt="cats on a river" | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:37 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=19:28:38 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="frogs on a river" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt="deer on a river" | seed=1234 | cfg=13
+ts=19:28:38 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=19:28:38 | fn=TTI | prompt="horses on a river" | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:38 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:39 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=19:28:39 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:39 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:39 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=19:28:39 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="dogs on a river" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="frogs on a plain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="deer on a plain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="horses on a plain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="cats on a plain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="dogs on a plain" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=19:28:40 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=19:28:42 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=19:30:59 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[coral,jellyfish,sea cucumber,starfish]"" | length=5
+ts=19:31:42 | fn=DIVERGENTS | prompt="divergent words to "#NAME?"" | length=5
+ts=19:31:58 | fn=DIVERGENTS | prompt="divergent words to "suitcase"" | length=5
+ts=19:32:02 | fn=DIVERGENTS | prompt="divergent words to "suitcase"" | length=5
+ts=19:32:02 | fn=DIVERGENTS | prompt="divergent words to "suitcase"" | length=5
+ts=19:35:04 | fn=TTI | prompt="an octopus with a glittering backpack at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:09 | fn=TTI | prompt="an anemone with a glittering backpack at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:09 | fn=TTI | prompt="an crab with a glittering backpack at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:09 | fn=TTI | prompt="an clam with a glittering backpack at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:09 | fn=TTI | prompt="an seahorse with a glittering backpack at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an anemone with a glittering luggage at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an clam with a glittering carryall at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an octopus with a glittering luggage at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an seahorse with a glittering carryall at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an clam with a glittering luggage at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an seahorse with a glittering luggage at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an crab with a glittering duffel at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an crab with a glittering carryall at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an seahorse with a glittering duffel at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:15 | fn=TTI | prompt="an clam with a glittering trunk at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:20 | fn=TTI | prompt="an octopus with a glittering trunk at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:20 | fn=TTI | prompt="an octopus with a glittering carryall at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:20 | fn=TTI | prompt="an clam with a glittering duffel at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:20 | fn=TTI | prompt="an anemone with a glittering carryall at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:20 | fn=TTI | prompt="an crab with a glittering trunk at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:21 | fn=TTI | prompt="an anemone with a glittering duffel at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:21 | fn=TTI | prompt="an octopus with a glittering duffel at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:21 | fn=TTI | prompt="an anemone with a glittering trunk at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:21 | fn=TTI | prompt="an seahorse with a glittering trunk at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:35:21 | fn=TTI | prompt="an crab with a glittering luggage at the bottom of the ocean" | seed=1234 | cfg=13
+ts=19:42:51 | fn=TTI | prompt="debris strewn across a basketball court with brutalist futuristic buildings in the background and a hazy red sky" | seed=1234 | cfg=13
+ts=19:42:56 | fn=TTI | prompt="several crows sitting on the edge of a futuristic building made of stone, background is a red sunset" | seed=1234 | cfg=13
+ts=19:42:56 | fn=TTI | prompt="close-up of the side of a brutalistic mothershop cloaked in crimson fog" | seed=1234 | cfg=13
+ts=19:45:09 | fn=ALTERNATIVES | prompt="alternative ways to say "debris strewn across a basketball court with brutalist futuristic buildings in the background and a hazy red sky"" | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say "undefined"" | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:54 | fn=TTI | prompt="wreckage littering a hoops court, backed by stark sci-fi structures and a crimson haze" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="litter and remains covering a court for hoops, with looming brutalist structures in the distance and a hazy orange-red sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="scattered rubble on a basketball court, with brutalist architecture looming and a red misty sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="trash strewn about a basketball court, against a backdrop of bold futuristic buildings and a murky red sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="junk and debris cluttering a basketball arena, framed by futuristic brutalist edifices and a stifling reddish sky" | seed=1234 | cfg=13
+ts=19:46:26 | fn=ALTERNATIVES | prompt="alternative ways to say "close-up of the side of a brutalistic mothershop cloaked in crimson fog"" | length=5
+ts=19:46:26 | fn=ALTERNATIVES | prompt="alternative ways to say "several crows sitting on the edge of a futuristic building made of stone, background is a red sunset"" | length=5
+ts=19:46:57 | fn=ALTERNATIVES | prompt="alternative ways to say "close-up of the side of a brutalist mothership in the sky cloaked in crimson fog"" | length=5
+ts=19:46:57 | fn=TTI | prompt="close-up of the side of a brutalist mothership in the sky cloaked in crimson fog" | seed=1234 | cfg=13
+ts=19:47:24 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky" | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="On the edge of a modern stone building, there are several crows overlooking a red sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="A group of crows perched on the ledge of a modern stone building, against the backdrop of a crimson sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="Crows gathered on the edge of a futuristic stone building, highlighted by a red sunset in the background." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="Several crows sitting on the rim of a contemporary stone structure, set against a scarlet sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="A number of black crows perched on a stone ledge of a high-tech building, with a red sunset in the backdrop." | seed=1234 | cfg=13
+ts=19:48:29 | fn=ALTERNATIVES | prompt="alternative ways to say "artwork by zdzislaw beksinski"" | length=5
+ts=19:48:43 | fn=ALTERNATIVES | prompt="alternative ways to say "zdzislaw beksinski"" | length=5
+ts=19:49:39 | fn=GPT_LIST | prompt="names of polish artists" | length=5
+ts=19:50:07 | fn=GPT_LIST | prompt="names of polish painters" | length=5
+ts=19:51:41 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1234 | cfg=13
+ts=19:51:47 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2 | cfg=13
+ts=19:51:52 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=23423 | cfg=13
+ts=19:52:29 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=23423 | cfg=13
+ts=19:52:34 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=384234 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=3453 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1231 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2352 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=3453 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=23423 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=384234 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=2352 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=1231 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=384234 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=23423 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=3453 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=23423 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=2352 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=1231 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=1231 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=2352 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=2352 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=384234 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=3453 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=3453 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=384234 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=1231 | cfg=13
+ts=19:54:32 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1234 | cfg=13
+ts=19:55:55 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2352 | cfg=13
+ts=19:56:00 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=384234 | cfg=13
+ts=19:56:05 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1231 | cfg=13
