@@ -1,0 +1,53 @@
+ts=20:40:13 | fn=TTI | prompt="People living in a deserted building with cracked windows and concrete walls" | seed=1234 | cfg=13
+ts=20:42:40 | fn=TTI | prompt="People living in a deserted building with cracked windows and concrete walls" | seed=1234 | cfg=13
+ts=20:42:43 | fn=TTI | prompt="People sleeping in a deserted building with cracked windows and concrete walls" | seed=1234 | cfg=13
+ts=20:43:25 | fn=TTI | prompt="People sleeping in a deserted building with cracked windows and concrete walls" | seed=1234 | cfg=13
+ts=20:43:28 | fn=TTI | prompt="People working in an old deserted office building " | seed=1234 | cfg=13
+ts=20:44:12 | fn=TTI | prompt="People working in an old deserted office building " | seed=1234 | cfg=13
+ts=20:44:15 | fn=TTI | prompt="People walking in a street with old deserted buildings and broken roads, where aliens also roam" | seed=1234 | cfg=13
+ts=20:44:53 | fn=TTI | prompt="People walking in a street with old deserted buildings and broken roads, where aliens also roam" | seed=1234 | cfg=13
+ts=20:45:03 | fn=TTI | prompt="People walking in a street with old deserted buildings and broken roads, where aliens also roam" | seed=1234 | cfg=13
+ts=20:45:07 | fn=TTI | prompt="A street with old deserted buildings and broken roads, where aliens and people walk " | seed=1234 | cfg=13
+ts=20:46:24 | fn=TTI | prompt="A street with old deserted buildings and broken roads, where aliens and people walk " | seed=1234 | cfg=13
+ts=20:46:26 | fn=TTI | prompt="Aliens and humans walking on a cracked road with old buildings" | seed=1234 | cfg=13
+ts=20:47:06 | fn=TTI | prompt="Aliens and humans walking on a cracked road with old buildings" | seed=1234 | cfg=13
+ts=20:47:09 | fn=TTI | prompt="Aliens on a street" | seed=1234 | cfg=13
+ts=20:47:33 | fn=TTI | prompt="Aliens on a street" | seed=1234 | cfg=13
+ts=20:47:36 | fn=TTI | prompt="aliens and humans on a street" | seed=1234 | cfg=13
+ts=20:48:19 | fn=TTI | prompt="Aliens on a street" | seed=1234 | cfg=13
+ts=20:48:22 | fn=TTI | prompt="barren houses and buildings by the sea with trash on the beach" | seed=1234 | cfg=13
+ts=20:48:57 | fn=TTI | prompt="barren houses and buildings by the sea with trash on the beach" | seed=1234 | cfg=13
+ts=20:48:59 | fn=TTI | prompt="aliens walking around barren houses and buildings by the sea with trash on the beach" | seed=1234 | cfg=13
+ts=20:49:29 | fn=TTI | prompt="aliens walking around barren houses and buildings by the sea with trash on the beach" | seed=1234 | cfg=13
+ts=20:49:32 | fn=TTI | prompt="abandoned spacecraft by the sea" | seed=1234 | cfg=13
+ts=20:50:02 | fn=TTI | prompt="abandoned spacecraft by the sea" | seed=1234 | cfg=13
+ts=20:50:04 | fn=TTI | prompt="crashed spacecraft by the sea with aliens" | seed=1234 | cfg=13
+ts=20:51:38 | fn=SYNONYMS | prompt="synonyms of "road"" | length=5
+ts=20:53:05 | fn=ANTONYMS | prompt="divergent words to "shark"" | length=5
+ts=20:53:30 | fn=ALTERNATIVES | prompt="alternative ways to say "crashed spacecraft by the sea with aliens"" | length=5
+ts=20:53:51 | fn=TTI | prompt="aliens and humans on a street" | seed=1234 | cfg=13
+ts=20:54:00 | fn=TTI | prompt="extraterrestrial vehicle wrecked near ocean" | seed=1234 | cfg=13
+ts=20:54:11 | fn=TTI | prompt="extraterrestrial vehicle wrecked near ocean" | seed=1234 | cfg=13
+ts=20:54:23 | fn=TTI | prompt="alien spaceship collided near coast" | seed=1234 | cfg=13
+ts=20:54:23 | fn=TTI | prompt="crashed flying saucer at seaside with ETs" | seed=1234 | cfg=13
+ts=20:54:23 | fn=TTI | prompt="spacecraft accident near the sea with aliens" | seed=1234 | cfg=13
+ts=20:54:35 | fn=TTI | prompt="UFO wreck near shore with extraterrestrials" | seed=1234 | cfg=13
+ts=20:55:18 | fn=ALTERNATIVES | prompt="alternative ways to say "crashed spacecraft by the sea "" | length=5
+ts=20:55:19 | fn=TTI | prompt="crashed spacecraft by the sea " | seed=1234 | cfg=13
+ts=20:55:24 | fn=TTI | prompt="demolished flying saucer at the seaside" | seed=1234 | cfg=13
+ts=20:55:24 | fn=TTI | prompt="crushed shuttle alongside the beach" | seed=1234 | cfg=13
+ts=20:55:24 | fn=TTI | prompt="stranded rocket on the shore" | seed=1234 | cfg=13
+ts=20:55:24 | fn=TTI | prompt="downed spaceship near the ocean" | seed=1234 | cfg=13
+ts=20:55:24 | fn=TTI | prompt="wrecked aircraft by the coast" | seed=1234 | cfg=13
+ts=20:56:50 | fn=TTI | prompt="downed spaceship near the ocean" | seed=1234 | cfg=13
+ts=20:56:58 | fn=TTI | prompt="crashed spacecraft by the sea  with a shark with a lion" | seed=1234 | cfg=13
+ts=20:57:14 | fn=TTI | prompt="crashed spacecraft by the sea  with a shark with a lion with a tiger" | seed=1234 | cfg=13
+ts=20:57:48 | fn=TTI | prompt="crashed spacecraft by the sea " | seed=1234 | cfg=13
+ts=20:57:48 | fn=TTI | prompt="crashed spacecraft by the sea " | seed=1234 | cfg=13
+ts=20:57:54 | fn=TTI | prompt="crashed spacecraft by the sea  with a shark with a lion with a tiger" | seed=1234 | cfg=13
+ts=20:57:54 | fn=TTI | prompt="crashed spacecraft by the sea  with a shark with a lion" | seed=1234 | cfg=13
+ts=20:58:05 | fn=TTI | prompt="crashed spacecraft by the sea  with a lion" | seed=1234 | cfg=13
+ts=20:58:31 | fn=TTI | prompt="crashed spacecraft by the sea  with a leopard" | seed=1234 | cfg=13
+ts=20:58:31 | fn=TTI | prompt="crashed spacecraft by the sea  with a tiger" | seed=1234 | cfg=13
+ts=20:58:36 | fn=TTI | prompt="crashed spacecraft by the sea  with a crocodile" | seed=1234 | cfg=13
+ts=20:58:37 | fn=TTI | prompt="crashed spacecraft by the sea  with a eagle" | seed=1234 | cfg=13

@@ -1,0 +1,70 @@
+ts=14:19:05 | fn=TTI | prompt="apocalytic rust colored city street view" | seed=1234 | cfg=13
+ts=14:19:44 | fn=ALTERNATIVES | prompt="alternative ways to say "apocalyptic"" | length=5
+ts=14:20:05 | fn=TTI | prompt="apocalytic rust colored city street view" | seed=1234 | cfg=13
+ts=14:20:20 | fn=TTI | prompt="apocalytic rust colored city street" | seed=1234 | cfg=13
+ts=14:20:38 | fn=TTI | prompt="apocalyptic rust colored city street" | seed=1234 | cfg=13
+ts=14:21:20 | fn=SYNONYMS | prompt="synonyms of "rust colored"" | length=5
+ts=14:21:29 | fn=SYNONYMS | prompt="synonyms of "dark rust colored"" | length=5
+ts=14:22:59 | fn=TTI | prompt="cataclysmic maroon city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic rusty city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic burgundy city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic auburn city street" | seed=1234 | cfg=13
+ts=14:23:05 | fn=TTI | prompt="cataclysmic mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="disastrous mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world burgundy city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world mahogany city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="doomsday rusty city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="disastrous maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic rusty city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="doomsday maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="end-of-the-world maroon city street" | seed=1234 | cfg=13
+ts=14:23:11 | fn=TTI | prompt="catastrophic auburn city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="catastrophic burgundy city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="end-of-the-world rusty city street" | seed=1234 | cfg=13
+ts=14:23:15 | fn=TTI | prompt="doomsday burgundy city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="end-of-the-world auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous rusty city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="doomsday mahogany city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="doomsday auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous auburn city street" | seed=1234 | cfg=13
+ts=14:23:16 | fn=TTI | prompt="disastrous burgundy city street" | seed=1234 | cfg=13
+ts=14:23:17 | fn=TTI | prompt="catastrophic mahogany city street" | seed=1234 | cfg=13
+ts=14:24:12 | fn=TTI | prompt="humans scavenging for food in a wasteland" | seed=1234 | cfg=13
+ts=14:25:14 | fn=EMBELLISH | prompt="Embellish this sentence: humans scavenging for food in a wasteland" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=14:25:34 | fn=TTI | prompt="
+
+Humans scavenging for food in a desolate wasteland, their spirits undaunted despite the harsh conditions." | seed=1234 | cfg=13
+ts=14:26:12 | fn=DIVERGENTS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:31 | fn=DIVERGENTS | prompt="divergent words to "foggy"" | length=5
+ts=14:26:46 | fn=DIVERGENTS | prompt="divergent words to "polluted"" | length=5
+ts=14:27:02 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:27:32 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:28:15 | fn=TTI | prompt="humans scavenging in a contaminated wasteland" | seed=1234 | cfg=13
+ts=14:28:21 | fn=TTI | prompt="humans scavenging in a dirty wasteland" | seed=1234 | cfg=13
+ts=14:28:21 | fn=TTI | prompt="humans scavenging in a tainted wasteland" | seed=1234 | cfg=13
+ts=14:28:26 | fn=TTI | prompt="humans scavenging in a impure wasteland" | seed=1234 | cfg=13
+ts=14:28:26 | fn=TTI | prompt="humans scavenging in a fouled wasteland" | seed=1234 | cfg=13
+ts=14:28:57 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with orange smog" | seed=1234 | cfg=13
+ts=14:29:02 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a impure wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a tainted wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:07 | fn=TTI | prompt="humans scavenging in a dirty wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:29:14 | fn=TTI | prompt="humans scavenging in a fouled wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:30:25 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with dark orange smog" | seed=1234 | cfg=13
+ts=14:30:30 | fn=TTI | prompt="humans scavenging in a contaminated wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:36 | fn=TTI | prompt="humans scavenging in a dirty wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:36 | fn=TTI | prompt="humans scavenging in a tainted wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:42 | fn=TTI | prompt="humans scavenging in a fouled wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:30:42 | fn=TTI | prompt="humans scavenging in a impure wasteland with rust-colored smog" | seed=1234 | cfg=13
+ts=14:31:17 | fn=TTI | prompt="disastrous rusty city street" | seed=1234 | cfg=13
+ts=14:31:46 | fn=TTI | prompt="gathering of people in a rundown abandoned building" | seed=1234 | cfg=13
+ts=14:32:29 | fn=SYNONYMS | prompt="synonyms of "polluted"" | length=5
+ts=14:33:26 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[rusty,contaminated,polluted]"" | length=3
+ts=14:33:49 | fn=SYNONYMS | prompt="synonyms of "building"" | length=5
+ts=14:35:21 | fn=TTI | prompt="gathering of people in a rusty buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a dirty buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a toxic buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a unhygienic buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:26 | fn=TTI | prompt="gathering of people in a contaminated buildingwith rust-colored smog" | seed=1234 | cfg=13
+ts=14:35:27 | fn=TTI | prompt="gathering of people in a polluted buildingwith rust-colored smog" | seed=1234 | cfg=13

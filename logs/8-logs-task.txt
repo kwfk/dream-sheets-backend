@@ -1,0 +1,448 @@
+ts=11:45:03 | fn=EMBELLISH | prompt="Embellish this sentence: A vibrant futuristic Seattle cityscape lush with many happy people" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:45:22 | fn=EMBELLISH | prompt="Embellish this sentence: A vibrant futuristic Seattle cityscape lush with many happy people. Things seem almost too perfect..." | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:46:29 | fn=EMBELLISH | prompt="Embellish this sentence: Aliens invade the vibrant futuristic Seattle cityscape, the sky turns a dark orange, rubble fills the streets, people are abducted" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:30 | fn=EMBELLISH | prompt="Embellish this sentence: The aliens find that invading the futuristic cityscape is too much effort, as the people's will to protect their city is too much to overcome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:36 | fn=EMBELLISH | prompt="Embellish this sentence: Aliens invade the futuristic Seattle cityscape, the sky turns a dark orange, rubble fills the streets, people are abducted" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:42 | fn=EMBELLISH | prompt="Embellish this sentence: The aliens find that invading the futuristic Seattle cityscape is too much effort, as the people's will to protect their city is too much to overcome" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=35
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=20
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=30
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=10
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=13
+ts=11:47:58 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=10
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=30
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=10
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=20
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=35
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=30
+ts=11:48:03 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=10
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=10
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=13
+ts=11:48:10 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=35
+ts=11:48:14 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=20
+ts=11:48:15 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=13
+ts=11:48:16 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=35
+ts=11:48:18 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=20
+ts=11:48:20 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=35
+ts=11:48:20 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=69 | cfg=35
+ts=11:48:21 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:48:21 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=20
+ts=11:48:23 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=35
+ts=11:48:24 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=77 | cfg=30
+ts=11:48:27 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=81 | cfg=30
+ts=11:48:27 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=48 | cfg=13
+ts=11:48:28 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:48:29 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:48:31 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=13
+ts=11:48:32 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:48:36 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:48:39 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=13
+ts=11:48:45 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=35
+ts=11:48:50 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=30
+ts=11:48:51 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=13
+ts=11:48:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=20
+ts=11:48:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=13
+ts=11:48:54 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=35
+ts=11:48:55 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=10
+ts=11:48:58 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=10
+ts=11:48:58 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=30
+ts=11:48:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=20
+ts=11:49:01 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=20
+ts=11:49:02 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=20
+ts=11:49:04 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=30
+ts=11:49:04 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=35
+ts=11:49:06 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=35
+ts=11:49:06 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=10
+ts=11:49:08 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:49:09 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=20
+ts=11:49:09 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=20
+ts=11:49:10 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=13
+ts=11:49:14 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=10
+ts=11:49:15 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=35
+ts=11:49:15 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=20
+ts=11:49:17 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=20
+ts=11:49:20 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=20
+ts=11:49:21 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=20
+ts=11:49:21 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=20
+ts=11:49:22 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=10
+ts=11:49:22 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=30
+ts=11:49:22 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=10
+ts=11:49:24 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=13
+ts=11:49:26 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=13
+ts=11:49:27 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=20
+ts=11:49:27 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=10
+ts=11:49:28 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=30
+ts=11:49:29 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=10
+ts=11:49:32 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=13
+ts=11:49:33 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=13
+ts=11:49:33 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=77 | cfg=30
+ts=11:49:34 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=30
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=30
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=35
+ts=11:49:38 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=52 | cfg=10
+ts=11:49:39 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=10
+ts=11:49:40 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=13
+ts=11:49:40 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=48 | cfg=35
+ts=11:49:43 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=13
+ts=11:49:43 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=30
+ts=11:49:45 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=35
+ts=11:49:45 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=30
+ts=11:49:45 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=81 | cfg=35
+ts=11:49:47 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=13
+ts=11:49:48 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=35
+ts=11:49:50 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=10
+ts=11:49:52 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=35
+ts=11:49:53 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=10
+ts=11:49:53 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=69 | cfg=30
+ts=11:49:53 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=52 | cfg=30
+ts=11:49:56 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=77 | cfg=13
+ts=11:49:56 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=81 | cfg=35
+ts=11:49:57 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=16 | cfg=10
+ts=11:49:57 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=30
+ts=11:49:58 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=10
+ts=11:49:58 | fn=TTI | prompt=" and panic ensues.
+
+As the aliens invade the futuristic Seattle cityscape, a terrifying orange hue casts a shadow over the skyline, the streets become filled with debris, and the once bustling city is thrown into chaos as people are abducted and panic ensues." | seed=69 | cfg=30
+ts=11:49:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=35
+ts=11:49:59 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=48 | cfg=35
+ts=11:50:01 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:50:01 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:50:12 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=10
+ts=11:50:12 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=16 | cfg=20
+ts=11:50:19 | fn=TTI | prompt="
+
+The sun shines brightly over the picturesque Seattle cityscape, with its vibrant, futuristic buildings and lush greenery. Everywhere, happy people laugh and chatter, and the atmosphere is one of contentment and joy. It almost seems too perfect to be real." | seed=52 | cfg=35
+ts=11:50:24 | fn=TTI | prompt=".
+
+The aliens find that invading the futuristic Seattle cityscape is a daunting task, for the people's unyielding determination to safeguard their beloved city is an indomitable force." | seed=16 | cfg=13
+ts=11:51:38 | fn=EMBELLISH | prompt="Embellish this sentence: People fill the streets of the Seattle cityscape as they overcome the aliens, who walk away in shame and disappointment as their ufo flies away" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=30
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=20
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=13
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=10
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=13
+ts=11:51:41 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=13
+ts=11:51:45 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=13
+ts=11:51:45 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=13
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=10
+ts=11:51:46 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=30
+ts=11:51:49 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=20
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=20
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=35
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=13
+ts=11:51:50 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=20
+ts=11:51:51 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=20
+ts=11:51:51 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=30
+ts=11:51:53 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=69 | cfg=35
+ts=11:51:53 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=35
+ts=11:51:55 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=35
+ts=11:51:55 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=30
+ts=11:51:56 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=20
+ts=11:51:56 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=35
+ts=11:51:58 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=52 | cfg=30
+ts=11:51:58 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=16 | cfg=35
+ts=11:51:59 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=81 | cfg=20
+ts=11:52:00 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=35
+ts=11:52:01 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=77 | cfg=13
+ts=11:52:01 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=48 | cfg=10
+ts=11:52:12 | fn=TTI | prompt=".
+
+People fill the streets of the Seattle cityscape in triumphant celebration as they overcome the aliens, who walk away in shame and disappointment as their ufo zooms away into the night sky." | seed=1234 | cfg=10

@@ -1,0 +1,454 @@
+ts=19:30:05 | fn=GPT_LIST | prompt="Species of dinosaurs" | length=3
+ts=19:30:54 | fn=GPT_LIST | prompt="Species of dinosaurs" | length=3
+ts=19:31:43 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=5
+ts=19:31:55 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=3
+ts=19:32:30 | fn=EMBELLISH | prompt="Embellish this sentence: Hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:32:33 | fn=EMBELLISH | prompt="Embellish this sentence: Rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:32:33 | fn=EMBELLISH | prompt="Embellish this sentence: Humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:33:08 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=5
+ts=19:33:17 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=19:37:36 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:37:36 | fn=EMBELLISH | prompt="Embellish this sentence: Humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=19:38:15 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest" | length=3
+ts=19:39:31 | fn=GPT_LIST | prompt="Species of dinosaurs plural" | length=3
+ts=19:39:44 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest plural" | length=3
+ts=19:40:00 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:40:05 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:40:05 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:42:19 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=1234 | cfg=13
+ts=19:42:29 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=1234 | cfg=13
+ts=19:42:35 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:42:40 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=58437543 | cfg=13
+ts=19:42:40 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=58437543 | cfg=13
+ts=19:42:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:42:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=567372 | cfg=13
+ts=19:42:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=567372 | cfg=13
+ts=19:42:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=19:43:58 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=19:44:26 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=19:45:51 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=19:45:59 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=21:18:45 | fn=GPT_LIST | prompt="types of animals" | length=3
+ts=21:18:45 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:45 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=5555 | cfg=20
+ts=21:18:45 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Rainy Tokyo, and Triceratopses are attacking while helpless humans who are trying to defend themselves with war clubs. The art style is Bora" | seed=567372 | cfg=13
+ts=21:18:45 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:45 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:45 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=35
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=5
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=17
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=1
+ts=21:18:46 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=4444 | cfg=35
+ts=21:18:46 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=5555 | cfg=35
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=13
+ts=21:18:46 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=5
+ts=21:18:46 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:46 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=58437543 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=5555 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=21
+ts=21:18:47 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=3333 | cfg=35
+ts=21:18:47 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=2222 | cfg=35
+ts=21:18:47 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=21:18:47 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=35
+ts=21:18:47 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:48 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=1
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=1
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=5
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1111 | cfg=20
+ts=21:18:48 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=5
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:48 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=4444 | cfg=35
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=5555 | cfg=35
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=21
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=13
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=5
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:49 | fn=GPT_LIST | prompt="Art style that matches the culture of Amazon rainforest" | length=3
+ts=21:18:49 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:49 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=17
+ts=21:18:50 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[#ERROR!,,]"" | length=5
+ts=21:18:50 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=21
+ts=21:18:50 | fn=SYNONYMS | prompt="synonyms of "happy"" | length=5
+ts=21:18:50 | fn=GPT_LIST | prompt="Popular vacation destinations" | length=8
+ts=21:18:50 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=17
+ts=21:18:51 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1234 | cfg=35
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=21
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=17
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=1
+ts=21:18:51 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:51 | fn=GPT_LIST | prompt="Typical weather in Amazon rainforest" | length=3
+ts=21:18:51 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:51 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=3333 | cfg=20
+ts=21:18:51 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1234 | cfg=35
+ts=21:18:51 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=17
+ts=21:18:52 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Hot Amazon rainforest, and Stegosauruses are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano.  summer days
+
+Hot summer days, with the sun shining brightly and the smell of freshly cut grass in the air." | seed=58437543 | cfg=13
+ts=21:18:52 | fn=ANTONYMS | prompt="antonyms of "happy"" | length=5
+ts=21:18:52 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=2222 | cfg=35
+ts=21:18:52 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=21:18:52 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=3333 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=13
+ts=21:18:52 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:52 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1111 | cfg=35
+ts=21:18:52 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:52 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=1111 | cfg=35
+ts=21:18:52 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=1111 | cfg=35
+ts=21:18:52 | fn=GPT_LIST | prompt="Weapons technology that originated in Amazon rainforest plural" | length=3
+ts=21:18:53 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=2222 | cfg=20
+ts=21:18:53 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=21:18:53 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=1234 | cfg=13
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=TTI | prompt="A moose eating a hamburger in the style of a 1970s film" | seed=3333 | cfg=35
+ts=21:18:53 | fn=TTI | prompt="Glowing neon cat eating a burrito" | seed=2222 | cfg=35
+ts=21:18:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:53 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=GPT_LIST | prompt="types of mythical creatures plural" | length=5
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=9
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=5
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=13
+ts=21:18:54 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=9
+ts=21:18:54 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:54 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=58437543 | cfg=13
+ts=21:18:54 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=4444 | cfg=20
+ts=21:18:54 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:55 | fn=ALTERNATIVES | prompt="alternative ways to say "dog running on a hill"" | length=5
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=1
+ts=21:18:55 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:55 | fn=TTI | prompt="Giant robot attacking a village in the sky" | seed=1234 | cfg=20
+ts=21:18:55 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:55 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=1234 | cfg=9
+ts=21:18:55 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=17
+ts=21:18:55 | fn=EMBELLISH | prompt="Embellish this sentence: dog running on a hill" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=1234 | cfg=35
+ts=21:18:56 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in Humid San Francisco, and Velociraptors are attacking while helpless humans who are trying to defend themselves with poison arrows. The art style is Huitoto" | seed=1234 | cfg=13
+ts=21:18:56 | fn=GPT_LIST | prompt="Species of dinosaurs plural" | length=3
+ts=21:18:56 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  Tokyo, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=567372 | cfg=13
+ts=21:18:56 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:56 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=21
+ts=21:18:57 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=9
+ts=21:18:57 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in  San Francisco, and  are attacking while helpless humans who are trying to defend themselves with . The art style is " | seed=567372 | cfg=13
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=5
+ts=21:18:57 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=1111 | cfg=35
+ts=21:18:57 | fn=TTI | prompt="dog running on a hill" | seed=2222 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=21
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=5555 | cfg=9
+ts=21:18:58 | fn=TTI | prompt="Fred conducting a user study on spreadsheets" | seed=4444 | cfg=35
+ts=21:18:58 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:58 | fn=TTI | prompt=" on a mountain" | seed=1234 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=4444 | cfg=1
+ts=21:18:58 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:58 | fn=TTI | prompt="dog running on a hill" | seed=3333 | cfg=9
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=TTI | prompt=" on a " | seed=1234 | cfg=13
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:18:59 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=21:18:59 | fn=TTI | prompt="horses on a ocean" | seed=1234 | cfg=13
+ts=21:18:59 | fn=TTI | prompt="deer on a ocean" | seed=1234 | cfg=13
+ts=21:18:59 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence: rainy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="dogs on a ocean" | seed=1234 | cfg=13
+ts=21:19:00 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:00 | fn=TTI | prompt="frogs on a plain" | seed=1234 | cfg=13
+ts=21:19:00 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[lion,tiger,bear]"" | length=5
+ts=21:19:00 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="cats on a valley" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="cats on a ocean" | seed=1234 | cfg=13
+ts=21:19:01 | fn=TTI | prompt="deer on a plain" | seed=1234 | cfg=13
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=TTI | prompt="horses on a plain" | seed=1234 | cfg=13
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:01 | fn=TTI | prompt="deer on a valley" | seed=1234 | cfg=13
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=TTI | prompt="deer on a desert" | seed=1234 | cfg=13
+ts=21:19:02 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=567372 | cfg=13
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:02 | fn=TTI | prompt="cats on a plain" | seed=1234 | cfg=13
+ts=21:19:02 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence: humid" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=TTI | prompt="horses on a valley" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=567372 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="cats on a desert" | seed=1234 | cfg=13
+ts=21:19:03 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:03 | fn=TTI | prompt="dogs on a plain" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:03 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and  are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=58437543 | cfg=13
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:04 | fn=TTI | prompt="frogs on a desert" | seed=1234 | cfg=13
+ts=21:19:04 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=TTI | prompt="dogs on a valley" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=TTI | prompt="horses on a desert" | seed=1234 | cfg=13
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:05 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=21:19:06 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:06 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=EMBELLISH | prompt="Embellish this sentence: hot" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:07 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and  are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=58437543 | cfg=13
+ts=21:19:07 | fn=TTI | prompt="frogs on a valley" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=TTI | prompt=" on a valley" | seed=1234 | cfg=13
+ts=21:19:08 | fn=TTI | prompt="frogs on a ocean" | seed=1234 | cfg=13
+ts=21:19:08 | fn=TTI | prompt="dogs on a desert" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=TTI | prompt="deer on a mountain" | seed=1234 | cfg=13
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence:  lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:08 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=1234 | cfg=13
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:09 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:10 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:11 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=58437543 | cfg=13
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=58437543 | cfg=13
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Paris" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:12 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:13 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:13 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto" | seed=567372 | cfg=13
+ts=21:19:13 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: mermaids lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:14 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=1234 | cfg=13
+ts=21:19:14 | fn=EMBELLISH | prompt="Embellish this sentence: phoenixes lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in California" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: dragons lining up to order sandwiches in Jamaica" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Mexico" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:15 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Bahamas" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo" | seed=567372 | cfg=13
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: griffins lining up to order sandwiches in Florida" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Thailand" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:16 | fn=EMBELLISH | prompt="Embellish this sentence: unicorns lining up to order sandwiches in Hawaii" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=21:19:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=567372 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Enchanting phoenixes were lining up to order delicious sandwiches in sunny California." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The crystal-clear waters of the Bahamas were abuzz with excitement as the mermaids lined up to order their favorite sandwiches from the beachside café." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The sight of dragons queuing up to purchase succulent sandwiches in the bustling streets of Thailand was a magical one." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Enchanting dragons lined up to order delicious sandwiches in the sunshine of California." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+Dragons, with their shimmering scales and majestic wings, lined up to order sandwiches in the sunny state of Florida." | seed=1234 | cfg=13
+ts=21:19:18 | fn=TTI | prompt="
+
+The sun shone brightly on the griffins as they lined up to order their favorite sandwiches in the bustling streets of Jamaica." | seed=1234 | cfg=13
+ts=21:19:19 | fn=TTI | prompt="
+
+The sun-kissed sky was alive with a kaleidoscope of colors as the majestic phoenixes lined up to order their favorite sandwiches in the vibrant streets of Mexico." | seed=1234 | cfg=13
+ts=21:19:19 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order sandwiches in the streets of Paris was truly enchanting." | seed=1234 | cfg=13
+ts=21:19:21 | fn=TTI | prompt="
+
+The sun shone brightly as the majestic unicorns lined up to order their favorite sandwiches in the bustling streets of California." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+Dragons, with their vibrant scales shimmering in the Mexican sun, lined up to order tantalizing sandwiches at the local café." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+The sun glinted off the majestic wings of the griffins as they lined up to order their favorite sandwiches in the tropical paradise of Hawaii." | seed=1234 | cfg=13
+ts=21:19:22 | fn=TTI | prompt="
+
+The magical sight of unicorns lining up to order their favorite sandwiches in the sunny streets of Jamaica was truly breathtaking." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+Enchanting phoenixes, their feathers glimmering in the sun, lined up to order delicious sandwiches in the beautiful Bahamas." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+On a sunny day in Florida, the sapphire-blue waters glittered as the mermaids lined up to order their favorite sandwiches from the beachside cafe." | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=1234 | cfg=13
+ts=21:19:23 | fn=TTI | prompt="
+
+A kaleidoscope of vibrant phoenixes were joyfully lining up to order their favorite sandwiches in Jamaica, each one more delicious than the last." | seed=1234 | cfg=13
+ts=21:19:24 | fn=TTI | prompt="
+
+The sight of majestic phoenixes lining up to order sandwiches in the bustling streets of Paris was truly a magical one." | seed=1234 | cfg=13
+ts=21:19:25 | fn=TTI | prompt="
+
+The enchanting sight of mermaids queuing up to purchase sandwiches in the romantic city of Paris was truly a magical experience." | seed=1234 | cfg=13
+ts=21:19:26 | fn=TTI | prompt="
+
+The brilliant phoenixes lined up in the Florida sunshine to order their favorite sandwiches." | seed=1234 | cfg=13
+ts=21:19:27 | fn=TTI | prompt="
+
+Mesmerized by the sight, the beachgoers watched in awe as the shimmering mermaids lined up to order their beloved sandwiches in sunny California." | seed=1234 | cfg=13
+ts=21:19:27 | fn=TTI | prompt="
+
+Mesmerizing mermaids, glistening in the Hawaiian sun, lined up to order their favorite sandwiches at the beach shack." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+The sun glinting off the scales of the mermaids as they queued up to order sandwiches in Mexico was a sight to behold." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+In a magical scene, a line of majestic unicorns could be seen queuing up for sandwiches in the Florida sunshine." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+The sun glinted off the majestic phoenixes as they lined up to order their tropical sandwiches in the balmy Hawaiian air." | seed=1234 | cfg=13
+ts=21:19:28 | fn=TTI | prompt="
+
+Enchanting mermaids were seen lining up to order delicious Jamaican sandwiches along the sun-kissed beaches of Jamaica." | seed=1234 | cfg=13
+ts=21:19:29 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in hot Amazon rainforest, and Tyrannosaurs are attacking while helpless humans who are trying to defend themselves with blowguns. The art style is Tukano. 
+
+Scorching hot!" | seed=58437543 | cfg=13
+ts=21:19:29 | fn=TTI | prompt="
+
+A magical scene unfolded in the Bahamas, with unicorns lining up to order sandwiches from the local café, their colorful manes shimmering in the sunlight." | seed=1234 | cfg=13
+ts=21:19:30 | fn=TTI | prompt="
+
+Dragons, with their scaly hides glistening in the Bahamian sun, lined up to order delicious sandwiches at the local cafe." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+Enchanting dragons lining up to order colorful Hawaiian sandwiches in the warm, sunny paradise of Hawaii was a truly magical sight." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The majestic sight of griffins lining up to order sandwiches in Mexico was truly a sight to behold." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The sight of griffins lining up to order sandwiches in sunny California was truly a magical one." | seed=1234 | cfg=13
+ts=21:19:32 | fn=TTI | prompt="
+
+The fantastical sight of mermaids lining up to order exotic sandwiches in the bustling streets of Thailand was a sight to behold." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The majestic griffins were seen lining up to order their favorite sandwiches in the charming streets of Paris." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The sight of dragons lining up to order sandwiches in Paris was truly a magical one, with the colorful scales of the dragons glistening in the afternoon sun." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+The majestic griffins lined up in the Bahamas, their wings shimmering in the bright sunlight, as they eagerly awaited their orders of succulent sandwiches." | seed=1234 | cfg=13
+ts=21:19:33 | fn=TTI | prompt="
+
+It was a surreal sight to behold - unicorns lining up to order sandwiches in Hawaii, their colorful manes blowing in the balmy ocean breeze." | seed=1234 | cfg=13
+ts=21:19:35 | fn=TTI | prompt="
+
+It was a magical sight to behold - rainbow-maned unicorns lining up to order delicious Thai sandwiches in the bustling streets of Bangkok." | seed=1234 | cfg=13
+ts=21:19:35 | fn=TTI | prompt="
+
+The majestic griffins lined up to order exotic sandwiches in the bustling streets of Thailand." | seed=1234 | cfg=13
+ts=21:19:36 | fn=TTI | prompt="
+
+The fantastical sight of unicorns lining up to order colorful sandwiches in Mexico was truly a sight to behold!" | seed=1234 | cfg=13
+ts=21:19:36 | fn=TTI | prompt="
+
+The sun was shining brightly on the griffins lining up to order sandwiches in Florida, their multicolored feathers shimmering in the light." | seed=1234 | cfg=13
+ts=21:19:37 | fn=TTI | prompt="
+
+Embellished, the sentence reads: On a sunny day in Jamaica, it was a sight to behold as the majestic dragons lined up to order their favorite sandwiches from the local shop." | seed=1234 | cfg=13
+ts=21:19:37 | fn=TTI | prompt="
+
+Hundreds of majestic phoenixes, their feathers glimmering in the Thai sun, lined up to order delicious sandwiches at the local market." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=1234 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=58437543 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=567372 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in humid San Francisco, and Stegosaurs are attacking while helpless humans who are trying to defend themselves with bows and arrows. The art style is Cubeo. 
+
+The air was thick and humid, making it difficult to breathe." | seed=567372 | cfg=13
+ts=21:20:17 | fn=TTI | prompt="This is a sci-fi apocalyptic movie directed by James Cameron but animated in a watercolor style. The scene is set in rainy Tokyo, and Triceratops are attacking while helpless humans who are trying to defend themselves with poison darts. The art style is Witoto. 
+
+The gentle pitter-patter of the rain was a soothing sound to behold on a dreary, rainy day." | seed=58437543 | cfg=13

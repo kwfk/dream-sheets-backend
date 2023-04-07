@@ -1,0 +1,697 @@
+ts=18:33:50 | fn=EMBELLISH | prompt="Embellish this sentence: Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:33:55 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:33:55 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:34:04 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=13
+ts=18:34:09 | fn=TTI | prompt="
+
+The victory was celebrated with great fanfare after the enemy was conquered." | seed=1234 | cfg=13
+ts=18:34:09 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:34:50 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=1
+ts=18:34:59 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:34:59 | fn=TTI | prompt="
+
+The victory was celebrated with great fanfare after the enemy was conquered." | seed=1234 | cfg=13
+ts=18:35:15 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy alients" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:35:17 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, filled with music, dancing, and fireworks that lit up the night sky." | seed=1234 | cfg=13
+ts=18:35:23 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:35:25 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=13
+ts=18:35:43 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=1
+ts=18:35:43 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=1
+ts=18:36:00 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=1
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=21
+ts=18:36:08 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=13
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=5
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=5
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=9
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=13
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=17
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=21
+ts=18:36:08 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=35
+ts=18:36:08 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was an unforgettable one filled with joy, pride, and exhilaration." | seed=1234 | cfg=35
+ts=18:36:12 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=17
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=5
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=21
+ts=18:36:13 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=35
+ts=18:36:13 | fn=TTI | prompt="
+
+The valiant team fearlessly invades the ship in a daring attempt to save the world." | seed=1234 | cfg=17
+ts=18:36:13 | fn=TTI | prompt="
+
+Heros witnessing an otherworldly alien space ship descending from the heavens above." | seed=1234 | cfg=13
+ts=18:37:24 | fn=EMBELLISH | prompt="Embellish this sentence: Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:25 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:25 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=17
+ts=18:37:27 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=13
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=5
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=9
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=21
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=13
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=9
+ts=18:37:27 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=35
+ts=18:37:27 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=21
+ts=18:37:27 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=35
+ts=18:37:31 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=21
+ts=18:37:31 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=5
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=13
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=5
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=17
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=1
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=17
+ts=18:37:32 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=35
+ts=18:37:32 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous occasion filled with music, dancing, and feasting." | seed=1234 | cfg=1
+ts=18:37:32 | fn=TTI | prompt="
+
+Heros witnessing an alien space ship descending from the sky, its glimmering lights illuminating the night sky, was a truly awe-inspiring sight." | seed=1234 | cfg=1
+ts=18:37:37 | fn=TTI | prompt="
+
+The courageous team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=9
+ts=18:38:06 | fn=EMBELLISH | prompt="Embellish this sentence: dogHeros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=13
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=5
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=35
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=9
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=1
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=21
+ts=18:38:08 | fn=TTI | prompt="
+
+DogHeros witnessed an awe-inspiring alien space ship soaring across the night sky, its glowing lights casting an ethereal glow over the city." | seed=1234 | cfg=17
+ts=18:38:14 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=35
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=9
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=5
+ts=18:38:15 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=EMBELLISH | prompt="Embellish this sentence: dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:15 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=13
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=17
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=1
+ts=18:38:16 | fn=TTI | prompt="
+
+The heroic dog witnessed an alien space ship, its eyes wide with awe and amazement." | seed=1234 | cfg=21
+ts=18:38:22 | fn=EMBELLISH | prompt="Embellish this sentence: Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:22 | fn=EMBELLISH | prompt="Embellish this sentence: Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=13
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=21
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=9
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=17
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=35
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=21
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=9
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=1
+ts=18:38:23 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=1
+ts=18:38:23 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=35
+ts=18:38:28 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=5
+ts=18:38:28 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=13
+ts=18:38:29 | fn=TTI | prompt="
+
+The brave team fearlessly invades the ship, determined to save the world from certain destruction." | seed=1234 | cfg=17
+ts=18:38:31 | fn=TTI | prompt="
+
+The celebration after conquering the enemy aliens was a joyous one, with music and dancing in the streets and fireworks lighting up the night sky." | seed=1234 | cfg=5
+ts=18:38:33 | fn=EMBELLISH | prompt="Embellish this sentence: dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:38:39 | fn=EMBELLISH | prompt="Embellish this sentence: dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:38:39 | fn=TTI | prompt="
+
+The heroic Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=17
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=35
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=5
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=21
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=9
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=1
+ts=18:38:45 | fn=TTI | prompt="
+
+The dog's victory was celebrated with great fanfare after conquering the enemy aliens!" | seed=1234 | cfg=13
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:12 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=21
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=13
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=35
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=9
+ts=18:39:14 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:39:14 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=35
+ts=18:39:18 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=1
+ts=18:39:18 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=9
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=1
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=5
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:39:19 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:39:19 | fn=TTI | prompt="
+
+The celebration after conquering enemy aliens was unreal - engine dogs barking, confetti raining down, and joy in the air!" | seed=1234 | cfg=21
+ts=18:39:19 | fn=TTI | prompt="
+
+Unreal Engine Dog Heros stood in awe, witnessing an alien space ship soaring through the night sky." | seed=1234 | cfg=13
+ts=18:39:23 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Dog Team fearlessly invades the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:38 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:40 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=13
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=17
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=35
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=13
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=1
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=1
+ts=18:39:40 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=9
+ts=18:39:40 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=5
+ts=18:39:44 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=13
+ts=18:39:44 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=21
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=35
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=1
+ts=18:39:45 | fn=TTI | prompt="
+
+The intrepid Unreal Engine Cartoon Dog Team fearlessly invaded the ship in a daring attempt to save the world!" | seed=1234 | cfg=17
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=17
+ts=18:39:45 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=5
+ts=18:39:45 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=21
+ts=18:39:45 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=5
+ts=18:39:47 | fn=TTI | prompt="
+
+The cartoon dog's celebration after conquering the enemy aliens was a surreal spectacle, made even more mesmerizing by the Unreal Engine's stunning visuals." | seed=1234 | cfg=21
+ts=18:39:49 | fn=TTI | prompt="
+
+The unreal engine cartoon dog Heros gasped in amazement as they witnessed an alien space ship soaring through the night sky." | seed=1234 | cfg=35
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Celebration after conquering enemy aliens" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Heros witnessing alien space ship" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:55 | fn=EMBELLISH | prompt="Embellish this sentence: unreal engine cartoon dog from UC Berkeley Team goes and invades ship to try and save the world" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=35
+ts=18:39:57 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=17
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=13
+ts=18:39:57 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=5
+ts=18:39:57 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=1
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=9
+ts=18:39:57 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=17
+ts=18:40:02 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=5
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=35
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=35
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=17
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=9
+ts=18:40:03 | fn=TTI | prompt="
+
+The unreal engine cartoon dog from UC Berkeley Celebration, having conquered the enemy aliens, was celebrated with a grand parade." | seed=1234 | cfg=21
+ts=18:40:03 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=13
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=13
+ts=18:40:03 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=9
+ts=18:40:05 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=21
+ts=18:40:08 | fn=TTI | prompt="
+
+The heroic, cartoon dog created by UC Berkeley's Team using the Unreal Engine boldly ventured forth and invaded the ship, determined to save the world!" | seed=1234 | cfg=5
+ts=18:40:08 | fn=TTI | prompt="
+
+The extraordinary sight of an alien space ship being witnessed by the UC Berkeley Heros' cartoon dog created with the Unreal Engine was truly a wonder to behold." | seed=1234 | cfg=21
+ts=18:43:05 | fn=ALTERNATIVES | prompt="alternative ways to say "dog"" | length=5
+ts=18:43:55 | fn=ANTONYMS | prompt="antonyms of "dog"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "mutt"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "canine"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "fido"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "pooch"" | length=1
+ts=18:43:59 | fn=ANTONYMS | prompt="antonyms of "hound"" | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[dog]"" | length=5
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of "#ERROR!"" | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:16 | fn=ANTONYMS | prompt="antonyms of """ | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "hamster"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "horse"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "rabbit"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "parrot"" | length=1
+ts=18:44:17 | fn=ANTONYMS | prompt="antonyms of "cat"" | length=1
+ts=18:44:46 | fn=ANTONYMS | prompt="antonyms of "horse"" | length=1
+ts=18:45:06 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[farm]"" | length=5
+ts=18:45:17 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[the movies]"" | length=5
+ts=18:45:27 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[places like the movies]"" | length=5
+ts=18:45:43 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[settings such as the movies]"" | length=5
+ts=18:45:50 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[settings such as the park]"" | length=5
+ts=18:46:29 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[tax evasion]"" | length=5
+ts=18:46:37 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[high crimes]"" | length=5
+ts=18:47:20 | fn=EMBELLISH | prompt="Embellish this sentence: a dog vs a cat at the " | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:52 | fn=EMBELLISH | prompt="Embellish this sentence: the hero dog vs a cat at the settings such as the park to save the world from high crimes" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero hamster vs a predator at the playground to save the world from felonies" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero horse vs a donkey at the botanical garden to save the world from violations" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero rabbit vs a predator at the zoo to save the world from infractions" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero cat vs a dog at the garden to save the world from misdemeanors" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:47:55 | fn=EMBELLISH | prompt="Embellish this sentence: the hero parrot vs a predator at the picnic area to save the world from offences" | n=undefined | temp=undefined | stop=undefined | max_tokens=undefined
+ts=18:48:46 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:03 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=1234 | cfg=13
+ts=18:49:25 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:29 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=1234 | cfg=13
+ts=18:49:30 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=1234 | cfg=13
+ts=18:49:48 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:49:53 | fn=TTI | prompt="Scene 1 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:49:59 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:00 | fn=TTI | prompt="Scene 3 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:04 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:04 | fn=TTI | prompt="Scene 2 of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:28 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:34 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic hamster bravely battled a menacing predator at the playground to save the world from its nefarious felonies!" | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic parrot fearlessly faced off against a menacing predator at the picnic area to valiantly save the world from any and all offenses." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic rabbit fearlessly faced off against a dangerous predator at the zoo, valiantly striving to save the world from the most heinous of infractions." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=18:50:40 | fn=TTI | prompt="End of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=19:01:06 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13
+ts=19:01:13 | fn=TTI | prompt="Middle of the movie: 
+
+The heroic dog bravely faced off against a menacing cat in the park, determined to save the world from the clutches of high crimes." | seed=25 | cfg=13
+ts=19:01:26 | fn=TTI | prompt="End of the movie: 
+
+The heroic cat valiantly faced off against a menacing dog in the garden, heroically attempting to save the world from its misdeeds." | seed=25 | cfg=13
+ts=19:01:40 | fn=TTI | prompt="Beginning of the movie: 
+
+The heroic horse galloped through the botanical garden, bravely facing off against the donkey in a bid to save the world from violations." | seed=25 | cfg=13

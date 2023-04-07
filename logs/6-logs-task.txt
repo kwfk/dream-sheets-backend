@@ -1,0 +1,275 @@
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1111 | cfg=20
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1111 | cfg=10
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1111 | cfg=1
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=3333 | cfg=30
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1234 | cfg=13
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1234 | cfg=1
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=2222 | cfg=1
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1234 | cfg=10
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=2222 | cfg=10
+ts=15:09:04 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=3333 | cfg=20
+ts=15:09:09 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=2222 | cfg=30
+ts=15:09:09 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=2222 | cfg=20
+ts=15:09:09 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=3333 | cfg=1
+ts=15:09:09 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=3333 | cfg=10
+ts=15:09:10 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1234 | cfg=30
+ts=15:09:10 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1111 | cfg=30
+ts=15:09:10 | fn=TTI | prompt="Aliens Coming out of the spaceship" | seed=1234 | cfg=20
+ts=15:09:37 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1234 | cfg=20
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1234 | cfg=30
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=3333 | cfg=20
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1234 | cfg=13
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1111 | cfg=10
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=2222 | cfg=10
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1234 | cfg=10
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=3333 | cfg=30
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1111 | cfg=20
+ts=15:09:38 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=3333 | cfg=1
+ts=15:09:44 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1111 | cfg=1
+ts=15:09:44 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1111 | cfg=30
+ts=15:09:45 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=3333 | cfg=10
+ts=15:09:45 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=2222 | cfg=30
+ts=15:09:45 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=1234 | cfg=1
+ts=15:09:46 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=2222 | cfg=20
+ts=15:09:46 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky" | seed=2222 | cfg=1
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=30
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=20
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=1
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=20
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=10
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=10
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=10
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=20
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=1
+ts=15:10:13 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=30
+ts=15:10:20 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=30
+ts=15:10:20 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=30
+ts=15:10:21 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=13
+ts=15:10:21 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=20
+ts=15:10:22 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=10
+ts=15:10:22 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=1
+ts=15:10:23 | fn=TTI | prompt="Aliens Coming out of the spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=1
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=30
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=30
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=1
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=30
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=13
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=10
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=20
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=30
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=1
+ts=15:11:02 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=1
+ts=15:11:06 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=20
+ts=15:11:06 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=10
+ts=15:11:07 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=20
+ts=15:11:07 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=3333 | cfg=10
+ts=15:11:07 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1234 | cfg=10
+ts=15:11:07 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=2222 | cfg=20
+ts=15:11:07 | fn=TTI | prompt="A spaceship in a dysoptian world, with  grey-brow hazy sky, with a view of space needle in seattle" | seed=1111 | cfg=1
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=3333 | cfg=30
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=3333 | cfg=1
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1111 | cfg=20
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=2222 | cfg=1
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1234 | cfg=10
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1111 | cfg=10
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=3333 | cfg=20
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1111 | cfg=30
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=2222 | cfg=20
+ts=15:11:39 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=3333 | cfg=10
+ts=15:11:45 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1234 | cfg=13
+ts=15:11:45 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1234 | cfg=1
+ts=15:11:45 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1234 | cfg=30
+ts=15:11:45 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1234 | cfg=20
+ts=15:11:45 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=2222 | cfg=10
+ts=15:11:46 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=2222 | cfg=30
+ts=15:11:46 | fn=TTI | prompt="A star-wars like spaceship in a dysoptian world, with  grey-brown hazy sky, with a view of space needle in seattle, not cartoonish" | seed=1111 | cfg=1
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=3333 | cfg=10
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1234 | cfg=13
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=2222 | cfg=30
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=2222 | cfg=20
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1111 | cfg=30
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=2222 | cfg=10
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=3333 | cfg=1
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1234 | cfg=10
+ts=15:12:28 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=2222 | cfg=1
+ts=15:12:29 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1234 | cfg=30
+ts=15:12:33 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1234 | cfg=1
+ts=15:12:34 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1234 | cfg=20
+ts=15:12:34 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1111 | cfg=20
+ts=15:12:34 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1111 | cfg=1
+ts=15:12:34 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=3333 | cfg=20
+ts=15:12:34 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=1111 | cfg=10
+ts=15:12:35 | fn=TTI | prompt="A realistic image of star-wars like spaceship in a dysoptian world, with grey-brown hazy sky and a view of space needle in seattle" | seed=3333 | cfg=30
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1111 | cfg=10
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1234 | cfg=20
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1234 | cfg=13
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=2222 | cfg=20
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=3333 | cfg=20
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1111 | cfg=30
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1234 | cfg=1
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1111 | cfg=1
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=2222 | cfg=1
+ts=15:13:09 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=3333 | cfg=10
+ts=15:13:14 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1234 | cfg=10
+ts=15:13:14 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=2222 | cfg=30
+ts=15:13:14 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=3333 | cfg=30
+ts=15:13:14 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=2222 | cfg=10
+ts=15:13:14 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1111 | cfg=20
+ts=15:13:15 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=1234 | cfg=30
+ts=15:13:15 | fn=TTI | prompt="A realistic image of a dysoptian world with star-wars like spaceship in grey-brown hazy sky behind the space needle in seattle" | seed=3333 | cfg=1
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=2222 | cfg=20
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1234 | cfg=10
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1234 | cfg=1
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1234 | cfg=30
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=2222 | cfg=10
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=2222 | cfg=30
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=2222 | cfg=1
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=3333 | cfg=1
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1111 | cfg=20
+ts=15:13:50 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1111 | cfg=1
+ts=15:13:54 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1111 | cfg=10
+ts=15:13:54 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=3333 | cfg=30
+ts=15:13:55 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1111 | cfg=30
+ts=15:13:55 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1234 | cfg=13
+ts=15:13:55 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=3333 | cfg=20
+ts=15:13:55 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=1234 | cfg=20
+ts=15:13:55 | fn=TTI | prompt="A realistic image of a dysoptian world with a spaceship in a hazy sky behind the space needle in seattle" | seed=3333 | cfg=10
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1234 | cfg=30
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1111 | cfg=20
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=2222 | cfg=10
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1111 | cfg=1
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=3333 | cfg=30
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1111 | cfg=30
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1234 | cfg=20
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=3333 | cfg=20
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=2222 | cfg=30
+ts=15:14:40 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1234 | cfg=13
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1234 | cfg=10
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=3333 | cfg=10
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=2222 | cfg=20
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=3333 | cfg=1
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1234 | cfg=1
+ts=15:14:45 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=1111 | cfg=10
+ts=15:14:46 | fn=TTI | prompt="a dysoptian world with a hazy sky" | seed=2222 | cfg=1
+ts=15:15:17 | fn=GPT_LIST | prompt="types of animals plural" | length=5
+ts=15:15:17 | fn=DIVERGENTS | prompt="divergent words to "mountain"" | length=4
+ts=15:15:48 | fn=DIVERGENTS | prompt="divergent words to "hazy"" | length=4
+ts=15:16:12 | fn=GPT_LIST | prompt="spaceship" | length=5
+ts=15:16:53 | fn=SYNONYMS | prompt="synonyms of "spaceship"" | length=5
+ts=15:18:21 | fn=DIVERGENTS | prompt="divergent words to "#ERROR!"" | length=4
+ts=15:18:21 | fn=DIVERGENTS | prompt="divergent words to "#ERROR!"" | length=4
+ts=15:18:21 | fn=DIVERGENTS | prompt="divergent words to "#REF!"" | length=4
+ts=15:18:22 | fn=DIVERGENTS | prompt="divergent words to "#REF!"" | length=4
+ts=15:18:23 | fn=DIVERGENTS | prompt="divergent words to "#REF!"" | length=4
+ts=15:18:58 | fn=TTI | prompt="dogs on a mountain" | seed=1234 | cfg=13
+ts=15:19:06 | fn=TTI | prompt="horses on a mountain" | seed=1234 | cfg=13
+ts=15:19:06 | fn=TTI | prompt="cats on a mountain" | seed=1234 | cfg=13
+ts=15:19:06 | fn=TTI | prompt="frogs on a mountain" | seed=1234 | cfg=13
+ts=15:19:21 | fn=TTI | prompt="A craft in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:19:33 | fn=TTI | prompt="A rocket in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:19:34 | fn=TTI | prompt="A shuttle in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:19:36 | fn=TTI | prompt="A vessel in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:04 | fn=TTI | prompt="A  in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:04 | fn=TTI | prompt="A  in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:04 | fn=TTI | prompt="A "spaceship" in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:04 | fn=TTI | prompt="A  in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:14 | fn=SYNONYMS | prompt="synonyms of "spaceship"" | length=3
+ts=15:20:24 | fn=DIVERGENTS | prompt="divergent words to "hazy"" | length=3
+ts=15:20:24 | fn=TTI | prompt="A craft in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:24 | fn=TTI | prompt="A shuttle in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:24 | fn=TTI | prompt="A vessel in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:41 | fn=TTI | prompt="A  in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:41 | fn=TTI | prompt="A spoaceship in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:41 | fn=TTI | prompt="A  in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:20:51 | fn=SYNONYMS | prompt="synonyms of "spaceship"" | length=3
+ts=15:20:51 | fn=TTI | prompt="A spaceship in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:21:01 | fn=TTI | prompt="A vessel in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:21:01 | fn=TTI | prompt="A craft in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:21:11 | fn=TTI | prompt="A module in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A craft in a dysoptian world with fuzzy sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A module in a dysoptian world with fuzzy sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A vessel in a dysoptian world with fuzzy sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A module in a dysoptian world with clear sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A spaceship in a dysoptian world with fuzzy sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A module in a dysoptian world with sharp sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A craft in a dysoptian world with sharp sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A vessel in a dysoptian world with clear sky" | seed=1234 | cfg=13
+ts=15:21:31 | fn=TTI | prompt="A spaceship in a dysoptian world with clear sky" | seed=1234 | cfg=13
+ts=15:21:37 | fn=TTI | prompt="A craft in a dysoptian world with clear sky" | seed=1234 | cfg=13
+ts=15:21:37 | fn=TTI | prompt="A spaceship in a dysoptian world with sharp sky" | seed=1234 | cfg=13
+ts=15:21:37 | fn=TTI | prompt="A vessel in a dysoptian world with sharp sky" | seed=1234 | cfg=13
+ts=15:21:56 | fn=TTI | prompt="A spaceship in a dysoptian world with hazy sky" | seed=1234 | cfg=13
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=2222 | cfg=10
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=3333 | cfg=20
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1234 | cfg=10
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1234 | cfg=30
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=3333 | cfg=1
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=3333 | cfg=30
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1111 | cfg=30
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=2222 | cfg=30
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=2222 | cfg=1
+ts=15:22:15 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1111 | cfg=20
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=2222 | cfg=20
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1234 | cfg=20
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1111 | cfg=10
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1234 | cfg=1
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=3333 | cfg=10
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1234 | cfg=13
+ts=15:22:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky" | seed=1111 | cfg=1
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1111 | cfg=10
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=3333 | cfg=20
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1234 | cfg=10
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=2222 | cfg=20
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1234 | cfg=30
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1234 | cfg=13
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1111 | cfg=30
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=3333 | cfg=1
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1234 | cfg=20
+ts=15:23:00 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1111 | cfg=20
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=3333 | cfg=10
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=2222 | cfg=1
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=2222 | cfg=10
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1234 | cfg=1
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=3333 | cfg=30
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=2222 | cfg=30
+ts=15:23:05 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle" | seed=1111 | cfg=1
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=20
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=30
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=1
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=10
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=13
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=1
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=30
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=10
+ts=15:24:25 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=20
+ts=15:24:43 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=2
+ts=15:24:43 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=2
+ts=15:24:49 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=3
+ts=15:24:49 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=3
+ts=15:24:49 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1111 | cfg=5
+ts=15:24:49 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a spaceship" | seed=1234 | cfg=5
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1111 | cfg=3
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1111 | cfg=1
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=1
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=5
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1111 | cfg=2
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=13
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=3
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=2
+ts=15:25:04 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1111 | cfg=5
+ts=15:25:45 | fn=ALTERNATIVES | prompt="alternative ways to say "a dysoptian world with a grey hazy sky behind space needle with a big spaceship"" | length=3
+ts=15:26:39 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1111 | cfg=2
+ts=15:26:51 | fn=TTI | prompt="A sci-fi cityscape with Space Needle standing amidst a gloomy sky and a gigantic spacecraft" | seed=1111 | cfg=2
+ts=15:26:51 | fn=TTI | prompt="An apocalyptic world where Space Needle stands tall amidst a dreary sky with a massive spaceship" | seed=1111 | cfg=2
+ts=15:26:51 | fn=TTI | prompt="A bleak future where Space Needle stands against a smoky sky with an enormous spaceship" | seed=1111 | cfg=2
+ts=15:27:39 | fn=ALTERNATIVES | prompt="alternative ways to say "a dysoptian world with a grey hazy sky behind space needle with a big spaceship crating a beam"" | length=3
+ts=15:27:39 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship crating a beam" | seed=1111 | cfg=2
+ts=15:27:44 | fn=TTI | prompt="a dystopian realm with a murky grey sky in the backdrop of the Space Needle and a colossal spaceship casting a laser" | seed=1111 | cfg=2
+ts=15:27:44 | fn=TTI | prompt="a desolate cosmos with a hazy dark sky behind the Space Needle and a massive spaceship producing a luminous beam" | seed=1111 | cfg=2
+ts=15:27:44 | fn=TTI | prompt="a bleak universe with a misty gray firmament behind the Space Needle while a massive spacecraft generates a beam" | seed=1111 | cfg=2
+ts=15:28:20 | fn=ALTERNATIVES | prompt="alternative ways to say "a dysoptian world with a grey hazy sky behind space needle with a big spaceship aliens coming out"" | length=3
+ts=15:28:20 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship aliens coming out" | seed=1111 | cfg=2
+ts=15:28:25 | fn=TTI | prompt="a post-apocalyptic world with a murky-grey atmosphere looming over the Space Needle and a colossal alien spaceship disgorging its otherworldly crew" | seed=1111 | cfg=2
+ts=15:28:25 | fn=TTI | prompt="a dystopian future where a Space Needle pierces a dingy, overcast sky and a massive UFO disgorges its interstellar passengers" | seed=1111 | cfg=2
+ts=15:28:25 | fn=TTI | prompt="a bleak futuristic cityscape with a misty gray sky towering over the Space Needle with an alien spacecraft descending" | seed=1111 | cfg=2
+ts=15:39:38 | fn=TTI | prompt="a dysoptian world with a grey hazy sky behind space needle with a big spaceship" | seed=1234 | cfg=35

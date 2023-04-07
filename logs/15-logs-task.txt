@@ -1,0 +1,352 @@
+ts=16:41:44 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different painting styles]"" | length=3
+ts=16:42:01 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different painting styles]"" | length=3
+ts=16:42:19 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different art movements]"" | length=3
+ts=16:42:27 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different art movements]"" | length=5
+ts=16:42:40 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different art movements]"" | length=5
+ts=16:42:48 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[art mediums]"" | length=5
+ts=16:43:05 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[image art mediums]"" | length=5
+ts=16:46:41 | fn=TTI | prompt="spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:46:50 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:46:50 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:46:50 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,charcoal,reporter on the streets of seattle with the ship overhead,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="reporter on the streets of seattle with the ship overhead,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,pastel,reporter on the streets of seattle with the ship overhead,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,paint,reporter on the streets of seattle with the ship overhead,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="reporter on the streets of seattle with the ship overhead,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,pencil,reporter on the streets of seattle with the ship overhead,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="reporter on the streets of seattle with the ship overhead,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:46:56 | fn=TTI | prompt="reporter on the streets of seattle with the ship overhead,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:47:27 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,charcoal,streetview of reporter in seattle,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="streetview of reporter in seattle,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="streetview of reporter in seattle,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,pencil,streetview of reporter in seattle,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,pastel,streetview of reporter in seattle,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,paint,streetview of reporter in seattle,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="streetview of reporter in seattle,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:47:28 | fn=TTI | prompt="streetview of reporter in seattle,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,pastel,streetview of reporter in seattle, spaceshit in the sky,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,pencil,streetview of reporter in seattle, spaceshit in the sky,pencil,spaceship entering atmosphere,Romanticism,pencil" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,paint,streetview of reporter in seattle, spaceshit in the sky,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,pastel,spaceship entering atmosphere,Impressionism,pastel" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,charcoal,streetview of reporter in seattle, spaceshit in the sky,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,paint,spaceship entering atmosphere,Cubism,paint" | seed=1234 | cfg=13
+ts=16:47:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,charcoal,spaceship entering atmosphere,Surrealism,charcoal" | seed=1234 | cfg=13
+ts=16:48:17 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[cinematic styles]"" | length=5
+ts=16:48:17 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:48:17 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:48:18 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism,digital post-production" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="spaceship entering atmosphere,Cubism,cinematography" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,digital post-production,streetview of reporter in seattle, spaceshit in the sky,digital post-production,spaceship entering atmosphere,Surrealism,digital post-production" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism,film-making techniques" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,cinematography,spaceship entering atmosphere,Cubism,cinematography" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,film-making techniques,streetview of reporter in seattle, spaceshit in the sky,film-making techniques,spaceship entering atmosphere,Romanticism,film-making techniques" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,cinematography,streetview of reporter in seattle, spaceshit in the sky,cinematography,spaceship entering atmosphere,Cubism,cinematography" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,sound design,spaceship entering atmosphere,Impressionism,sound design" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism,sound design" | seed=1234 | cfg=13
+ts=16:48:23 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,sound design,streetview of reporter in seattle, spaceshit in the sky,sound design,spaceship entering atmosphere,Impressionism,sound design" | seed=1234 | cfg=13
+ts=16:48:27 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,digital post-production,spaceship entering atmosphere,Surrealism,digital post-production" | seed=1234 | cfg=13
+ts=16:48:27 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,film-making techniques,spaceship entering atmosphere,Romanticism,film-making techniques" | seed=1234 | cfg=13
+ts=16:49:01 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[color schemes]"" | length=5
+ts=16:49:01 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:01 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,color combinations,spaceship entering atmosphere,Romanticism,color combinations" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,color variations,spaceship entering atmosphere,Surrealism,color variations" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,color blends,spaceship entering atmosphere,Impressionism,color blends" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,color palettes,spaceship entering atmosphere,Cubism,color palettes" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,color combinations,streetview of reporter in seattle, spaceshit in the sky,color combinations,spaceship entering atmosphere,Romanticism,color combinations" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,color blends,streetview of reporter in seattle, spaceshit in the sky,color blends,spaceship entering atmosphere,Impressionism,color blends" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="spaceship entering atmosphere,Cubism,color palettes" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism,color blends" | seed=1234 | cfg=13
+ts=16:49:02 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,color variations,streetview of reporter in seattle, spaceshit in the sky,color variations,spaceship entering atmosphere,Surrealism,color variations" | seed=1234 | cfg=13
+ts=16:49:03 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,color palettes,streetview of reporter in seattle, spaceshit in the sky,color palettes,spaceship entering atmosphere,Cubism,color palettes" | seed=1234 | cfg=13
+ts=16:49:07 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism,color combinations" | seed=1234 | cfg=13
+ts=16:49:08 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism,color variations" | seed=1234 | cfg=13
+ts=16:49:17 | fn=LIST_COMPLETION | prompt="similar items to this list without repeating "[different color combination color schemes]"" | length=5
+ts=16:49:18 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:18 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism,diverse tones" | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,mixed tints,spaceship entering atmosphere,Surrealism,mixed tints" | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,various shades,streetview of reporter in seattle, spaceshit in the sky,various shades,spaceship entering atmosphere,Cubism,various shades" | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,assorted hues,streetview of reporter in seattle, spaceshit in the sky,assorted hues,spaceship entering atmosphere,Romanticism,assorted hues" | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,various shades,spaceship entering atmosphere,Cubism,various shades" | seed=1234 | cfg=13
+ts=16:49:19 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,diverse tones,spaceship entering atmosphere,Impressionism,diverse tones" | seed=1234 | cfg=13
+ts=16:49:20 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,mixed tints,streetview of reporter in seattle, spaceshit in the sky,mixed tints,spaceship entering atmosphere,Surrealism,mixed tints" | seed=1234 | cfg=13
+ts=16:49:20 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism,assorted hues" | seed=1234 | cfg=13
+ts=16:49:20 | fn=TTI | prompt="spaceship entering atmosphere,Cubism,various shades" | seed=1234 | cfg=13
+ts=16:49:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,assorted hues,spaceship entering atmosphere,Romanticism,assorted hues" | seed=1234 | cfg=13
+ts=16:49:24 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,diverse tones,streetview of reporter in seattle, spaceshit in the sky,diverse tones,spaceship entering atmosphere,Impressionism,diverse tones" | seed=1234 | cfg=13
+ts=16:49:24 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism,mixed tints" | seed=1234 | cfg=13
+ts=16:49:52 | fn=GPT_LIST | prompt="different color combination color schemes" | length=5
+ts=16:49:52 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:52 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:52 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:52 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:52 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Surrealism," | seed=1234 | cfg=13
+ts=16:49:52 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:53 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,,streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Impressionism," | seed=1234 | cfg=13
+ts=16:49:53 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:53 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism," | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="spaceship entering atmosphere,Surrealism,complementary" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Cubism,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship entering atmosphere,Cubism,analogous" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="spaceship entering atmosphere,Romanticism,monochromatic" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="spaceship entering atmosphere,Cubism,analogous" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Surrealism,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,Surrealism,complementary" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,Romanticism,monochromatic" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Romanticism,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,Romanticism,monochromatic" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,Surrealism,complementary" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="spaceship entering atmosphere,Impressionism,split complementary" | seed=1234 | cfg=13
+ts=16:49:54 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,Impressionism,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,Impressionism,split complementary" | seed=1234 | cfg=13
+ts=16:49:58 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship entering atmosphere,Cubism,analogous" | seed=1234 | cfg=13
+ts=16:49:58 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,Impressionism,split complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=GPT_LIST | prompt="different art movements" | length=5
+ts=16:50:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,,monochromatic" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,,split complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="spaceship entering atmosphere,,complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,,monochromatic" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,,split complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="spaceship entering atmosphere,,monochromatic" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="spaceship entering atmosphere,,split complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,,complementary" | seed=1234 | cfg=13
+ts=16:50:28 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,,complementary" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="spaceship entering atmosphere,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,abstract expressionism,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship entering atmosphere,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="spaceship entering atmosphere,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,cubism,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="spaceship entering atmosphere,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,surrealism,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship entering atmosphere,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="spaceship entering atmosphere,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:50:34 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship entering atmosphere,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:50:38 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship entering atmosphere,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:50:39 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship entering atmosphere,impressionism,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship entering atmosphere,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="spaceship ufo in the sky,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="spaceship ufo in the sky,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship ufo in the sky,abstract expressionism,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship ufo in the sky,surrealism,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="spaceship ufo in the sky,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="spaceship ufo in the sky,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:51:06 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:51:12 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship ufo in the sky,impressionism,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:51:12 | fn=TTI | prompt="ship hover over city of seattle at night,spaceship ufo in the sky,cubism,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:51:31 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,surrealism,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,surrealism,monochromatic" | seed=1234 | cfg=13
+ts=16:51:31 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,abstract expressionism,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,abstract expressionism,complementary" | seed=1234 | cfg=13
+ts=16:51:31 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,cubism,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,cubism,split complementary" | seed=1234 | cfg=13
+ts=16:51:31 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,impressionism,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,impressionism,analogous" | seed=1234 | cfg=13
+ts=16:52:55 | fn=GPT_LIST | prompt="different color combination color schemes" | length=5
+ts=16:52:55 | fn=GPT_LIST | prompt="different art movements" | length=5
+ts=16:52:55 | fn=TTI | prompt="spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:55 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:52:56 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,," | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Complementary,spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Baroque,Complementary,streetview of reporter in seattle, spaceshit in the sky,Complementary,spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Analogous,spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Split-Complementary,spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Renaissance,Analogous,streetview of reporter in seattle, spaceshit in the sky,Analogous,spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Impressionism,Triad,streetview of reporter in seattle, spaceshit in the sky,Triad,spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:53:01 | fn=TTI | prompt="spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:53:05 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Triad,spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:53:05 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Surrealism,Split-Complementary,streetview of reporter in seattle, spaceshit in the sky,Split-Complementary,spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,,split complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="spaceship ufo in the sky,,monochromatic" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,,monochromatic" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,,complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=GPT_LIST | prompt="different filming angles" | length=5
+ts=16:53:33 | fn=TTI | prompt="spaceship ufo in the sky,,complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="spaceship ufo in the sky,,split complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,,split complementary" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,,monochromatic" | seed=1234 | cfg=13
+ts=16:53:33 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,,complementary" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="spaceship ufo in the sky,Medium shot,monochromatic" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Medium shot,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,Medium shot,monochromatic" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Wide shot,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,Wide shot,analogous" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,Medium shot,monochromatic" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Close-up,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,Wide shot,analogous" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="spaceship ufo in the sky,Wide shot,analogous" | seed=1234 | cfg=13
+ts=16:53:40 | fn=TTI | prompt="spaceship ufo in the sky,Over-the-shoulder shot,split complementary" | seed=1234 | cfg=13
+ts=16:53:45 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Over-the-shoulder shot,split complementary,streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,Over-the-shoulder shot,split complementary" | seed=1234 | cfg=13
+ts=16:53:45 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,split complementary,spaceship ufo in the sky,Over-the-shoulder shot,split complementary" | seed=1234 | cfg=13
+ts=16:55:56 | fn=GPT_LIST | prompt="color schemes" | length=5
+ts=16:55:56 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Over-the-shoulder shot,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:55:56 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:55:56 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Medium shot,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Medium shot," | seed=1234 | cfg=13
+ts=16:55:56 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Close-up," | seed=1234 | cfg=13
+ts=16:55:56 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Medium shot," | seed=1234 | cfg=13
+ts=16:55:56 | fn=TTI | prompt="spaceship ufo in the sky,Close-up," | seed=1234 | cfg=13
+ts=16:55:57 | fn=TTI | prompt="spaceship ufo in the sky,Medium shot," | seed=1234 | cfg=13
+ts=16:55:57 | fn=TTI | prompt="spaceship ufo in the sky,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:55:57 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Close-up,,streetview of reporter in seattle, spaceshit in the sky,,spaceship ufo in the sky,Close-up," | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="spaceship ufo in the sky,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,triadic,spaceship ufo in the sky,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="spaceship ufo in the sky,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Close-up,complementary,streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Medium shot,analogous,streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,complementary,spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:56:02 | fn=TTI | prompt="spaceship ufo in the sky,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:56:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,analogous,spaceship ufo in the sky,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:56:03 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Wide shot,monochromatic,streetview of reporter in seattle, spaceshit in the sky,monochromatic,spaceship ufo in the sky,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:56:03 | fn=TTI | prompt="ship in the sky over city of seattle at night,spaceship ufo in the sky,Over-the-shoulder shot,triadic,streetview of reporter in seattle, spaceshit in the sky,triadic,spaceship ufo in the sky,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="ship in the sky over city of seattle at night,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="ship in the sky over city of seattle at night,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="ship in the sky over city of seattle at night,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="ship in the sky over city of seattle at night,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:58:14 | fn=TTI | prompt="streetview of reporter in seattle, spaceshit in the sky,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Impressionism,Triad,streetview of reporter in seattle, spaceshit in the sky,Triad,spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Baroque,Complementary,streetview of reporter in seattle, spaceshit in the sky,Complementary,spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Surrealism,Split-Complementary,streetview of reporter in seattle, spaceshit in the sky,Split-Complementary,spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:58:51 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Renaissance,Analogous,streetview of reporter in seattle, spaceshit in the sky,Analogous,spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Surrealism,Split-Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Split-Complementary,spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Complementary,spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Analogous,spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Triad,spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Baroque,Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Complementary,spaceship ufo in the sky,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Renaissance,Analogous,streetview of reporter in seattle, spaceship ufo in the sky,Analogous,spaceship ufo in the sky,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:03 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky,Impressionism,Triad,streetview of reporter in seattle, spaceship ufo in the sky,Triad,spaceship ufo in the sky,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:59:07 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:59:08 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Split-Complementary,spaceship ufo in the sky,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous,streetview of reporter in seattle, spaceship ufo in the sky,Analogous,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,triadic" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,analogous" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:59:19 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Split-Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:59:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Analogous,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:20 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,monochromatic" | seed=1234 | cfg=13
+ts=16:59:24 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=16:59:25 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,complementary" | seed=1234 | cfg=13
+ts=16:59:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Triad,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:59:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Split-Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=16:59:25 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary" | seed=1234 | cfg=13
+ts=16:59:25 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad,streetview of reporter in seattle, spaceship ufo in the sky,Triad,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad" | seed=1234 | cfg=13
+ts=16:59:33 | fn=GPT_LIST | prompt="art movements" | length=5
+ts=16:59:33 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Medium shot," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Close-up," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot," | seed=1234 | cfg=13
+ts=16:59:33 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:59:34 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot," | seed=1234 | cfg=13
+ts=16:59:34 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up," | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=16:59:39 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=16:59:44 | fn=TTI | prompt="ufoi spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=16:59:44 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Split-Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Surrealism,Split-Complementary" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad,streetview of reporter in seattle, spaceship ufo in the sky,Triad,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Impressionism,Triad" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous,streetview of reporter in seattle, spaceship ufo in the sky,Analogous,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Renaissance,Analogous" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=17:00:04 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary,streetview of reporter in seattle, spaceship ufo in the sky,Complementary,spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Baroque,Complementary" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,Baroque" | seed=1234 | cfg=13
+ts=17:00:53 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,Renaissance" | seed=1234 | cfg=13
+ts=17:01:05 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:01:10 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:01:10 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:01:10 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:01:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:01:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:01:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:01:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:01:31 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:01:36 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:01:36 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:01:36 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,Baroque" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:02:07 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,Impressionism" | seed=1111 | cfg=13
+ts=17:02:08 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:02:08 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,Renaissance" | seed=1111 | cfg=13
+ts=17:02:08 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,Surrealism" | seed=1111 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Over-the-shoulder shot,Surrealism" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Medium shot,Baroque" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Wide shot,Renaissance" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Medium shot,Baroque" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Over-the-shoulder shot,Surrealism" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Close-up,Impressionism" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Wide shot,Renaissance" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="ufo spaceship in the night sky over the city seattle,Close-up,Impressionism" | seed=2343 | cfg=13
+ts=17:02:20 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Medium shot,Baroque" | seed=2343 | cfg=13
+ts=17:02:25 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Wide shot,Renaissance" | seed=2343 | cfg=13
+ts=17:02:25 | fn=TTI | prompt="streetview of reporter in seattle, spaceship ufo in the sky,Close-up,Impressionism" | seed=2343 | cfg=13
+ts=17:03:35 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=1234 | cfg=13
+ts=17:03:35 | fn=TTI | prompt="spaceship ufo in the sky, upper atmosphere, dramatic clouds, dusk,Over-the-shoulder shot,Surrealism" | seed=2343 | cfg=13

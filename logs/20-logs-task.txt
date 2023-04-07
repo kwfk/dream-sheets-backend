@@ -1,0 +1,62 @@
+ts=19:42:51 | fn=TTI | prompt="debris strewn across a basketball court with brutalist futuristic buildings in the background and a hazy red sky" | seed=1234 | cfg=13
+ts=19:42:56 | fn=TTI | prompt="several crows sitting on the edge of a futuristic building made of stone, background is a red sunset" | seed=1234 | cfg=13
+ts=19:42:56 | fn=TTI | prompt="close-up of the side of a brutalistic mothershop cloaked in crimson fog" | seed=1234 | cfg=13
+ts=19:45:09 | fn=ALTERNATIVES | prompt="alternative ways to say "debris strewn across a basketball court with brutalist futuristic buildings in the background and a hazy red sky"" | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say "undefined"" | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:14 | fn=ALTERNATIVES | prompt="alternative ways to say """ | length=5
+ts=19:45:54 | fn=TTI | prompt="wreckage littering a hoops court, backed by stark sci-fi structures and a crimson haze" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="litter and remains covering a court for hoops, with looming brutalist structures in the distance and a hazy orange-red sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="scattered rubble on a basketball court, with brutalist architecture looming and a red misty sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="trash strewn about a basketball court, against a backdrop of bold futuristic buildings and a murky red sky" | seed=1234 | cfg=13
+ts=19:46:02 | fn=TTI | prompt="junk and debris cluttering a basketball arena, framed by futuristic brutalist edifices and a stifling reddish sky" | seed=1234 | cfg=13
+ts=19:46:26 | fn=ALTERNATIVES | prompt="alternative ways to say "close-up of the side of a brutalistic mothershop cloaked in crimson fog"" | length=5
+ts=19:46:26 | fn=ALTERNATIVES | prompt="alternative ways to say "several crows sitting on the edge of a futuristic building made of stone, background is a red sunset"" | length=5
+ts=19:46:57 | fn=ALTERNATIVES | prompt="alternative ways to say "close-up of the side of a brutalist mothership in the sky cloaked in crimson fog"" | length=5
+ts=19:46:57 | fn=TTI | prompt="close-up of the side of a brutalist mothership in the sky cloaked in crimson fog" | seed=1234 | cfg=13
+ts=19:47:24 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze" | seed=1234 | cfg=13
+ts=19:47:29 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky" | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="On the edge of a modern stone building, there are several crows overlooking a red sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="A group of crows perched on the ledge of a modern stone building, against the backdrop of a crimson sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="Crows gathered on the edge of a futuristic stone building, highlighted by a red sunset in the background." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="Several crows sitting on the rim of a contemporary stone structure, set against a scarlet sunset." | seed=1234 | cfg=13
+ts=19:47:35 | fn=TTI | prompt="A number of black crows perched on a stone ledge of a high-tech building, with a red sunset in the backdrop." | seed=1234 | cfg=13
+ts=19:48:29 | fn=ALTERNATIVES | prompt="alternative ways to say "artwork by zdzislaw beksinski"" | length=5
+ts=19:48:43 | fn=ALTERNATIVES | prompt="alternative ways to say "zdzislaw beksinski"" | length=5
+ts=19:49:39 | fn=GPT_LIST | prompt="names of polish artists" | length=5
+ts=19:50:07 | fn=GPT_LIST | prompt="names of polish painters" | length=5
+ts=19:51:41 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1234 | cfg=13
+ts=19:51:47 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2 | cfg=13
+ts=19:51:52 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=23423 | cfg=13
+ts=19:52:29 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=23423 | cfg=13
+ts=19:52:34 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=384234 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=3453 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1231 | cfg=13
+ts=19:52:46 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2352 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=3453 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=23423 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=384234 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=2352 | cfg=13
+ts=19:52:51 | fn=TTI | prompt="close-up shot of a brutalist-style mother ship veiled in crimson fog, artwork by Józef Chełmoński" | seed=1231 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=384234 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=23423 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=3453 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=23423 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=2352 | cfg=13
+ts=19:52:57 | fn=TTI | prompt="detailed image of imposing mothership's side in the sky shrouded in crimson haze, artwork by Leon Wyczółkowski" | seed=1231 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=1231 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=2352 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=2352 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=384234 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=3453 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=3453 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="closer look at the side of a brutalist mothership in the sky enveloped by crimson fog, artwork by Władysław Podkowiński" | seed=384234 | cfg=13
+ts=19:53:03 | fn=TTI | prompt="up-close view of the massive brutalist spaceship's flank floating amidst red fog in the sky, artwork by Tamara de Lempicka" | seed=1231 | cfg=13
+ts=19:54:32 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1234 | cfg=13
+ts=19:55:55 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=2352 | cfg=13
+ts=19:56:00 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=384234 | cfg=13
+ts=19:56:05 | fn=TTI | prompt="detailed view of brutalist spaceship's side surrounded by red mist in the sky, artwork by Jan Matejko" | seed=1231 | cfg=13

@@ -1,0 +1,412 @@
+ts=16:00:13 | fn=GPT_LIST | prompt="wasteland" | length=5
+ts=16:00:44 | fn=SYNONYMS | prompt="synonyms of "wasteland"" | length=5
+ts=16:01:47 | fn=TTI | prompt="desert area" | seed=1234 | cfg=13
+ts=16:01:53 | fn=TTI | prompt="ash area" | seed=1234 | cfg=13
+ts=16:01:53 | fn=TTI | prompt="dust area" | seed=1234 | cfg=13
+ts=16:01:53 | fn=TTI | prompt="ruins area" | seed=1234 | cfg=13
+ts=16:01:53 | fn=TTI | prompt="barren area" | seed=1234 | cfg=13
+ts=16:02:32 | fn=GPT_LIST | prompt="ruins" | length=5
+ts=16:02:32 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:32 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:32 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:32 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:38 | fn=TTI | prompt="Palmyra area" | seed=1234 | cfg=13
+ts=16:02:38 | fn=TTI | prompt="Machu Picchu area" | seed=1234 | cfg=13
+ts=16:02:38 | fn=TTI | prompt="Tikal area" | seed=1234 | cfg=13
+ts=16:02:38 | fn=TTI | prompt="Petra area" | seed=1234 | cfg=13
+ts=16:02:38 | fn=TTI | prompt="Chichen Itza area" | seed=1234 | cfg=13
+ts=16:02:50 | fn=SYNONYMS | prompt="synonyms of "ruins"" | length=5
+ts=16:02:51 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:51 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:51 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:51 | fn=TTI | prompt=" area" | seed=1234 | cfg=13
+ts=16:02:52 | fn=TTI | prompt="wreckage area" | seed=1234 | cfg=13
+ts=16:02:52 | fn=TTI | prompt="decay area" | seed=1234 | cfg=13
+ts=16:02:52 | fn=TTI | prompt="rubble area" | seed=1234 | cfg=13
+ts=16:02:52 | fn=TTI | prompt="remnants area" | seed=1234 | cfg=13
+ts=16:02:52 | fn=TTI | prompt="destruction area" | seed=1234 | cfg=13
+ts=16:03:24 | fn=TTI | prompt="wreckage area" | seed=56 | cfg=7
+ts=16:03:30 | fn=TTI | prompt="destruction area" | seed=56 | cfg=7
+ts=16:03:30 | fn=TTI | prompt="remnants area" | seed=56 | cfg=7
+ts=16:03:30 | fn=TTI | prompt="rubble area" | seed=56 | cfg=7
+ts=16:03:31 | fn=TTI | prompt="decay area" | seed=56 | cfg=7
+ts=16:04:30 | fn=TTI | prompt="wreckage" | seed=56 | cfg=7
+ts=16:04:35 | fn=TTI | prompt="rubble" | seed=56 | cfg=7
+ts=16:04:35 | fn=TTI | prompt="remnants" | seed=56 | cfg=7
+ts=16:04:35 | fn=TTI | prompt="destruction" | seed=56 | cfg=7
+ts=16:04:35 | fn=TTI | prompt="decay" | seed=56 | cfg=7
+ts=16:05:05 | fn=TTI | prompt="decay" | seed=56 | cfg=10
+ts=16:05:05 | fn=TTI | prompt="remnants" | seed=56 | cfg=10
+ts=16:05:05 | fn=TTI | prompt="rubble" | seed=56 | cfg=10
+ts=16:05:05 | fn=TTI | prompt="destruction" | seed=56 | cfg=10
+ts=16:05:05 | fn=TTI | prompt="wreckage" | seed=56 | cfg=10
+ts=16:06:02 | fn=SYNONYMS | prompt="synonyms of "invading"" | length=5
+ts=16:06:20 | fn=SYNONYMS | prompt="synonyms of "patrolling"" | length=5
+ts=16:08:29 | fn=TTI | prompt="aliens patrolling ruins" | seed=1 | cfg=10
+ts=16:08:44 | fn=TTI | prompt="aliens surveying ruins" | seed=1 | cfg=10
+ts=16:08:44 | fn=TTI | prompt="aliens monitoring ruins" | seed=1 | cfg=10
+ts=16:08:44 | fn=TTI | prompt="aliens policing ruins" | seed=1 | cfg=10
+ts=16:08:44 | fn=TTI | prompt="aliens watching ruins" | seed=1 | cfg=10
+ts=16:08:44 | fn=TTI | prompt="aliens guarding ruins" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens watching wreckage" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens monitoring destruction" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens guarding remnants" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens guarding wreckage" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens guarding rubble" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens policing decay" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens surveying rubble" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens policing remnants" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens policing destruction" | seed=1 | cfg=10
+ts=16:08:54 | fn=TTI | prompt="aliens surveying decay" | seed=1 | cfg=10
+ts=16:08:58 | fn=TTI | prompt="aliens surveying destruction" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens monitoring decay" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens surveying wreckage" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens policing wreckage" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens watching decay" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens guarding decay" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens surveying remnants" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens guarding destruction" | seed=1 | cfg=10
+ts=16:08:59 | fn=TTI | prompt="aliens watching rubble" | seed=1 | cfg=10
+ts=16:09:00 | fn=TTI | prompt="aliens patrolling rubble" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens patrolling decay" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens watching destruction" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens monitoring remnants" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens patrolling remnants" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens monitoring wreckage" | seed=1 | cfg=10
+ts=16:09:04 | fn=TTI | prompt="aliens monitoring rubble" | seed=1 | cfg=10
+ts=16:09:05 | fn=TTI | prompt="aliens watching remnants" | seed=1 | cfg=10
+ts=16:09:05 | fn=TTI | prompt="aliens patrolling wreckage" | seed=1 | cfg=10
+ts=16:09:06 | fn=TTI | prompt="aliens policing rubble" | seed=1 | cfg=10
+ts=16:09:06 | fn=TTI | prompt="aliens patrolling destruction" | seed=1 | cfg=10
+ts=16:10:18 | fn=TTI | prompt="aliens patrolling ruins on Earth" | seed=1 | cfg=10
+ts=16:10:25 | fn=TTI | prompt="aliens patrolling wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:25 | fn=TTI | prompt="aliens patrolling destruction on Earth" | seed=1 | cfg=10
+ts=16:10:25 | fn=TTI | prompt="aliens patrolling remnants on Earth" | seed=1 | cfg=10
+ts=16:10:25 | fn=TTI | prompt="aliens patrolling decay on Earth" | seed=1 | cfg=10
+ts=16:10:25 | fn=TTI | prompt="aliens patrolling rubble on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens watching ruins on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens monitoring decay on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens watching destruction on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens policing remnants on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens guarding ruins on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens policing wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens monitoring rubble on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens monitoring remnants on Earth" | seed=1 | cfg=10
+ts=16:10:30 | fn=TTI | prompt="aliens guarding wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:31 | fn=TTI | prompt="aliens guarding decay on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens guarding remnants on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens watching rubble on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens monitoring ruins on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens surveying decay on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens monitoring destruction on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens policing ruins on Earth" | seed=1 | cfg=10
+ts=16:10:35 | fn=TTI | prompt="aliens policing rubble on Earth" | seed=1 | cfg=10
+ts=16:10:36 | fn=TTI | prompt="aliens surveying rubble on Earth" | seed=1 | cfg=10
+ts=16:10:36 | fn=TTI | prompt="aliens guarding destruction on Earth" | seed=1 | cfg=10
+ts=16:10:36 | fn=TTI | prompt="aliens policing decay on Earth" | seed=1 | cfg=10
+ts=16:10:39 | fn=TTI | prompt="aliens surveying ruins on Earth" | seed=1 | cfg=10
+ts=16:10:40 | fn=TTI | prompt="aliens monitoring wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:40 | fn=TTI | prompt="aliens guarding rubble on Earth" | seed=1 | cfg=10
+ts=16:10:40 | fn=TTI | prompt="aliens watching remnants on Earth" | seed=1 | cfg=10
+ts=16:10:40 | fn=TTI | prompt="aliens policing destruction on Earth" | seed=1 | cfg=10
+ts=16:10:40 | fn=TTI | prompt="aliens surveying remnants on Earth" | seed=1 | cfg=10
+ts=16:10:41 | fn=TTI | prompt="aliens watching wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:42 | fn=TTI | prompt="aliens surveying wreckage on Earth" | seed=1 | cfg=10
+ts=16:10:42 | fn=TTI | prompt="aliens watching decay on Earth" | seed=1 | cfg=10
+ts=16:10:43 | fn=TTI | prompt="aliens surveying destruction on Earth" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens guarding rubble" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens guarding wreckage" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens policing decay" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens guarding remnants" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens policing destruction" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens surveying decay" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens monitoring destruction" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens surveying rubble" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens policing remnants" | seed=1 | cfg=10
+ts=16:11:00 | fn=TTI | prompt="aliens surveying ruins" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching wreckage" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens surveying destruction" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens guarding decay" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching decay" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens policing wreckage" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching ruins" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens monitoring decay" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens surveying wreckage" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens guarding destruction" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens surveying remnants" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching rubble" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens monitoring remnants" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching destruction" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens monitoring ruins" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens monitoring rubble" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens watching remnants" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens guarding ruins" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens policing rubble" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens policing ruins" | seed=1 | cfg=10
+ts=16:11:01 | fn=TTI | prompt="aliens monitoring wreckage" | seed=1 | cfg=10
+ts=16:11:02 | fn=TTI | prompt="aliens patrolling decay" | seed=1 | cfg=10
+ts=16:11:02 | fn=TTI | prompt="aliens patrolling rubble" | seed=1 | cfg=10
+ts=16:11:02 | fn=TTI | prompt="aliens patrolling remnants" | seed=1 | cfg=10
+ts=16:11:02 | fn=TTI | prompt="aliens patrolling destruction" | seed=1 | cfg=10
+ts=16:11:02 | fn=TTI | prompt="aliens patrolling wreckage" | seed=1 | cfg=10
+ts=16:11:03 | fn=TTI | prompt="aliens patrolling ruins" | seed=1 | cfg=10
+ts=16:12:10 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:12:10 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:12:10 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:12:11 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:12:11 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:12:11 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:12:11 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:12:11 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:12:11 | fn=SYNONYMS | prompt="synonyms of "ruins"" | length=5
+ts=16:12:11 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:12:12 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:12:15 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:12:15 | fn=TTI | prompt="aliens watching ruins" | seed=1 | cfg=10
+ts=16:12:15 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens monitoring ruins" | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens surveying ruins" | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:12:16 | fn=SYNONYMS | prompt="synonyms of "patrolling"" | length=5
+ts=16:12:16 | fn=TTI | prompt="aliens policing ruins" | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens patrolling ruins" | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:12:16 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:12:17 | fn=TTI | prompt="aliens guarding ruins" | seed=1 | cfg=10
+ts=16:12:17 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens policing remnants" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens monitoring destruction" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens watching wreckage" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens guarding decaying" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens surveying debris" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens surveying remnants" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens guarding wreckage" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens surveying decaying" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens policing debris" | seed=1 | cfg=10
+ts=16:12:20 | fn=TTI | prompt="aliens monitoring decaying" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens surveying destruction" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens policing wreckage" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens monitoring wreckage" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens patrolling debris" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens monitoring remnants" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens watching decaying" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens patrolling wreckage" | seed=1 | cfg=10
+ts=16:12:21 | fn=TTI | prompt="aliens monitoring debris" | seed=1 | cfg=10
+ts=16:12:22 | fn=TTI | prompt="aliens watching debris" | seed=1 | cfg=10
+ts=16:12:22 | fn=TTI | prompt="aliens policing destruction" | seed=1 | cfg=10
+ts=16:12:22 | fn=TTI | prompt="aliens policing decaying" | seed=1 | cfg=10
+ts=16:12:25 | fn=TTI | prompt="aliens watching remnants" | seed=1 | cfg=10
+ts=16:12:25 | fn=TTI | prompt="aliens guarding destruction" | seed=1 | cfg=10
+ts=16:12:25 | fn=TTI | prompt="aliens guarding remnants" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens surveying wreckage" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens guarding debris" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens watching destruction" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens patrolling decaying" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens patrolling remnants" | seed=1 | cfg=10
+ts=16:12:26 | fn=TTI | prompt="aliens patrolling destruction" | seed=1 | cfg=10
+ts=16:12:30 | fn=TTI | prompt="aliens policing destruction" | seed=1 | cfg=10
+ts=16:12:31 | fn=SYNONYMS | prompt="synonyms of "sheltering"" | length=5
+ts=16:12:37 | fn=SYNONYMS | prompt="synonyms of "camping"" | length=5
+ts=16:13:09 | fn=TTI | prompt="aliens policing ruined city" | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:09 | fn=SYNONYMS | prompt="synonyms of "ruined city"" | length=5
+ts=16:13:09 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens surveying ruined city" | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens guarding ruined city" | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:09 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens patrolling ruined city" | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens monitoring ruined city" | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens watching ruined city" | seed=1 | cfg=10
+ts=16:13:10 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:11 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:11 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:11 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:11 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:11 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:16 | fn=ALTERNATIVES | prompt="alternative ways to say "ruined city"" | length=5
+ts=16:13:18 | fn=TTI | prompt="aliens surveying decimated municipality" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens patrolling devastated town" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens policing waste settlement" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens guarding waste settlement" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens watching decimated municipality" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens guarding destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens guarding decimated municipality" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens watching collapsed urban center" | seed=1 | cfg=10
+ts=16:13:18 | fn=TTI | prompt="aliens monitoring devastated town" | seed=1 | cfg=10
+ts=16:13:19 | fn=TTI | prompt="aliens surveying destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens monitoring destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens patrolling collapsed urban center" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens monitoring decimated municipality" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens policing collapsed urban center" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens watching waste settlement" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens monitoring waste settlement" | seed=1 | cfg=10
+ts=16:13:23 | fn=TTI | prompt="aliens monitoring collapsed urban center" | seed=1 | cfg=10
+ts=16:13:24 | fn=TTI | prompt="aliens surveying collapsed urban center" | seed=1 | cfg=10
+ts=16:13:24 | fn=TTI | prompt="aliens policing destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:24 | fn=TTI | prompt="aliens surveying waste settlement" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens policing devastated town" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens guarding devastated town" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens surveying devastated town" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens watching destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens patrolling decimated municipality" | seed=1 | cfg=10
+ts=16:13:28 | fn=TTI | prompt="aliens patrolling waste settlement" | seed=1 | cfg=10
+ts=16:13:29 | fn=TTI | prompt="aliens guarding collapsed urban center" | seed=1 | cfg=10
+ts=16:13:30 | fn=TTI | prompt="aliens policing decimated municipality" | seed=1 | cfg=10
+ts=16:13:30 | fn=TTI | prompt="aliens watching devastated town" | seed=1 | cfg=10
+ts=16:13:30 | fn=TTI | prompt="aliens patrolling destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:39 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:39 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:40 | fn=ALTERNATIVES | prompt="alternative ways to say "ruined city"" | length=2
+ts=16:13:40 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens surveying " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:40 | fn=TTI | prompt="aliens monitoring " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens policing " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens guarding " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens watching " | seed=1 | cfg=10
+ts=16:13:41 | fn=TTI | prompt="aliens patrolling " | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens patrolling destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens monitoring destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens guarding devastated urban center" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens guarding destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens surveying devastated urban center" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens policing devastated urban center" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens watching destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens patrolling devastated urban center" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens policing destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens surveying destroyed metropolis" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens watching devastated urban center" | seed=1 | cfg=10
+ts=16:13:42 | fn=TTI | prompt="aliens monitoring devastated urban center" | seed=1 | cfg=10
+ts=16:14:13 | fn=TTI | prompt="humans patrolling in a ruined city" | seed=1 | cfg=10
+ts=16:14:29 | fn=TTI | prompt="humans camping in a ruined city" | seed=1 | cfg=10
+ts=16:14:34 | fn=TTI | prompt="humans camping in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:34 | fn=TTI | prompt="humans camping in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans bivouacking in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans caravanning in a ruined city" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans caravanning in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans outdoor living in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans tenting in a ruined city" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans backpacking in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans backpacking in a ruined city" | seed=1 | cfg=10
+ts=16:14:39 | fn=TTI | prompt="humans outdoor living in a ruined city" | seed=1 | cfg=10
+ts=16:14:40 | fn=TTI | prompt="humans backpacking in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:40 | fn=TTI | prompt="humans bivouacking in a ruined city" | seed=1 | cfg=10
+ts=16:14:44 | fn=TTI | prompt="humans caravanning in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:44 | fn=TTI | prompt="humans bivouacking in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:44 | fn=TTI | prompt="humans tenting in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:44 | fn=TTI | prompt="humans tenting in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:44 | fn=TTI | prompt="humans outdoor living in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:53 | fn=SYNONYMS | prompt="synonyms of "hiding"" | length=5
+ts=16:14:53 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans hiding in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans hiding in a ruined city" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:53 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:54 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:54 | fn=TTI | prompt="humans hiding in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:55 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:14:58 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:14:58 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:14:58 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:14:59 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:14:59 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans cover in a ruined city" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans obscuration in a ruined city" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans obscuration in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans cover in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans camouflage in a ruined city" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans concealment in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:04 | fn=TTI | prompt="humans concealment in a ruined city" | seed=1 | cfg=10
+ts=16:15:05 | fn=TTI | prompt="humans camouflage in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:05 | fn=TTI | prompt="humans obscuration in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:05 | fn=TTI | prompt="humans cover in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:08 | fn=TTI | prompt="humans secrecy in a ruined city" | seed=1 | cfg=10
+ts=16:15:09 | fn=TTI | prompt="humans secrecy in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:09 | fn=TTI | prompt="humans concealment in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:09 | fn=TTI | prompt="humans secrecy in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:09 | fn=TTI | prompt="humans camouflage in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:14 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:14 | fn=DIVERGENTS | prompt="divergent words to "hiding"" | length=5
+ts=16:15:14 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:14 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:14 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:14 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:14 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:15 | fn=TTI | prompt="humans  in a ruined city" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans secluding in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans concealing in a ruined city" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans veiling in a ruined city" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans masking in a ruined city" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans concealing in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans concealing in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans masking in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans disguising in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans veiling in a devastated urban center" | seed=1 | cfg=10
+ts=16:15:16 | fn=TTI | prompt="humans masking in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:27 | fn=TTI | prompt="humans secluding in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:27 | fn=TTI | prompt="humans veiling in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:27 | fn=TTI | prompt="humans secluding in a ruined city" | seed=1 | cfg=10
+ts=16:15:28 | fn=TTI | prompt="humans disguising in a destroyed metropolis" | seed=1 | cfg=10
+ts=16:15:28 | fn=TTI | prompt="humans disguising in a ruined city" | seed=1 | cfg=10
+ts=16:16:09 | fn=TTI | prompt="people huddled up around a fire in a ruined city" | seed=1234 | cfg=13
+ts=16:17:03 | fn=TTI | prompt="people huddled up around a fire in a ruined city" | seed=1234 | cfg=13
+ts=16:17:15 | fn=TTI | prompt="alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:18:10 | fn=SYNONYMS | prompt="synonyms of "red"" | length=5
+ts=16:19:03 | fn=TTI | prompt="red alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:12 | fn=TTI | prompt="crimson alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:12 | fn=TTI | prompt="scarlet alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:12 | fn=TTI | prompt="ruby alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:12 | fn=TTI | prompt="maroon alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:21 | fn=TTI | prompt="burgundy alien homeworld from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="maroon alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="ruby alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="crimson alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="red alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="burgundy alien planet from outer space" | seed=1234 | cfg=13
+ts=16:19:41 | fn=TTI | prompt="scarlet alien planet from outer space" | seed=1234 | cfg=13
+ts=16:20:55 | fn=TTI | prompt="red alien planet from outer space" | seed=1234 | cfg=13
