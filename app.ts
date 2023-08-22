@@ -37,7 +37,7 @@ const serveImage = (filepath: string, res: Response) => {
 };
 
 app.get("/", async (req, res) => {
-  const { prompt, seed: reqSeed, cfg: reqCFG } = req.query;
+  const { prompt, seed: reqSeed, cfg: reqCFG, id } = req.query;
   if (typeof prompt !== "string") {
     res.status(401).send("Need a prompt as a string");
     return;
@@ -53,6 +53,10 @@ app.get("/", async (req, res) => {
   if (cfg < 0 || cfg > 35) {
     res.status(401).send("CFG must be between 0 and 35");
   }
+  if (id && typeof id !== "string") {
+    res.status(401).send("ID should be a string");
+    return;
+  }
 
   const hash = md5(`seed=${seed}&cfg=${cfg}&${prompt}`);
   const imgUrl =
@@ -60,14 +64,14 @@ app.get("/", async (req, res) => {
   console.log(req.originalUrl, hash);
 
   // log
-  if (process.env.PARTICIPANT_ID) {
+  if (id) {
     const date = new Date(Date.now());
     const timestamp = date
       .toLocaleTimeString("en-US", { hour12: false })
       .toString();
 
     const log = `ts=${timestamp} | fn=TTI | prompt="${prompt}" | seed=${seed} | cfg=${cfg}\n`;
-    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+    fs.appendFile(`logs/${id}-logs.txt`, log, (err) => {
       if (err) console.log("failed to log TTI");
     });
   }
@@ -133,7 +137,7 @@ app.get("/", async (req, res) => {
 // });
 
 app.get("/gpt", async (req, res) => {
-  const { prompt, n, temperature, stop, max_tokens } = req.query;
+  const { prompt, n, temperature, stop, max_tokens, id } = req.query;
   console.log("gpt:", prompt);
   if (typeof prompt !== "string") {
     res.status(401).send("Need a prompt as a string");
@@ -159,8 +163,13 @@ app.get("/gpt", async (req, res) => {
     token_choice = parseInt(max_tokens);
   }
 
+  if (id && typeof id !== "string") {
+    res.status(401).send("ID should be a string");
+    return;
+  }
+
   // log
-  if (process.env.PARTICIPANT_ID) {
+  if (id) {
     const date = new Date(Date.now());
     const timestamp = date
       .toLocaleTimeString("en-US", { hour12: false })
@@ -173,7 +182,7 @@ app.get("/gpt", async (req, res) => {
       log = `ts=${timestamp} | fn=GPT | prompt="${prompt}" | n=${num_choices} | temp=${temp_choice} | stop=${stop_choice} | max_tokens=${token_choice}\n`;
     }
 
-    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+    fs.appendFile(`logs/${id}-logs.txt`, log, (err) => {
       if (err) console.log("failed to log GPT");
     });
   }
@@ -193,7 +202,7 @@ app.get("/gpt", async (req, res) => {
 });
 
 app.get("/listgpt", async (req, res) => {
-  const { prompt, length: reqLength } = req.query;
+  const { prompt, length: reqLength, id } = req.query;
   console.log("list gpt:", prompt);
   if (typeof prompt !== "string") {
     return res.status(401).send("Need a prompt as a string");
@@ -205,8 +214,13 @@ app.get("/listgpt", async (req, res) => {
     if (!Number.isNaN(n)) length = n;
   }
 
+  if (id && typeof id !== "string") {
+    res.status(401).send("ID should be a string");
+    return;
+  }
+
   // log
-  if (process.env.PARTICIPANT_ID) {
+  if (id) {
     const date = new Date(Date.now());
     const timestamp = date
       .toLocaleTimeString("en-US", { hour12: false })
@@ -227,7 +241,7 @@ app.get("/listgpt", async (req, res) => {
       log = `ts=${timestamp} | fn=GPT_LIST | prompt="${prompt}" | length=${length}\n`;
     }
 
-    fs.appendFile(`logs/${process.env.PARTICIPANT_ID}-logs.txt`, log, (err) => {
+    fs.appendFile(`logs/${id}-logs.txt`, log, (err) => {
       if (err) console.log("failed to log LIST_GPT");
     });
   }
