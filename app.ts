@@ -3,6 +3,7 @@ import dotenv from "dotenv";
 import path from "path";
 import fs from "fs";
 import md5 from "md5";
+import fetch from "node-fetch";
 import { generateImage } from "./stable-diffusion";
 import { GPT, ListGPT } from "./openai";
 
@@ -52,6 +53,7 @@ app.get("/", async (req, res) => {
   }
   if (cfg < 0 || cfg > 35) {
     res.status(401).send("CFG must be between 0 and 35");
+    return;
   }
   if (id && typeof id !== "string") {
     res.status(401).send("ID should be a string");
@@ -259,6 +261,35 @@ app.get("/listgpt", async (req, res) => {
     res.status(200).send(JSON.stringify(result));
   } catch (err) {
     console.error(err);
+    res.status(500).send(err);
+  }
+});
+
+app.get("/uptime", async (req, res) => {
+  try {
+    const response = await fetch("https://api.stability.ai/v1/user/balance", {
+      method: "GET",
+      headers: {
+        Authorization: `Bearer ${process.env.STABILITYAI_API_KEY}`,
+      },
+    });
+
+    const body = await response.json();
+    if (!response.ok) {
+      res.status(response.status).send(body);
+    } else {
+      const { credits } = body;
+      if (credits === undefined) {
+        res.status(500).send("Stability AI failed to give proper response");
+      } else if (credits >= 100) {
+        res.status(200).send(`I'm up with ${credits} credits!`);
+      } else {
+        res
+          .status(503)
+          .send(`Need more credits! Only ${credits} credits left.`);
+      }
+    }
+  } catch (err) {
     res.status(500).send(err);
   }
 });
